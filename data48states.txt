@@ -1,0 +1,101 @@
+{
+    "cities": [
+        {
+            "id": "Trento",
+            "gps": [
+                100,
+                100
+            ]
+        },
+        {
+            "id": "Folgaria",
+            "gps": [
+                200,
+                600
+            ]
+        },
+        {
+            "id": "Povo",
+            "gps": [
+                800,
+                600
+            ]
+        }
+    ],
+    "locations": [
+        {
+            "id": "Trento_depot",
+            "gps": [
+                150,
+                150
+            ]
+        },
+        {
+            "id": "Folgaria_storage",
+            "gps": [
+                150,
+                650
+            ]
+        },
+        {
+            "id": "Folgaria_station",
+            "gps": [
+                250,
+                550
+            ]
+        },
+        {
+            "id": "Povo_Storage",
+            "gps": [
+                750,
+                550
+            ]
+        },
+        {
+            "id": "Povo_Station",
+            "gps": [
+                850,
+                550
+            ]
+        },
+        {
+            "id": "Povo_FBK",
+            "gps": [
+                850,
+                650
+            ]
+        }
+    ],
+    "trucks": [
+        {
+            "id": "Truck1",
+            "gps": [
+                850,
+                550
+            ]
+        }
+    ],
+    "packages": [
+        {
+            "id": "Pack1",
+            "gps": [
+                750,
+                550
+            ]
+        },
+        {
+            "id": "Pack2",
+            "gps": [
+                750,
+                550
+            ]
+        },
+        {
+            "id": "Pack3",
+            "gps": [
+                250,
+                550
+            ]
+        }
+    ]
+}
