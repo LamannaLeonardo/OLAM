@@ -1,0 +1,179 @@
+{
+  "calibrate": [
+    [
+      "(calibration_target ?param_2 ?param_3)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_3)"
+    ],
+    [
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(power_on ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(on_board ?param_2 ?param_1)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(pointing ?param_1 ?param_3)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)",
+      "(pointing ?param_1 ?param_3)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_3)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_3)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(power_avail ?param_1)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(on_board ?param_2 ?param_1)",
+      "(pointing ?param_1 ?param_3)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(on_board ?param_2 ?param_1)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(pointing ?param_1 ?param_3)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)",
+      "(pointing ?param_1 ?param_3)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_3)",
+      "(power_avail ?param_1)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(power_avail ?param_1)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(on_board ?param_2 ?param_1)",
+      "(pointing ?param_1 ?param_3)",
+      "(power_on ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_2 ?param_3)",
+      "(on_board ?param_2 ?param_1)",
+      "(power_on ?param_2)"
+    ]
+  ],
+  "take_image": [
+    [
+      "(calibration_target ?param_3 ?param_2)"
+    ],
+    [
+      "(on_board ?param_3 ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_2)"
+    ],
+    [
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(power_on ?param_3)"
+    ],
+    [
+      "(calibration_target ?param_3 ?param_2)",
+      "(on_board ?param_3 ?param_1)"
+    ],
+    [
+      "(calibration_target ?param_3 ?param_2)",
+      "(pointing ?param_1 ?param_2)"
+    ],
+    [
+      "(calibration_target ?param_3 ?param_2)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(calibration_target ?param_3 ?param_2)",
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(on_board ?param_3 ?param_1)",
+      "(pointing ?param_1 ?param_2)"
+    ],
+    [
+      "(on_board ?param_3 ?param_1)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(on_board ?param_3 ?param_1)",
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(pointing ?param_1 ?param_2)",
+      "(power_avail ?param_1)"
+    ],
+    [
+      "(pointing ?param_1 ?param_2)",
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(power_avail ?param_1)",
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(pointing ?param_1 ?param_2)",
+      "(power_on ?param_3)"
+    ],
+    [
+      "(power_avail ?param_1)",
+      "(power_on ?param_3)"
+    ],
+    [
+      "(power_on ?param_3)",
+      "(supports ?param_3 ?param_4)"
+    ],
+    [
+      "(on_board ?param_3 ?param_1)",
+      "(power_on ?param_3)"
+    ],
+    [
+      "(calibration_target ?param_3 ?param_2)",
+      "(power_on ?param_3)"
+    ]
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "move": [
+    [
+      "(conn ?param_1 ?param_2)",
+      "(conn ?param_2 ?param_1)"
+    ]
+  ],
+  "pickup": [
+    [
+      "(arm-empty)"
+    ]
+  ],
+  "putdown": [],
+  "unlock": [
+    [
+      "(locked ?param_2)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)"
+    ]
+  ],
+  "pickup-and-loose": []
+}

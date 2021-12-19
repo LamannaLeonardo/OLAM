@@ -1,0 +1,198 @@
+
+Total actions: 3662
+
+Objects list
+	shaker:1
+	hand:2
+	shot:9
+	ingredient:3
+	cocktail:5
+	dispenser:3
+	level:3
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not executable actions: 3642
+Random action chosen
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:57.907869
+Plan computed: False Plan length: None
+The feasibility of operator empty-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator fill-shot negated preconditions of length 1
+FD computational time: 0:00:57.887225
+Plan computed: False Plan length: None
+The feasibility of operator fill-shot negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:57.918602
+Plan computed: False Plan length: None
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1
+FD computational time: 0:00:57.923470
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1
+FD computational time: 0:00:57.897698
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator shake negated preconditions of length 1
+FD computational time: 0:00:57.904029
+Plan computed: False Plan length: None
+The feasibility of operator shake negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2
+FD computational time: 0:00:57.941383
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3
+FD computational time: 0:00:57.894855
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 4
+FD computational time: 0:00:57.923956
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 4 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator empty-shaker does not admit new positive effects
+Operator fill-shot does not admit new positive effects
+Operator pour-shaker-to-shot does not admit new positive effects
+Operator pour-shot-to-clean-shaker does not admit new positive effects
+Operator pour-shot-to-used-shaker does not admit new positive effects
+Operator shake does not admit new positive effects
+Operator grasp does not admit new positive effects
+Operator leave does not admit new positive effects
+Operator refill-shot does not admit new positive effects
+Operator empty-shot does not admit new positive effects
+Operator clean-shot does not admit new positive effects
+Operator clean-shaker does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator empty-shaker with possible negative effects
+FD computational time: 0:00:57.927980
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator fill-shot with possible negative effects
+FD computational time: 0:00:00.898960
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shaker-to-shot with possible negative effects
+FD computational time: 0:00:58.220550
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker with possible negative effects
+FD computational time: 0:00:57.961091
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shot-to-used-shaker with possible negative effects
+FD computational time: 0:00:57.984591
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator shake with possible negative effects
+FD computational time: 0:00:57.929830
+Plan computed: False Plan length: None
+Operator grasp does not admit new negative effects
+Operator leave does not admit new negative effects
+
+
+Checking feasibility of operator refill-shot with possible negative effects
+FD computational time: 0:00:57.952447
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator empty-shot with possible negative effects
+FD computational time: 0:00:57.915110
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator clean-shot with possible negative effects
+FD computational time: 0:00:57.939662
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator clean-shaker with possible negative effects
+FD computational time: 0:00:57.872388
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator empty-shaker has no known positive effects to check
+Operator fill-shot has no known positive effects to check
+Operator pour-shaker-to-shot has no known positive effects to check
+Operator pour-shot-to-clean-shaker has no known positive effects to check
+Operator pour-shot-to-used-shaker has no known positive effects to check
+Operator shake has no known positive effects to check
+Operator grasp has no known positive effects to check
+Operator leave has no known positive effects to check
+Operator refill-shot has no known positive effects to check
+Operator empty-shot has no known positive effects to check
+Operator clean-shot has no known positive effects to check
+Operator clean-shaker has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator empty-shaker has no known negative effects to check
+Operator fill-shot has no known negative effects to check
+Operator pour-shaker-to-shot has no known negative effects to check
+Operator pour-shot-to-clean-shaker has no known negative effects to check
+Operator pour-shot-to-used-shaker has no known negative effects to check
+Operator shake has no known negative effects to check
+Operator grasp has no known negative effects to check
+Operator leave has no known negative effects to check
+Operator refill-shot has no known negative effects to check
+Operator empty-shot has no known negative effects to check
+Operator clean-shot has no known negative effects to check
+Operator clean-shaker has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+1044.71 |  1   |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+1044.71 |  1   |    52    |    55     |   22   |   22    |   23   |   95    |   0   |   3   |   0   |   0   |   0   |  72   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    0.24     |   1.00   |    0.56     
+
+

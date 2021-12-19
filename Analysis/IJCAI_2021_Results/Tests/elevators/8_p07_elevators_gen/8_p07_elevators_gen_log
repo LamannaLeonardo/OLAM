@@ -1,0 +1,213 @@
+
+Total actions: 257488
+
+Objects list
+	count:11
+	passenger:12
+	fast-elevator:2
+	slow-elevator:6
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    21    |    30     |   8    |    8    |   8    |    8    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.70      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Not executable actions: 257436
+Random action chosen
+Successfully executed action 2058: board(p0,fast1,n5,n0,n1)
+operator board, removed uncertain preconditions ['(reachable-floor ?param_2 ?param_3)']
+removing (reachable-floor ?param_2 ?param_3) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.17  |  1   |    21    |    29     |   8    |    8    |   8    |    8    |   0   |   8   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.72      |    1.00     |    1.00     |   1.00   |    0.82     
+
+
+Not executable actions: 257436
+Random action chosen
+Successfully executed action 129844: leave(p0,fast1,n5,n1,n0)
+operator leave, removed uncertain preconditions ['(reachable-floor ?param_2 ?param_3)']
+removing (reachable-floor ?param_2 ?param_3) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 45.38  |  2   |    21    |    28     |   8    |    8    |   8    |    8    |   0   |   7   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.84     
+
+
+Not executable actions: 257436
+Random action chosen
+Successfully executed action 256716: move-up-fast(fast1,n5,n8)
+operator move-up-fast, removed uncertain preconditions ['(reachable-floor ?param_1 ?param_2)']
+removing (reachable-floor ?param_1 ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 71.10  |  3   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+Not executable actions: 257437
+Random action chosen
+
+
+Checking feasibility of operator board negated preconditions of length 1
+FD computational time: 0:00:01.242997
+Plan computed: False Plan length: None
+The feasibility of operator board negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator leave negated preconditions of length 1
+FD computational time: 0:00:01.301813
+Plan computed: False Plan length: None
+The feasibility of operator leave negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-down-fast negated preconditions of length 1
+FD computational time: 0:00:01.187128
+Plan computed: False Plan length: None
+The feasibility of operator move-down-fast negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-down-slow negated preconditions of length 1
+FD computational time: 0:00:01.191318
+Plan computed: False Plan length: None
+The feasibility of operator move-down-slow negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-up-slow negated preconditions of length 1
+FD computational time: 0:00:01.195265
+Plan computed: False Plan length: None
+The feasibility of operator move-up-slow negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator leave negated preconditions of length 2
+FD computational time: 0:00:01.250445
+Plan computed: False Plan length: None
+The feasibility of operator leave negated preconditions of length 2 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator board does not admit new positive effects
+Operator leave does not admit new positive effects
+Operator move-down-fast does not admit new positive effects
+Operator move-down-slow does not admit new positive effects
+Operator move-up-fast does not admit new positive effects
+Operator move-up-slow does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator board with possible negative effects
+FD computational time: 0:00:02.197162
+Plan computed: True Plan length: 0
+Successfully executed action 89178: board(p6,slow0-1,n0,n0,n1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 129.79 |  4   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+
+
+Checking feasibility of operator board with possible negative effects
+FD computational time: 0:00:01.819695
+Plan computed: True Plan length: 1
+Successfully executed action 256092: move-down-slow(slow0-2,n4,n1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 131.64 |  5   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+Successfully executed action 37390: board(p11,slow0-2,n1,n0,n1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 142.57 |  6   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+
+
+Checking feasibility of operator board with possible negative effects
+FD computational time: 0:00:01.487211
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator leave with possible negative effects
+FD computational time: 0:00:02.150476
+Plan computed: True Plan length: 0
+Successfully executed action 165176: leave(p11,slow0-2,n1,n1,n0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.47 |  7   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+
+
+Checking feasibility of operator leave with possible negative effects
+FD computational time: 0:00:01.954152
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-down-fast with possible negative effects
+FD computational time: 0:00:01.223422
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-down-slow with possible negative effects
+FD computational time: 0:00:01.241679
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-up-fast with possible negative effects
+FD computational time: 0:00:01.215479
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-up-slow with possible negative effects
+FD computational time: 0:00:01.266834
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator board has no known positive effects to check
+Operator leave has no known positive effects to check
+Operator move-down-fast has no known positive effects to check
+Operator move-down-slow has no known positive effects to check
+Operator move-up-fast has no known positive effects to check
+Operator move-up-slow has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator board has no known negative effects to check
+Operator leave has no known negative effects to check
+Operator move-down-fast has no known negative effects to check
+Operator move-down-slow has no known negative effects to check
+Operator move-up-fast has no known negative effects to check
+Operator move-up-slow has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 164.43 |  8   |    21    |    27     |   8    |    8    |   8    |    8    |   0   |   6   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.86     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 164.43 |  8   |    21    |    27     |   8    |    8    |   8    |   54    |   0   |   6   |   0   |   0   |   0   |  46   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    0.15     |   1.00   |    0.42     
+
+

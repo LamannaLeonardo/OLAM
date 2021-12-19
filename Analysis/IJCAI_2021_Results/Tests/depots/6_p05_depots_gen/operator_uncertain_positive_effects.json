@@ -1,0 +1,19 @@
+{
+  "drive": [],
+  "lift": [
+    "(at ?param_1 ?param_4)",
+    "(at ?param_3 ?param_4)"
+  ],
+  "drop": [
+    "(at ?param_1 ?param_4)",
+    "(at ?param_3 ?param_4)"
+  ],
+  "load": [
+    "(at ?param_1 ?param_4)",
+    "(at ?param_3 ?param_4)"
+  ],
+  "unload": [
+    "(at ?param_1 ?param_4)",
+    "(at ?param_3 ?param_4)"
+  ]
+}

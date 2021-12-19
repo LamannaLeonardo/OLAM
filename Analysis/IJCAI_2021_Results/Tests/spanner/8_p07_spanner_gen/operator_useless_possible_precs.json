@@ -1,0 +1,77 @@
+{
+  "pickup_spanner": [
+    [
+      "(useable ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(useable ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(useable ?param_2)"
+    ]
+  ],
+  "tighten_nut": [
+    [
+      "(at ?param_4 ?param_1)"
+    ],
+    [
+      "(loose ?param_4)"
+    ],
+    [
+      "(useable ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(carrying ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_1)",
+      "(carrying ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_1)",
+      "(loose ?param_4)"
+    ],
+    [
+      "(at ?param_4 ?param_1)",
+      "(useable ?param_2)"
+    ],
+    [
+      "(carrying ?param_3 ?param_2)",
+      "(loose ?param_4)"
+    ],
+    [
+      "(carrying ?param_3 ?param_2)",
+      "(useable ?param_2)"
+    ],
+    [
+      "(loose ?param_4)",
+      "(useable ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(carrying ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(loose ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(useable ?param_2)"
+    ]
+  ]
+}

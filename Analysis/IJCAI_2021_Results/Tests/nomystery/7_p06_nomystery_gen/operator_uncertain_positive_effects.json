@@ -1,0 +1,16 @@
+{
+  "load": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "unload": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "drive": [
+    "(connected ?param_2 ?param_3)",
+    "(connected ?param_3 ?param_2)",
+    "(fuelcost ?param_5 ?param_2 ?param_3)",
+    "(fuelcost ?param_5 ?param_3 ?param_2)",
+    "(sum ?param_4 ?param_5 ?param_6)",
+    "(sum ?param_5 ?param_4 ?param_6)"
+  ]
+}

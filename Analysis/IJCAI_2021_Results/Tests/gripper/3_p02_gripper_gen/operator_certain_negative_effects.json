@@ -1,0 +1,12 @@
+{
+  "move": [
+    "(not (at-robby ?param_1 ?param_2))"
+  ],
+  "pick": [
+    "(not (at ?param_2 ?param_3))",
+    "(not (free ?param_1 ?param_4))"
+  ],
+  "drop": [
+    "(not (carry ?param_1 ?param_2 ?param_4))"
+  ]
+}

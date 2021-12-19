@@ -1,0 +1,42 @@
+{
+  "pickup": [],
+  "putdown-pos-pos": [
+    "(block-positive ?param_2)",
+    "(hand-positive ?param_1)"
+  ],
+  "putdown-neg-neg": [
+    "(block-negative ?param_2)",
+    "(hand-negative ?param_1)"
+  ],
+  "putdown-pos-neg": [
+    "(block-negative ?param_2)",
+    "(hand-positive ?param_1)"
+  ],
+  "putdown-neg-pos": [
+    "(block-positive ?param_2)",
+    "(hand-negative ?param_1)"
+  ],
+  "stack-pos-pos": [
+    "(block-positive ?param_2)",
+    "(hand-positive ?param_1)",
+    "(solid ?param_3)"
+  ],
+  "stack-neg-neg": [
+    "(block-negative ?param_2)",
+    "(hand-negative ?param_1)",
+    "(solid ?param_3)"
+  ],
+  "stack-pos-neg": [
+    "(block-negative ?param_2)",
+    "(hand-positive ?param_1)",
+    "(solid ?param_3)"
+  ],
+  "stack-neg-pos": [
+    "(block-positive ?param_2)",
+    "(hand-negative ?param_1)",
+    "(solid ?param_3)"
+  ],
+  "unstack": [
+    "(solid ?param_3)"
+  ]
+}

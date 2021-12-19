@@ -1,0 +1,45 @@
+{
+  "buy": [
+    "(stored ?param_2 ?param_4)",
+    "(next ?param_5 ?param_4)",
+    "(on-sale ?param_2 ?param_3 ?param_7)",
+    "(stored ?param_2 ?param_6)",
+    "(loaded ?param_2 ?param_1 ?param_6)",
+    "(ready-to-load ?param_2 ?param_3 ?param_4)",
+    "(next ?param_7 ?param_4)",
+    "(on-sale ?param_2 ?param_3 ?param_5)",
+    "(ready-to-load ?param_2 ?param_3 ?param_6)",
+    "(next ?param_7 ?param_6)",
+    "(next ?param_5 ?param_6)",
+    "(loaded ?param_2 ?param_1 ?param_4)"
+  ],
+  "drive": [
+    "(connected ?param_2 ?param_3)",
+    "(connected ?param_3 ?param_2)"
+  ],
+  "load": [
+    "(on-sale ?param_1 ?param_3 ?param_6)",
+    "(stored ?param_1 ?param_6)",
+    "(next ?param_5 ?param_4)",
+    "(next ?param_7 ?param_4)",
+    "(loaded ?param_1 ?param_2 ?param_6)",
+    "(ready-to-load ?param_1 ?param_3 ?param_7)",
+    "(stored ?param_1 ?param_4)",
+    "(on-sale ?param_1 ?param_3 ?param_4)",
+    "(at ?param_2 ?param_3)",
+    "(loaded ?param_1 ?param_2 ?param_4)",
+    "(next ?param_7 ?param_6)",
+    "(next ?param_5 ?param_6)",
+    "(ready-to-load ?param_1 ?param_3 ?param_5)"
+  ],
+  "unload": [
+    "(stored ?param_1 ?param_6)",
+    "(next ?param_5 ?param_4)",
+    "(loaded ?param_1 ?param_2 ?param_5)",
+    "(next ?param_7 ?param_4)",
+    "(stored ?param_1 ?param_4)",
+    "(loaded ?param_1 ?param_2 ?param_7)",
+    "(next ?param_7 ?param_6)",
+    "(next ?param_5 ?param_6)"
+  ]
+}

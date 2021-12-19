@@ -1,0 +1,83 @@
+
+Total actions: 385
+
+Objects list
+	man:1
+	spanner:4
+	nut:5
+	location:11
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    9     |    10     |   3    |    3    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.90      |    1.00     |    1.00     |   1.00   |    0.94     
+
+
+Not executable actions: 384
+Random action chosen
+
+
+Checking feasibility of operator pickup_spanner negated preconditions of length 1
+FD computational time: 0:00:00.753199
+Plan computed: False Plan length: None
+The feasibility of operator pickup_spanner negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator pickup_spanner does not admit new positive effects
+Operator walk does not admit new positive effects
+Operator tighten_nut does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator pickup_spanner with possible negative effects
+FD computational time: 0:00:00.762834
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator walk with possible negative effects
+FD computational time: 0:00:00.753443
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator tighten_nut with possible negative effects
+FD computational time: 0:00:00.756865
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator pickup_spanner has no known positive effects to check
+Operator walk has no known positive effects to check
+Operator tighten_nut has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator pickup_spanner has no known negative effects to check
+Operator walk has no known negative effects to check
+Operator tighten_nut has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.30  |  1   |    9     |    10     |   3    |    3    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.90      |    1.00     |    1.00     |   1.00   |    0.94     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.30  |  1   |    9     |    10     |   3    |    3    |   4    |   10    |   0   |   1   |   0   |   0   |   0   |   6   |    1.00    |   1.00   |   1.00   |     0.90      |    1.00     |    0.40     |   1.00   |    0.70     
+
+

@@ -1,0 +1,17 @@
+{
+  "turn_to": [
+    "(pointing ?param_1 ?param_2)"
+  ],
+  "switch_on": [
+    "(power_on ?param_1)"
+  ],
+  "switch_off": [
+    "(power_avail ?param_2)"
+  ],
+  "calibrate": [
+    "(calibrated ?param_2)"
+  ],
+  "take_image": [
+    "(have_image ?param_2 ?param_4)"
+  ]
+}

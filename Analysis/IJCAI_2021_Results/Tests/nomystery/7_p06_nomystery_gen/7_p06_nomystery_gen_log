@@ -1,0 +1,189 @@
+
+Total actions: 18492
+
+Objects list
+	location:6
+	truck:1
+	package:5
+	fuellevel:8
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Not executable actions: 18108
+Random action chosen
+Not Successfully executed action 4551: drive(t0,l1,l2,level7,level0,level7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.90  |  1   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Not executable actions: 18476
+Random action chosen
+Not Successfully executed action 4431: drive(t0,l1,l2,level5,level1,level7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.79  |  2   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Not executable actions: 18490
+Random action chosen
+
+
+Checking feasibility of operator drive negated preconditions of length 1
+FD computational time: 0:00:00.821131
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 2
+FD computational time: 0:00:00.842458
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 3
+FD computational time: 0:00:00.982028
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 4
+FD computational time: 0:00:00.963076
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 5
+FD computational time: 0:00:01.075395
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 5 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator drive does not admit new positive effects
+Operator load does not admit new positive effects
+Operator unload does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:01.018181
+Plan computed: True Plan length: 4
+Successfully executed action 4495: drive(t0,l1,l2,level6,level1,level7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.36  |  3   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Successfully executed action 6478: drive(t0,l2,l0,level5,level1,level6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.37  |  4   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Successfully executed action 1293: drive(t0,l0,l2,level4,level1,level5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.38  |  5   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Successfully executed action 6348: drive(t0,l2,l0,level3,level1,level4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.40  |  6   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Successfully executed action 1163: drive(t0,l0,l2,level2,level1,level3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.49  |  7   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:00.914100
+Plan computed: True Plan length: 0
+Successfully executed action 6218: drive(t0,l2,l0,level1,level1,level2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.51  |  8   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:00.921028
+Plan computed: True Plan length: 0
+Successfully executed action 1033: drive(t0,l0,l2,level0,level1,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.53  |  9   |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:01.008025
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator load with possible negative effects
+FD computational time: 0:00:00.750954
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload with possible negative effects
+FD computational time: 0:00:00.760248
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator drive has no known positive effects to check
+Operator load has no known positive effects to check
+Operator unload has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator drive has no known negative effects to check
+Operator load has no known negative effects to check
+Operator unload has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.07  |  10  |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.07  |  10  |    9     |    12     |   4    |    4    |   4    |   40    |   0   |   3   |   0   |   0   |   0   |  36   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    0.10     |   1.00   |    0.30     
+
+

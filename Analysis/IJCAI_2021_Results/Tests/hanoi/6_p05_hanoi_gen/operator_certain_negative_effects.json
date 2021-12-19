@@ -1,0 +1,5 @@
+{
+  "move": [
+    "(not (on ?param_1 ?param_2))"
+  ]
+}

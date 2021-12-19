@@ -1,0 +1,344 @@
+
+Total actions: 12
+
+Objects list
+	passenger:1
+	floor:2
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    9     |     0     |   4    |    0    |   3    |    0    |   9   |   0   |   4   |   0   |   3   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 5: down(f0,f1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.14  |  1   |    9     |     0     |   4    |    0    |   3    |    0    |   9   |   0   |   4   |   0   |   3   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2
+Random action chosen
+Successfully executed action 0: board(f0,p0)
+Operator board, adding certain positive effect (boarded ?param_2)
+removing (above ?param_1 ?param_1) from possible positive effects
+removing (destin ?param_2 ?param_1) from possible positive effects
+removing (served ?param_2) from possible positive effects
+removing (boarded ?param_2) from possible negative effects
+removing (lift-at ?param_1) from possible negative effects
+removing (origin ?param_2 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.31  |  2   |    9     |     2     |   4    |    1    |   3    |    0    |   7   |   0   |   3   |   0   |   3   |   0   |    0.22    |   0.25   |   0.00   |     1.00      |    0.25     |    0.00     |   0.19   |    1.00     
+
+
+Not executable actions: 3
+Random action chosen
+Not Successfully executed action 6: down(f1,f0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.44  |  3   |    9     |     2     |   4    |    1    |   3    |    0    |   7   |   0   |   3   |   0   |   3   |   0   |    0.22    |   0.25   |   0.00   |     1.00      |    0.25     |    0.00     |   0.19   |    1.00     
+
+
+Not executable actions: 4
+Random action chosen
+Not Successfully executed action 8: up(f0,f0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.57  |  4   |    9     |     2     |   4    |    1    |   3    |    0    |   7   |   0   |   3   |   0   |   3   |   0   |    0.22    |   0.25   |   0.00   |     1.00      |    0.25     |    0.00     |   0.19   |    1.00     
+
+
+Not executable actions: 6
+Random action chosen
+Successfully executed action 9: up(f0,f1)
+operator up, adding certain precondition: (above ?param_1 ?param_2)
+Operator up, adding certain positive effect (lift-at ?param_2)
+Operator up, adding certain negative effect (not (lift-at ?param_1))
+removing (above ?param_1 ?param_1) from possible positive effects
+removing (above ?param_2 ?param_1) from possible positive effects
+removing (above ?param_2 ?param_2) from possible positive effects
+removing (lift-at ?param_1) from possible positive effects
+removing (above ?param_1 ?param_2) from possible negative effects
+removing (lift-at ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.72  |  5   |    9     |     4     |   4    |    2    |   3    |    1    |   5   |   0   |   2   |   0   |   2   |   0   |    0.44    |   0.50   |   0.33   |     1.00      |    0.50     |    1.00     |   0.44   |    1.00     
+
+
+Not executable actions: 4
+Random action chosen
+Successfully executed action 3: depart(f1,p0)
+Operator depart, adding certain positive effect (served ?param_2)
+Operator depart, adding certain negative effect (not (boarded ?param_2))
+removing (above ?param_1 ?param_1) from possible positive effects
+removing (boarded ?param_2) from possible positive effects
+removing (origin ?param_2 ?param_1) from possible positive effects
+removing (destin ?param_2 ?param_1) from possible negative effects
+removing (lift-at ?param_1) from possible negative effects
+removing (served ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.90  |  6   |    9     |     7     |   4    |    3    |   3    |    2    |   2   |   0   |   1   |   0   |   1   |   0   |    0.78    |   0.75   |   0.67   |     1.00      |    0.75     |    1.00     |   0.75   |    1.00     
+
+
+Not executable actions: 5
+Random action chosen
+Successfully executed action 6: down(f1,f0)
+operator down, adding certain precondition: (above ?param_2 ?param_1)
+operator down, adding certain precondition: (lift-at ?param_1)
+Operator down, adding certain positive effect (lift-at ?param_2)
+Operator down, adding certain negative effect (not (lift-at ?param_1))
+removing (above ?param_1 ?param_1) from possible positive effects
+removing (above ?param_1 ?param_2) from possible positive effects
+removing (above ?param_2 ?param_2) from possible positive effects
+removing (lift-at ?param_1) from possible positive effects
+removing (above ?param_2 ?param_1) from possible negative effects
+removing (lift-at ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.05  |  7   |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 8
+Random action chosen
+Not Successfully executed action 2: depart(f0,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.19  |  8   |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 9
+Random action chosen
+Not Successfully executed action 3: depart(f1,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.31  |  9   |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 10
+Random action chosen
+
+
+Checking feasibility of operator board negated preconditions of length 1
+FD computational time: 0:00:00.802127
+Plan computed: True Plan length: 1
+The feasibility of operator board negated preconditions of length 1 is: True
+Successfully executed action 9: up(f0,f1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.26  |  10  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not successfully executed action 0: board(f0,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.35  |  11  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator board, adding certain precondition: (lift-at ?param_1)
+
+
+Checking feasibility of operator board negated preconditions of length 1
+FD computational time: 0:00:00.712434
+Plan computed: True Plan length: 0
+The feasibility of operator board negated preconditions of length 1 is: True
+Not successfully executed action 1: board(f1,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.17  |  12  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator board, adding certain precondition: (origin ?param_2 ?param_1)
+
+
+Checking feasibility of operator depart negated preconditions of length 1
+FD computational time: 0:00:00.817379
+Plan computed: True Plan length: 0
+The feasibility of operator depart negated preconditions of length 1 is: True
+Not successfully executed action 3: depart(f1,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.19  |  13  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator depart, adding certain precondition: (boarded ?param_2)
+
+
+Checking feasibility of operator depart negated preconditions of length 1
+FD computational time: 0:00:00.790144
+Plan computed: True Plan length: 2
+The feasibility of operator depart negated preconditions of length 1 is: True
+Successfully executed action 6: down(f1,f0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.99  |  14  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Successfully executed action 0: board(f0,p0)
+removing (served ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.01  |  15  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not successfully executed action 2: depart(f0,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.12  |  16  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator depart, adding certain precondition: (destin ?param_2 ?param_1)
+
+
+Checking feasibility of operator depart negated preconditions of length 1
+FD computational time: 0:00:00.765432
+Plan computed: True Plan length: 0
+The feasibility of operator depart negated preconditions of length 1 is: True
+Not successfully executed action 3: depart(f1,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.03  |  17  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator depart, adding certain precondition: (lift-at ?param_1)
+
+
+Checking feasibility of operator up negated preconditions of length 1
+FD computational time: 0:00:00.785765
+Plan computed: True Plan length: 1
+The feasibility of operator up negated preconditions of length 1 is: True
+Successfully executed action 9: up(f0,f1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.84  |  18  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not successfully executed action 9: up(f0,f1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.98  |  19  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator up, adding certain precondition: (lift-at ?param_1)
+
+
+Checking feasibility of operator board negated preconditions of length 2
+FD computational time: 0:00:00.732544
+Plan computed: True Plan length: 1
+The feasibility of operator board negated preconditions of length 2 is: True
+Successfully executed action 6: down(f1,f0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.73  |  20  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+
+
+Checking feasibility of operator depart negated preconditions of length 3
+FD computational time: 0:00:00.751880
+Plan computed: True Plan length: 2
+The feasibility of operator depart negated preconditions of length 3 is: True
+Successfully executed action 9: up(f0,f1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.62  |  21  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Successfully executed action 3: depart(f1,p0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.64  |  22  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+
+
+
+Looking for new positive effects of learned operators
+Operator board does not admit new positive effects
+Operator up does not admit new positive effects
+Operator depart does not admit new positive effects
+Operator down does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator board with possible negative effects
+FD computational time: 0:00:00.774038
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator up with possible negative effects
+FD computational time: 0:00:00.733033
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator depart with possible negative effects
+FD computational time: 0:00:00.710819
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator down with possible negative effects
+FD computational time: 0:00:00.741027
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator board has no known positive effects to check
+Operator up has no known positive effects to check
+Operator depart has no known positive effects to check
+Operator down has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator board has no known negative effects to check
+Operator up has no known negative effects to check
+Operator depart has no known negative effects to check
+Operator down has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.85  |  23  |    9     |     9     |   4    |    4    |   3    |    3    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.85  |  23  |    9     |     9     |   4    |    4    |   3    |   13    |   0   |   0   |   0   |   0   |   0   |  10   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    0.23     |   1.00   |    0.62     
+
+

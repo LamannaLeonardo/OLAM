@@ -1,0 +1,27 @@
+{
+  "move": [
+    "(not (robot-at ?param_1))"
+  ],
+  "pickup-laser": [
+    "(not (arm-empty))",
+    "(not (laser-at ?param_1))"
+  ],
+  "putdown-laser": [
+    "(not (holds-laser))"
+  ],
+  "pickup-bomb": [
+    "(not (arm-empty))"
+  ],
+  "detonate-bomb": [
+    "(not (holds-bomb))",
+    "(not (soft-rock-at ?param_2))"
+  ],
+  "fire-laser": [
+    "(not (hard-rock-at ?param_2))",
+    "(not (gold-at ?param_2))",
+    "(not (soft-rock-at ?param_2))"
+  ],
+  "pick-gold": [
+    "(not (arm-empty))"
+  ]
+}

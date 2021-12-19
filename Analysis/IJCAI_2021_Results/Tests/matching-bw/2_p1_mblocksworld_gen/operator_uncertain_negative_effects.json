@@ -1,0 +1,82 @@
+{
+  "pickup": [
+    "(on ?param_2 ?param_2)"
+  ],
+  "putdown-pos-pos": [
+    "(block-negative ?param_2)",
+    "(hand-negative ?param_1)",
+    "(on ?param_2 ?param_2)"
+  ],
+  "putdown-neg-neg": [
+    "(block-positive ?param_2)",
+    "(hand-positive ?param_1)",
+    "(on ?param_2 ?param_2)"
+  ],
+  "putdown-pos-neg": [
+    "(block-positive ?param_2)",
+    "(hand-negative ?param_1)",
+    "(on ?param_2 ?param_2)"
+  ],
+  "putdown-neg-pos": [
+    "(block-negative ?param_2)",
+    "(hand-positive ?param_1)",
+    "(on ?param_2 ?param_2)"
+  ],
+  "stack-pos-pos": [
+    "(block-negative ?param_2)",
+    "(block-negative ?param_3)",
+    "(block-positive ?param_2)",
+    "(block-positive ?param_3)",
+    "(clear ?param_2)",
+    "(clear ?param_3)",
+    "(empty ?param_1)",
+    "(hand-negative ?param_1)",
+    "(hand-positive ?param_1)",
+    "(holding ?param_1 ?param_2)",
+    "(holding ?param_1 ?param_3)",
+    "(on ?param_2 ?param_2)",
+    "(on ?param_2 ?param_3)",
+    "(on ?param_3 ?param_2)",
+    "(on ?param_3 ?param_3)",
+    "(on-table ?param_2)",
+    "(on-table ?param_3)",
+    "(solid ?param_2)",
+    "(solid ?param_3)"
+  ],
+  "stack-neg-neg": [
+    "(block-positive ?param_2)",
+    "(hand-positive ?param_1)",
+    "(holding ?param_1 ?param_3)",
+    "(on ?param_2 ?param_2)",
+    "(on ?param_3 ?param_2)",
+    "(on ?param_3 ?param_3)",
+    "(on-table ?param_2)"
+  ],
+  "stack-pos-neg": [
+    "(block-negative ?param_3)",
+    "(block-positive ?param_2)",
+    "(hand-negative ?param_1)",
+    "(holding ?param_1 ?param_3)",
+    "(on ?param_2 ?param_2)",
+    "(on ?param_3 ?param_2)",
+    "(on ?param_3 ?param_3)",
+    "(on-table ?param_2)"
+  ],
+  "stack-neg-pos": [
+    "(block-negative ?param_2)",
+    "(block-positive ?param_3)",
+    "(hand-positive ?param_1)",
+    "(holding ?param_1 ?param_3)",
+    "(on ?param_2 ?param_2)",
+    "(on ?param_3 ?param_2)",
+    "(on ?param_3 ?param_3)",
+    "(on-table ?param_2)"
+  ],
+  "unstack": [
+    "(holding ?param_1 ?param_3)",
+    "(on ?param_2 ?param_2)",
+    "(on ?param_3 ?param_2)",
+    "(on ?param_3 ?param_3)",
+    "(on-table ?param_2)"
+  ]
+}

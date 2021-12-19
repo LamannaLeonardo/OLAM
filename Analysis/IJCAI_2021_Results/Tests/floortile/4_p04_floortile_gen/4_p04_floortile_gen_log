@@ -1,0 +1,234 @@
+
+Total actions: 9224
+
+Objects list
+	tile:24
+	robot:2
+	color:2
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 8956
+Random action chosen
+Not Successfully executed action 4747: paint-up(robot1,tile_0-3,tile_4-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.87  |  1   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 8998
+Random action chosen
+Not Successfully executed action 2395: paint-down(robot1,tile_0-2,tile_4-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.59  |  2   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 9041
+Random action chosen
+Not Successfully executed action 1740: left(robot2,tile_0-1,tile_1-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.24  |  3   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 9084
+Random action chosen
+Not Successfully executed action 8668: up(robot2,tile_0-1,tile_5-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.87  |  4   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 9126
+Random action chosen
+Not Successfully executed action 7501: right(robot2,tile_0-1,tile_1-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.52  |  5   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 9168
+Random action chosen
+Not Successfully executed action 604: down(robot2,tile_0-1,tile_5-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.18  |  6   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 9211
+Random action chosen
+
+
+Checking feasibility of operator change-color negated preconditions of length 1
+FD computational time: 0:00:00.840282
+Plan computed: False Plan length: None
+The feasibility of operator change-color negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator down negated preconditions of length 1
+FD computational time: 0:00:00.825448
+Plan computed: False Plan length: None
+The feasibility of operator down negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator left negated preconditions of length 1
+FD computational time: 0:00:00.804200
+Plan computed: False Plan length: None
+The feasibility of operator left negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator paint-down negated preconditions of length 1
+FD computational time: 0:00:00.837214
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 1
+FD computational time: 0:00:00.841309
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator right negated preconditions of length 1
+FD computational time: 0:00:00.829849
+Plan computed: False Plan length: None
+The feasibility of operator right negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator up negated preconditions of length 1
+FD computational time: 0:00:00.833878
+Plan computed: False Plan length: None
+The feasibility of operator up negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator change-color negated preconditions of length 2
+FD computational time: 0:00:00.821044
+Plan computed: False Plan length: None
+The feasibility of operator change-color negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator paint-down negated preconditions of length 2
+FD computational time: 0:00:00.828922
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 2
+FD computational time: 0:00:00.839485
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator paint-down negated preconditions of length 3
+FD computational time: 0:00:00.867301
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 3
+FD computational time: 0:00:00.855506
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 3 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator change-color does not admit new positive effects
+Operator down does not admit new positive effects
+Operator left does not admit new positive effects
+Operator paint-down does not admit new positive effects
+Operator paint-up does not admit new positive effects
+Operator right does not admit new positive effects
+Operator up does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator change-color with possible negative effects
+FD computational time: 0:00:00.804449
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator down with possible negative effects
+FD computational time: 0:00:00.865770
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator left with possible negative effects
+FD computational time: 0:00:00.875443
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator paint-down with possible negative effects
+FD computational time: 0:00:00.909560
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator paint-up with possible negative effects
+FD computational time: 0:00:00.907177
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator right with possible negative effects
+FD computational time: 0:00:00.858845
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator up with possible negative effects
+FD computational time: 0:00:00.865371
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator change-color has no known positive effects to check
+Operator down has no known positive effects to check
+Operator left has no known positive effects to check
+Operator paint-down has no known positive effects to check
+Operator paint-up has no known positive effects to check
+Operator right has no known positive effects to check
+Operator up has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator change-color has no known negative effects to check
+Operator down has no known negative effects to check
+Operator left has no known negative effects to check
+Operator paint-down has no known negative effects to check
+Operator paint-up has no known negative effects to check
+Operator right has no known negative effects to check
+Operator up has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.30  |  7   |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.30  |  7   |    22    |    31     |   11   |   11    |   11   |   108   |   0   |   9   |   0   |   0   |   0   |  97   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    0.10     |   1.00   |    0.29     
+
+

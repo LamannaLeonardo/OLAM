@@ -1,0 +1,461 @@
+
+Total actions: 26
+
+Objects list
+	driver:2
+	truck:2
+	obj:3
+	location:1
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Successfully executed action 12: load-truck(package1,truck1,s0)
+Operator load-truck, adding certain positive effect (in ?param_1 ?param_2)
+Operator load-truck, adding certain negative effect (not (at ?param_1 ?param_3))
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (link ?param_3 ?param_3) from possible positive effects
+removing (path ?param_3 ?param_3) from possible positive effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (empty ?param_2) from possible negative effects
+removing (in ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.10  |  1   |    14    |     3     |   7    |    1    |   7    |    1    |  12   |   1   |   6   |   0   |   6   |   0   |    0.14    |   0.14   |   0.14   |     0.67      |    0.17     |    1.00     |   0.14   |    0.80     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 21: unload-truck(package2,truck2,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.22  |  2   |    14    |     3     |   7    |    1    |   7    |    1    |  12   |   1   |   6   |   0   |   6   |   0   |    0.14    |   0.14   |   0.14   |     0.67      |    0.17     |    1.00     |   0.14   |    0.80     
+
+
+Not executable actions: 5
+Random action chosen
+Not Successfully executed action 5: disembark-truck(driver1,truck2,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.33  |  3   |    14    |     3     |   7    |    1    |   7    |    1    |  12   |   1   |   6   |   0   |   6   |   0   |    0.14    |   0.14   |   0.14   |     0.67      |    0.17     |    1.00     |   0.14   |    0.80     
+
+
+Not executable actions: 9
+Random action chosen
+Successfully executed action 0: board-truck(driver1,truck1,s0)
+Operator board-truck, adding certain positive effect (driving ?param_1 ?param_2)
+Operator board-truck, adding certain negative effect (not (at ?param_1 ?param_3))
+Operator board-truck, adding certain negative effect (not (empty ?param_2))
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (empty ?param_2) from possible positive effects
+removing (link ?param_3 ?param_3) from possible positive effects
+removing (path ?param_3 ?param_3) from possible positive effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (driving ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.46  |  4   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 8
+Random action chosen
+Not Successfully executed action 10: drive-truck(truck2,s0,s0,driver1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.58  |  5   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 9
+Random action chosen
+Not Successfully executed action 11: drive-truck(truck2,s0,s0,driver2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.69  |  6   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 11
+Random action chosen
+Not Successfully executed action 24: walk(driver1,s0,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.78  |  7   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 25: walk(driver2,s0,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.87  |  8   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 13
+Random action chosen
+Not Successfully executed action 8: drive-truck(truck1,s0,s0,driver1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.96  |  9   |    14    |     6     |   7    |    2    |   7    |    3    |   9   |   1   |   5   |   0   |   4   |   0   |    0.36    |   0.29   |   0.43   |     0.83      |    0.33     |    1.00     |   0.36   |    0.91     
+
+
+Not executable actions: 14
+Random action chosen
+Successfully executed action 18: unload-truck(package1,truck1,s0)
+operator unload-truck, adding certain precondition: (in ?param_1 ?param_2)
+Operator unload-truck, adding certain positive effect (at ?param_1 ?param_3)
+Operator unload-truck, adding certain negative effect (not (in ?param_1 ?param_2))
+removing (empty ?param_2) from possible positive effects
+removing (in ?param_1 ?param_2) from possible positive effects
+removing (link ?param_3 ?param_3) from possible positive effects
+removing (path ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at ?param_2 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.07  |  10  |    14    |     8     |   7    |    3    |   7    |    4    |   7   |   1   |   4   |   0   |   3   |   0   |    0.50    |   0.43   |   0.57   |     0.88      |    0.50     |    1.00     |   0.50   |    0.93     
+
+
+Not executable actions: 15
+Random action chosen
+Successfully executed action 4: disembark-truck(driver1,truck1,s0)
+operator disembark-truck, adding certain precondition: (driving ?param_1 ?param_2)
+Operator disembark-truck, adding certain positive effect (at ?param_1 ?param_3)
+Operator disembark-truck, adding certain positive effect (empty ?param_2)
+Operator disembark-truck, adding certain negative effect (not (driving ?param_1 ?param_2))
+removing (driving ?param_1 ?param_2) from possible positive effects
+removing (link ?param_3 ?param_3) from possible positive effects
+removing (path ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (empty ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.17  |  11  |    14    |    10     |   7    |    5    |   7    |    5    |   5   |   1   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     0.90      |    0.71     |    1.00     |   0.68   |    0.95     
+
+
+Not executable actions: 16
+Random action chosen
+Not Successfully executed action 25: walk(driver2,s0,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.28  |  12  |    14    |    10     |   7    |    5    |   7    |    5    |   5   |   1   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     0.90      |    0.71     |    1.00     |   0.68   |    0.95     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator board-truck negated preconditions of length 1
+FD computational time: 0:00:00.683482
+Plan computed: True Plan length: 1
+The feasibility of operator board-truck negated preconditions of length 1 is: True
+Successfully executed action 0: board-truck(driver1,truck1,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.98  |  13  |    14    |    10     |   7    |    5    |   7    |    5    |   5   |   1   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     0.90      |    0.71     |    1.00     |   0.68   |    0.95     
+
+
+Not successfully executed action 1: board-truck(driver1,truck2,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.08  |  14  |    14    |    10     |   7    |    5    |   7    |    5    |   5   |   1   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     0.90      |    0.71     |    1.00     |   0.68   |    0.95     
+
+
+operator board-truck, adding certain precondition: (at ?param_1 ?param_3)
+
+
+Checking feasibility of operator board-truck negated preconditions of length 1
+FD computational time: 0:00:00.676401
+Plan computed: True Plan length: 0
+The feasibility of operator board-truck negated preconditions of length 1 is: True
+Not successfully executed action 2: board-truck(driver2,truck1,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.87  |  15  |    14    |    10     |   7    |    5    |   7    |    5    |   5   |   1   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     0.90      |    0.71     |    1.00     |   0.68   |    0.95     
+
+
+operator board-truck, adding certain precondition: (empty ?param_2)
+
+
+Checking feasibility of operator board-truck negated preconditions of length 1
+FD computational time: 0:00:00.674751
+Plan computed: False Plan length: None
+The feasibility of operator board-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator disembark-truck negated preconditions of length 1
+FD computational time: 0:00:00.681908
+Plan computed: False Plan length: None
+The feasibility of operator disembark-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator load-truck negated preconditions of length 1
+FD computational time: 0:00:00.671098
+Plan computed: True Plan length: 0
+The feasibility of operator load-truck negated preconditions of length 1 is: True
+Successfully executed action 12: load-truck(package1,truck1,s0)
+operator load-truck, removed uncertain preconditions ['(empty ?param_2)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.02  |  16  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+
+
+Checking feasibility of operator board-truck negated preconditions of length 1
+FD computational time: 0:00:00.676405
+Plan computed: False Plan length: None
+The feasibility of operator board-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator disembark-truck negated preconditions of length 1
+FD computational time: 0:00:00.679627
+Plan computed: False Plan length: None
+The feasibility of operator disembark-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator load-truck negated preconditions of length 1
+FD computational time: 0:00:00.658165
+Plan computed: True Plan length: 0
+The feasibility of operator load-truck negated preconditions of length 1 is: True
+Not successfully executed action 12: load-truck(package1,truck1,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.17  |  17  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+operator load-truck, adding certain precondition: (at ?param_1 ?param_3)
+
+
+Checking feasibility of operator load-truck negated preconditions of length 1
+FD computational time: 0:00:00.689318
+Plan computed: False Plan length: None
+The feasibility of operator load-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator unload-truck negated preconditions of length 1
+FD computational time: 0:00:00.672436
+Plan computed: False Plan length: None
+The feasibility of operator unload-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator load-truck negated preconditions of length 2
+FD computational time: 0:00:00.654399
+Plan computed: False Plan length: None
+The feasibility of operator load-truck negated preconditions of length 2 is: False
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 1
+FD computational time: 0:00:00.748325
+Plan computed: True Plan length: 0
+The feasibility of operator drive-truck with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 1
+FD computational time: 0:00:00.702832
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator walk with possible preconditions of length 1
+FD computational time: 0:00:00.712095
+Plan computed: True Plan length: 0
+The feasibility of operator walk with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator walk with possible preconditions of length 1
+FD computational time: 0:00:00.705469
+Plan computed: False Plan length: None
+The feasibility of operator walk with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 2
+FD computational time: 0:00:00.720792
+Plan computed: True Plan length: 0
+The feasibility of operator drive-truck with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 2
+FD computational time: 0:00:00.696825
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator walk with possible preconditions of length 2
+FD computational time: 0:00:00.701686
+Plan computed: True Plan length: 0
+The feasibility of operator walk with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 3
+FD computational time: 0:00:00.737893
+Plan computed: True Plan length: 0
+The feasibility of operator drive-truck with possible preconditions of length 3 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 3
+FD computational time: 0:00:00.704301
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 3 is: False
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 4
+FD computational time: 0:00:00.734858
+Plan computed: True Plan length: 0
+The feasibility of operator drive-truck with possible preconditions of length 4 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 4
+FD computational time: 0:00:00.710407
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 4 is: False
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 5
+FD computational time: 0:00:00.710514
+Plan computed: True Plan length: 0
+The feasibility of operator drive-truck with possible preconditions of length 5 is: True
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 5
+FD computational time: 0:00:00.728722
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 5 is: False
+
+
+Checking feasibility of operator drive-truck with possible preconditions of length 6
+FD computational time: 0:00:00.693660
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck with possible preconditions of length 6 is: False
+
+
+
+
+Model convergence reached, although not all operators have been learned 
+
+
+
+Looking for new positive effects of learned operators
+(exists (?param_1 - obj ?param_2 - truck ?param_3 - location) (and (at ?param_1 ?param_3) (at ?param_2 ?param_3) (not (empty ?param_2)) ))
+
+
+
+Checking feasibility of operator load-truck with possible positive effect (empty ?param_2)
+FD computational time: 0:00:00.720095
+Plan computed: True Plan length: 0
+Successfully executed action 14: load-truck(package2,truck1,s0)
+removing (empty ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.75  |  18  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+Operator board-truck does not admit new positive effects
+Operator unload-truck does not admit new positive effects
+Operator disembark-truck does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator load-truck with possible negative effects
+FD computational time: 0:00:00.728221
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator board-truck with possible negative effects
+FD computational time: 0:00:00.713239
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload-truck with possible negative effects
+FD computational time: 0:00:00.727632
+Plan computed: True Plan length: 1
+Successfully executed action 17: load-truck(package3,truck2,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.96  |  19  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+Successfully executed action 23: unload-truck(package3,truck2,s0)
+removing (empty ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.98  |  20  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+
+
+Checking feasibility of operator unload-truck with possible negative effects
+FD computational time: 0:00:00.684090
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator disembark-truck with possible negative effects
+FD computational time: 0:00:00.682667
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator load-truck has no known positive effects to check
+Operator board-truck has no known positive effects to check
+Operator unload-truck has no known positive effects to check
+Operator disembark-truck has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator load-truck has no known negative effects to check
+Operator board-truck has no known negative effects to check
+Operator unload-truck has no known negative effects to check
+Operator disembark-truck has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.36  |  21  |    14    |     9     |   7    |    5    |   7    |    5    |   5   |   0   |   2   |   0   |   2   |   0   |    0.64    |   0.71   |   0.71   |     1.00      |    0.71     |    1.00     |   0.68   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.36  |  21  |    14    |     9     |   7    |    5    |   7    |   37    |   5   |   0   |   2   |   0   |   0   |  30   |    0.64    |   0.71   |   1.00   |     1.00      |    0.71     |    0.19     |   0.75   |    0.41     
+
+

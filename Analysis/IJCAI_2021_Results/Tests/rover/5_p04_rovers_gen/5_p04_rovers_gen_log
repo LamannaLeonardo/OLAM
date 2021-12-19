@@ -1,0 +1,333 @@
+
+Total actions: 4419
+
+Objects list
+	lander:1
+	mode:3
+	rover:3
+	store:3
+	waypoint:7
+	camera:3
+	objective:3
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Not executable actions: 4395
+Random action chosen
+Not Successfully executed action 3606: navigate(rover0,waypoint3,waypoint6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.70  |  1   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Not executable actions: 4402
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.778070
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.832234
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.779877
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.825228
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.791136
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.804100
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.772751
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 1
+FD computational time: 0:00:00.793222
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.794156
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 2
+FD computational time: 0:00:00.787161
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 2
+FD computational time: 0:00:00.833004
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 2
+FD computational time: 0:00:00.796403
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 2
+FD computational time: 0:00:00.838461
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 2
+FD computational time: 0:00:00.810806
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 2
+FD computational time: 0:00:00.790628
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 2
+FD computational time: 0:00:00.816315
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 3
+FD computational time: 0:00:00.842056
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 3
+FD computational time: 0:00:00.811549
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 3
+FD computational time: 0:00:00.814582
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 3
+FD computational time: 0:00:00.821911
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 3
+FD computational time: 0:00:00.779397
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 4
+FD computational time: 0:00:00.810926
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 4
+FD computational time: 0:00:00.801124
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 4
+FD computational time: 0:00:00.793733
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 4
+FD computational time: 0:00:00.805318
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 5
+FD computational time: 0:00:00.793568
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 5
+FD computational time: 0:00:00.778936
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 5
+FD computational time: 0:00:00.793208
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 5
+FD computational time: 0:00:00.798185
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 6
+FD computational time: 0:00:00.783363
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 6 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator calibrate does not admit new positive effects
+Operator communicate_image_data does not admit new positive effects
+Operator communicate_rock_data does not admit new positive effects
+Operator communicate_soil_data does not admit new positive effects
+Operator drop does not admit new positive effects
+Operator navigate does not admit new positive effects
+Operator sample_rock does not admit new positive effects
+Operator sample_soil does not admit new positive effects
+Operator take_image does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator calibrate with possible negative effects
+FD computational time: 0:00:00.809967
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_image_data with possible negative effects
+FD computational time: 0:00:00.818309
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.810053
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.860426
+Plan computed: True Plan length: 1
+Successfully executed action 3851: sample_soil(rover2,rover2store,waypoint6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.13  |  2   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Successfully executed action 3563: communicate_soil_data(rover2,general,waypoint6,waypoint6,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.38  |  3   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+removing (at_rock_sample ?param_3) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.854586
+Plan computed: False Plan length: None
+Operator drop does not admit new negative effects
+
+
+Checking feasibility of operator navigate with possible negative effects
+FD computational time: 0:00:00.807183
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator sample_rock with possible negative effects
+FD computational time: 0:00:00.788269
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator sample_soil with possible negative effects
+FD computational time: 0:00:05.315726
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator take_image with possible negative effects
+FD computational time: 0:00:00.783741
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator calibrate has no known positive effects to check
+Operator communicate_image_data has no known positive effects to check
+Operator communicate_rock_data has no known positive effects to check
+Operator communicate_soil_data has no known positive effects to check
+Operator drop has no known positive effects to check
+Operator navigate has no known positive effects to check
+Operator sample_rock has no known positive effects to check
+Operator sample_soil has no known positive effects to check
+Operator take_image has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator calibrate has no known negative effects to check
+Operator communicate_image_data has no known negative effects to check
+Operator communicate_rock_data has no known negative effects to check
+Operator communicate_soil_data has no known negative effects to check
+Operator drop has no known negative effects to check
+Operator navigate has no known negative effects to check
+Operator sample_rock has no known negative effects to check
+Operator sample_soil has no known negative effects to check
+Operator take_image has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.98  |  4   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.98  |  4   |    45    |    60     |   17   |   11    |   13   |   48    |   0   |  15   |   6   |   0   |   6   |  41   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    0.15     |   0.84   |    0.53     
+
+

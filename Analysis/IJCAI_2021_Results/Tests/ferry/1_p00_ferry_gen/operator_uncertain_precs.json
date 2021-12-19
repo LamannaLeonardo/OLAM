@@ -1,0 +1,10 @@
+{
+  "board": [
+    "(empty-ferry)"
+  ],
+  "debark": [],
+  "sail": [
+    "(not-eq ?param_1 ?param_2)",
+    "(not-eq ?param_2 ?param_1)"
+  ]
+}

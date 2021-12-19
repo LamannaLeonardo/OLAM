@@ -1,0 +1,119 @@
+
+Total actions: 1372
+
+Objects list
+	car:7
+	curb:7
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |    18     |   9    |    9    |   9    |    9    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+Not executable actions: 1347
+Random action chosen
+
+
+Checking feasibility of operator move-car-to-car negated preconditions of length 1
+FD computational time: 0:00:57.986095
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-car-to-curb negated preconditions of length 1
+FD computational time: 0:00:57.993098
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 1
+FD computational time: 0:00:57.919484
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-curb-to-curb negated preconditions of length 1
+FD computational time: 0:00:57.927930
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-curb negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move-car-to-car does not admit new positive effects
+Operator move-car-to-curb does not admit new positive effects
+Operator move-curb-to-car does not admit new positive effects
+Operator move-curb-to-curb does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move-car-to-car with possible negative effects
+FD computational time: 0:00:01.146339
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-car-to-curb with possible negative effects
+FD computational time: 0:00:00.965687
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-curb-to-car with possible negative effects
+FD computational time: 0:00:01.057510
+Plan computed: True Plan length: 0
+Successfully executed action 750: move-curb-to-car(car_1,curb_2,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 235.42 |  1   |    14    |    18     |   9    |    9    |   9    |    9    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+
+
+Checking feasibility of operator move-curb-to-car with possible negative effects
+FD computational time: 0:00:00.898183
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-curb-to-curb with possible negative effects
+FD computational time: 0:00:00.843858
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move-car-to-car has no known positive effects to check
+Operator move-car-to-curb has no known positive effects to check
+Operator move-curb-to-car has no known positive effects to check
+Operator move-curb-to-curb has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move-car-to-car has no known negative effects to check
+Operator move-car-to-curb has no known negative effects to check
+Operator move-curb-to-car has no known negative effects to check
+Operator move-curb-to-curb has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 237.18 |  2   |    14    |    18     |   9    |    9    |   9    |    9    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 237.18 |  2   |    14    |    18     |   9    |    9    |   9    |   26    |   0   |   4   |   0   |   0   |   0   |  17   |    1.00    |   1.00   |   1.00   |     0.78      |    1.00     |    0.35     |   1.00   |    0.60     
+
+

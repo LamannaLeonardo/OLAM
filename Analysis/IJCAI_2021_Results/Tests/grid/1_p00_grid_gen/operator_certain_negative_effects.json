@@ -1,0 +1,15 @@
+{
+  "move": [
+    "(not (at-robot ?param_1))"
+  ],
+  "pickup": [
+    "(not (arm-empty))",
+    "(not (at ?param_2 ?param_1))"
+  ],
+  "unlock": [
+    "(not (locked ?param_2))"
+  ],
+  "putdown": [
+    "(not (holding ?param_2))"
+  ]
+}

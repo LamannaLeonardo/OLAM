@@ -1,0 +1,13 @@
+{
+  "drive": [
+    "(not (at ?param_1 ?param_2))"
+  ],
+  "pick-up": [
+    "(not (at ?param_3 ?param_2))",
+    "(not (capacity ?param_1 ?param_5))"
+  ],
+  "drop": [
+    "(not (capacity ?param_1 ?param_4))",
+    "(not (in ?param_3 ?param_1))"
+  ]
+}

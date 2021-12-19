@@ -1,0 +1,19 @@
+{
+  "board": [
+    [
+      "(can-hold ?param_2 ?param_5)"
+    ]
+  ],
+  "leave": [
+    [
+      "(passengers ?param_2 ?param_4)"
+    ],
+    [
+      "(next ?param_5 ?param_4)"
+    ]
+  ],
+  "move-down-fast": [],
+  "move-down-slow": [],
+  "move-up-fast": [],
+  "move-up-slow": []
+}

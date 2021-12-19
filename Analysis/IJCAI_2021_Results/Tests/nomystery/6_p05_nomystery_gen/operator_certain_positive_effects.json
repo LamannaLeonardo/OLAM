@@ -1,0 +1,12 @@
+{
+  "drive": [
+    "(at ?param_1 ?param_3)",
+    "(fuel ?param_1 ?param_4)"
+  ],
+  "load": [
+    "(in ?param_1 ?param_2)"
+  ],
+  "unload": [
+    "(at ?param_1 ?param_3)"
+  ]
+}

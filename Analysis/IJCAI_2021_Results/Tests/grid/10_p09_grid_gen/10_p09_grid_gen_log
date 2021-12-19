@@ -1,0 +1,155 @@
+
+Total actions: 136808
+
+Objects list
+	place:49
+	shape:4
+	key:13
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    17    |    24     |   7    |    7    |   7    |    7    |   0   |   7   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.82     
+
+
+Not executable actions: 136775
+Random action chosen
+Not Successfully executed action 1490: move(f4-2f,f2-6f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.21  |  1   |    17    |    24     |   7    |    7    |   7    |    7    |   0   |   7   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.82     
+
+
+Not executable actions: 136805
+Random action chosen
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:57.898794
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup negated preconditions of length 1
+FD computational time: 0:00:57.992007
+Plan computed: False Plan length: None
+The feasibility of operator pickup negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-and-loose negated preconditions of length 1
+FD computational time: 0:00:57.999811
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator putdown negated preconditions of length 1
+FD computational time: 0:00:57.986038
+Plan computed: False Plan length: None
+The feasibility of operator putdown negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 1
+FD computational time: 0:00:57.972142
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:01.659462
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 2
+FD computational time: 0:00:01.646057
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:58.115130
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 3
+FD computational time: 0:00:58.386970
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 3 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+Operator pickup does not admit new positive effects
+Operator pickup-and-loose does not admit new positive effects
+Operator putdown does not admit new positive effects
+Operator unlock does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:01.649719
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup with possible negative effects
+FD computational time: 0:00:01.673736
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup-and-loose with possible negative effects
+FD computational time: 0:00:04.064446
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown with possible negative effects
+FD computational time: 0:00:01.648933
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unlock with possible negative effects
+FD computational time: 0:00:01.821352
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+Operator pickup has no known positive effects to check
+Operator pickup-and-loose has no known positive effects to check
+Operator putdown has no known positive effects to check
+Operator unlock has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+Operator pickup has no known negative effects to check
+Operator pickup-and-loose has no known negative effects to check
+Operator putdown has no known negative effects to check
+Operator unlock has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 448.27 |  2   |    17    |    24     |   7    |    7    |   7    |    7    |   0   |   7   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.82     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 448.27 |  2   |    17    |    24     |   7    |    7    |   7    |   25    |   0   |   7   |   0   |   0   |   0   |  18   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    0.28     |   1.00   |    0.55     
+
+

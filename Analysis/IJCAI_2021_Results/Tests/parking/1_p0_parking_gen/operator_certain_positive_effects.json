@@ -1,0 +1,9 @@
+{
+  "move-curb-to-car": [
+    "(curb-clear ?param_2)"
+  ],
+  "move-curb-to-curb": [
+    "(at-curb-num ?param_1 ?param_3)",
+    "(curb-clear ?param_2)"
+  ]
+}

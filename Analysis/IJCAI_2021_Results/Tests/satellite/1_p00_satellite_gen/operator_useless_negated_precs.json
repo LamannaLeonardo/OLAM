@@ -1,0 +1,16 @@
+{
+  "switch_on": [
+    [
+      "(power_avail ?param_2)"
+    ]
+  ],
+  "turn_to": [],
+  "take_image": [
+    [
+      "(power_on ?param_3)"
+    ],
+    [
+      "(pointing ?param_1 ?param_2)"
+    ]
+  ]
+}

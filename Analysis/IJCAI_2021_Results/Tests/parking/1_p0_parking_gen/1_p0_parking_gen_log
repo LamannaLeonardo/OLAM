@@ -1,0 +1,573 @@
+
+Total actions: 32
+
+Objects list
+	car:2
+	curb:2
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 12: move-car-to-curb(car_1,car_0,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.12  |  1   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4
+Random action chosen
+Not Successfully executed action 19: move-curb-to-car(car_0,curb_1,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.23  |  2   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 8
+Random action chosen
+Not Successfully executed action 29: move-curb-to-curb(car_1,curb_0,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.33  |  3   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 0: move-car-to-car(car_0,car_0,car_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.44  |  4   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 20
+Random action chosen
+Not Successfully executed action 15: move-car-to-curb(car_1,car_1,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.55  |  5   |    14    |     0     |   9    |    0    |   9    |    0    |  14   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 24
+Random action chosen
+Successfully executed action 23: move-curb-to-car(car_1,curb_1,car_1)
+operator move-curb-to-car, adding certain precondition: (at-curb-num ?param_1 ?param_2)
+Operator move-curb-to-car, adding certain positive effect (curb-clear ?param_2)
+removing (at-curb ?param_1) from possible positive effects
+removing (at-curb ?param_3) from possible positive effects
+removing (at-curb-num ?param_1 ?param_2) from possible positive effects
+removing (at-curb-num ?param_3 ?param_2) from possible positive effects
+removing (car-clear ?param_1) from possible positive effects
+removing (car-clear ?param_3) from possible positive effects
+removing (curb-clear ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.67  |  6   |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 8
+Random action chosen
+Not Successfully executed action 4: move-car-to-car(car_1,car_0,car_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.80  |  7   |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 9
+Random action chosen
+Not Successfully executed action 10: move-car-to-curb(car_0,car_1,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.90  |  8   |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 10
+Random action chosen
+Not Successfully executed action 13: move-car-to-curb(car_1,car_0,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.01  |  9   |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 11
+Random action chosen
+Not Successfully executed action 31: move-curb-to-curb(car_1,curb_1,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.12  |  10  |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 15
+Random action chosen
+Not Successfully executed action 6: move-car-to-car(car_1,car_1,car_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.22  |  11  |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 16
+Random action chosen
+Not Successfully executed action 12: move-car-to-curb(car_1,car_0,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.35  |  12  |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 17
+Random action chosen
+Not Successfully executed action 11: move-car-to-curb(car_0,car_1,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.48  |  13  |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 18
+Random action chosen
+Not Successfully executed action 24: move-curb-to-curb(car_0,curb_0,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.60  |  14  |    14    |     6     |   9    |    1    |   9    |    0    |  10   |   2   |   8   |   0   |   9   |   0   |    0.29    |   0.11   |   0.00   |     0.67      |    0.25     |    0.00     |   0.16   |    0.71     
+
+
+Not executable actions: 19
+Random action chosen
+Successfully executed action 25: move-curb-to-curb(car_0,curb_0,curb_1)
+operator move-curb-to-curb, adding certain precondition: (curb-clear ?param_3)
+Operator move-curb-to-curb, adding certain positive effect (at-curb-num ?param_1 ?param_3)
+Operator move-curb-to-curb, adding certain positive effect (curb-clear ?param_2)
+Operator move-curb-to-curb, adding certain negative effect (not (at-curb-num ?param_1 ?param_2))
+Operator move-curb-to-curb, adding certain negative effect (not (curb-clear ?param_3))
+removing (at-curb-num ?param_1 ?param_2) from possible positive effects
+removing (behind-car ?param_1 ?param_1) from possible positive effects
+removing (curb-clear ?param_3) from possible positive effects
+removing (at-curb ?param_1) from possible negative effects
+removing (at-curb-num ?param_1 ?param_3) from possible negative effects
+removing (car-clear ?param_1) from possible negative effects
+removing (curb-clear ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.71  |  15  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 20
+Random action chosen
+Not Successfully executed action 7: move-car-to-car(car_1,car_1,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.85  |  16  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 21
+Random action chosen
+Not Successfully executed action 3: move-car-to-car(car_0,car_1,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.98  |  17  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 22
+Random action chosen
+Not Successfully executed action 2: move-car-to-car(car_0,car_1,car_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.08  |  18  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 23
+Random action chosen
+Not Successfully executed action 1: move-car-to-car(car_0,car_0,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.20  |  19  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 24
+Random action chosen
+Not Successfully executed action 8: move-car-to-curb(car_0,car_0,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.32  |  20  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 25
+Random action chosen
+Not Successfully executed action 14: move-car-to-curb(car_1,car_1,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.42  |  21  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 27
+Random action chosen
+Not Successfully executed action 5: move-car-to-car(car_1,car_0,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.53  |  22  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 28
+Random action chosen
+Not Successfully executed action 24: move-curb-to-curb(car_0,curb_0,curb_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.63  |  23  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+operator move-curb-to-curb, adding certain precondition: (at-curb-num ?param_1 ?param_2)
+Not executable actions: 29
+Random action chosen
+Not Successfully executed action 19: move-curb-to-car(car_0,curb_1,car_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.75  |  24  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+Not executable actions: 30
+Random action chosen
+Not Successfully executed action 9: move-car-to-curb(car_0,car_0,curb_1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.85  |  25  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 1
+FD computational time: 0:00:00.740201
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-curb-to-curb negated preconditions of length 1
+FD computational time: 0:00:00.730080
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-curb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 2
+FD computational time: 0:00:00.740207
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move-curb-to-curb negated preconditions of length 2
+FD computational time: 0:00:00.732070
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-curb negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 3
+FD computational time: 0:00:00.711032
+Plan computed: True Plan length: 0
+The feasibility of operator move-curb-to-car negated preconditions of length 3 is: True
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 3
+FD computational time: 0:00:00.736729
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 4
+FD computational time: 0:00:00.742161
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator move-curb-to-car negated preconditions of length 5
+FD computational time: 0:00:00.742553
+Plan computed: False Plan length: None
+The feasibility of operator move-curb-to-car negated preconditions of length 5 is: False
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 1
+FD computational time: 0:00:00.740751
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-curb with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 1
+FD computational time: 0:00:00.746845
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 2
+FD computational time: 0:00:00.777840
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-curb with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 2
+FD computational time: 0:00:00.760437
+Plan computed: True Plan length: 1
+The feasibility of operator move-car-to-curb with possible preconditions of length 2 is: True
+Successfully executed action 18: move-curb-to-car(car_0,curb_1,car_0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.20  |  26  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 2
+FD computational time: 0:00:00.759104
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 2
+FD computational time: 0:00:00.788750
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 2
+FD computational time: 0:00:00.761257
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 3
+FD computational time: 0:00:00.835918
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-curb with possible preconditions of length 3 is: True
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 3
+FD computational time: 0:00:00.839643
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 3 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 3
+FD computational time: 0:00:01.082014
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 3 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 3
+FD computational time: 0:00:00.993123
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 3 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 4
+FD computational time: 0:00:01.015141
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-curb with possible preconditions of length 4 is: True
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 4
+FD computational time: 0:00:01.008961
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 4 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 4
+FD computational time: 0:00:02.580511
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 4 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 4
+FD computational time: 0:00:02.377574
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 4 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 5
+FD computational time: 0:00:01.248050
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-curb with possible preconditions of length 5 is: True
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 5
+FD computational time: 0:00:01.202100
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 5 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 5
+FD computational time: 0:00:07.885790
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 5 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 5
+FD computational time: 0:00:07.253121
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 5 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 6
+FD computational time: 0:00:01.256336
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 6 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 6
+FD computational time: 0:00:18.222771
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 6 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 6
+FD computational time: 0:00:17.879135
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 6 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 7
+FD computational time: 0:00:01.177787
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 7 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 7
+FD computational time: 0:00:28.194599
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 7 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 7
+FD computational time: 0:00:28.208358
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 7 is: False
+
+
+Checking feasibility of operator move-car-to-curb with possible preconditions of length 8
+FD computational time: 0:00:00.872622
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-curb with possible preconditions of length 8 is: False
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 8
+FD computational time: 0:00:30.432297
+Plan computed: True Plan length: 0
+The feasibility of operator move-car-to-car with possible preconditions of length 8 is: True
+
+
+Checking feasibility of operator move-car-to-car with possible preconditions of length 8
+FD computational time: 0:00:33.717057
+Plan computed: False Plan length: None
+The feasibility of operator move-car-to-car with possible preconditions of length 8 is: False
+
+
+
+
+Model convergence reached, although not all operators have been learned 
+
+
+
+Looking for new positive effects of learned operators
+(exists (?param_1 - car ?param_2 - curb ?param_3 - car) (and (at-curb ?param_1) (at-curb ?param_3) (at-curb-num ?param_1 ?param_2) (at-curb-num ?param_3 ?param_2) (car-clear ?param_1) (car-clear ?param_3) (not (behind-car ?param_1 ?param_1)) (not (= ?param_1 ?param_3))))
+
+
+
+Checking feasibility of operator move-curb-to-car with possible positive effect (behind-car ?param_1 ?param_1)
+FD computational time: 0:00:00.716820
+Plan computed: False Plan length: None
+(exists (?param_1 - car ?param_2 - curb ?param_3 - car) (and (at-curb ?param_1) (at-curb ?param_3) (at-curb-num ?param_1 ?param_2) (at-curb-num ?param_3 ?param_2) (car-clear ?param_1) (car-clear ?param_3) (not (behind-car ?param_1 ?param_3)) (not (= ?param_1 ?param_3)) (not (= ?param_3 ?param_1))))
+
+
+
+Checking feasibility of operator move-curb-to-car with possible positive effect (behind-car ?param_1 ?param_3)
+FD computational time: 0:00:00.710105
+Plan computed: False Plan length: None
+(exists (?param_1 - car ?param_2 - curb ?param_3 - car) (and (at-curb ?param_1) (at-curb ?param_3) (at-curb-num ?param_1 ?param_2) (at-curb-num ?param_3 ?param_2) (car-clear ?param_1) (car-clear ?param_3) (not (behind-car ?param_3 ?param_1)) (not (= ?param_1 ?param_3)) (not (= ?param_3 ?param_1))))
+
+
+
+Checking feasibility of operator move-curb-to-car with possible positive effect (behind-car ?param_3 ?param_1)
+FD computational time: 0:00:00.707975
+Plan computed: False Plan length: None
+(exists (?param_1 - car ?param_2 - curb ?param_3 - car) (and (at-curb ?param_1) (at-curb ?param_3) (at-curb-num ?param_1 ?param_2) (at-curb-num ?param_3 ?param_2) (car-clear ?param_1) (car-clear ?param_3) (not (behind-car ?param_3 ?param_3)) (not (= ?param_3 ?param_1))))
+
+
+
+Checking feasibility of operator move-curb-to-car with possible positive effect (behind-car ?param_3 ?param_3)
+FD computational time: 0:00:00.715394
+Plan computed: False Plan length: None
+Operator move-curb-to-curb does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move-curb-to-car with possible negative effects
+FD computational time: 0:00:00.734839
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move-curb-to-curb with possible negative effects
+FD computational time: 0:00:00.739660
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move-curb-to-car has no known positive effects to check
+Operator move-curb-to-curb has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move-curb-to-car has no known negative effects to check
+Operator move-curb-to-curb has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 210.99 |  27  |    14    |    10     |   9    |    3    |   9    |    2    |   7   |   3   |   6   |   0   |   7   |   0   |    0.50    |   0.33   |   0.22   |     0.70      |    0.60     |    1.00     |   0.38   |    0.80     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 210.99 |  27  |    14    |    10     |   9    |    3    |   9    |   39    |   7   |   3   |   6   |   0   |   0   |  30   |    0.50    |   0.33   |   1.00   |     0.70      |    0.60     |    0.23     |   0.59   |    0.37     
+
+

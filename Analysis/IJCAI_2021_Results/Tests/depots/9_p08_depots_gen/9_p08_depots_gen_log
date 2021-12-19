@@ -1,0 +1,106 @@
+
+Total actions: 27000
+
+Objects list
+	depot:5
+	distributor:5
+	truck:6
+	pallet:10
+	crate:6
+	hoist:10
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    17    |    18     |   10   |   10    |   10   |   10    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.94      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not executable actions: 26890
+Random action chosen
+Not Successfully executed action 19689: lift(hoist9,crate5,crate4,distributor4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.78  |  1   |    17    |    18     |   10   |   10    |   10   |   10    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.94      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not executable actions: 26935
+Random action chosen
+
+
+Checking feasibility of operator lift negated preconditions of length 1
+FD computational time: 0:00:57.548460
+Plan computed: False Plan length: None
+The feasibility of operator lift negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator lift does not admit new positive effects
+Operator drive does not admit new positive effects
+Operator drop does not admit new positive effects
+Operator load does not admit new positive effects
+Operator unload does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator lift with possible negative effects
+FD computational time: 0:00:01.009179
+Plan computed: False Plan length: None
+Operator drive does not admit new negative effects
+
+
+Checking feasibility of operator drop with possible negative effects
+FD computational time: 0:00:01.015106
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator load with possible negative effects
+FD computational time: 0:00:01.057693
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload with possible negative effects
+FD computational time: 0:00:01.078242
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator lift has no known positive effects to check
+Operator drive has no known positive effects to check
+Operator drop has no known positive effects to check
+Operator load has no known positive effects to check
+Operator unload has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator lift has no known negative effects to check
+Operator drive has no known negative effects to check
+Operator drop has no known negative effects to check
+Operator load has no known negative effects to check
+Operator unload has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 65.66  |  2   |    17    |    18     |   10   |   10    |   10   |   10    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.94      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 65.66  |  2   |    17    |    18     |   10   |   10    |   10   |   18    |   0   |   1   |   0   |   0   |   0   |   8   |    1.00    |   1.00   |   1.00   |     0.94      |    1.00     |    0.56     |   1.00   |    0.80     
+
+

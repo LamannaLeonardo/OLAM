@@ -1,0 +1,29 @@
+{
+  "detonate-bomb": [
+    "(clear ?param_1)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)"
+  ],
+  "fire-laser": [
+    "(clear ?param_1)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)"
+  ],
+  "move": [
+    "(clear ?param_1)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)"
+  ],
+  "pick-gold": [
+    "(clear ?param_1)"
+  ],
+  "pickup-bomb": [
+    "(clear ?param_1)"
+  ],
+  "pickup-laser": [
+    "(clear ?param_1)"
+  ],
+  "putdown-laser": [
+    "(clear ?param_1)"
+  ]
+}

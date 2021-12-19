@@ -1,0 +1,10 @@
+{
+  "drive": [],
+  "drop": [],
+  "lift": [
+    "(at ?param_3 ?param_4)",
+    "(at ?param_2 ?param_4)"
+  ],
+  "load": [],
+  "unload": []
+}

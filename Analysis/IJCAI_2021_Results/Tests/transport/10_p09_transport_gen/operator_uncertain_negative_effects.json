@@ -1,0 +1,18 @@
+{
+  "drive": [
+    "(road ?param_2 ?param_2)",
+    "(road ?param_3 ?param_3)"
+  ],
+  "pick-up": [
+    "(capacity-predecessor ?param_4 ?param_4)",
+    "(capacity-predecessor ?param_5 ?param_4)",
+    "(capacity-predecessor ?param_5 ?param_5)",
+    "(road ?param_2 ?param_2)"
+  ],
+  "drop": [
+    "(capacity-predecessor ?param_4 ?param_4)",
+    "(capacity-predecessor ?param_5 ?param_4)",
+    "(capacity-predecessor ?param_5 ?param_5)",
+    "(road ?param_2 ?param_2)"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "load": [
+    "(connected ?param_3 ?param_3)"
+  ],
+  "unload": [
+    "(connected ?param_3 ?param_3)"
+  ],
+  "drive": [
+    "(connected ?param_2 ?param_2)",
+    "(connected ?param_3 ?param_3)",
+    "(fuel ?param_1 ?param_5)",
+    "(fuelcost ?param_4 ?param_2 ?param_2)",
+    "(fuelcost ?param_4 ?param_3 ?param_3)",
+    "(fuelcost ?param_5 ?param_2 ?param_2)",
+    "(fuelcost ?param_5 ?param_3 ?param_3)",
+    "(fuelcost ?param_6 ?param_2 ?param_2)",
+    "(fuelcost ?param_6 ?param_3 ?param_3)",
+    "(sum ?param_4 ?param_4 ?param_4)",
+    "(sum ?param_4 ?param_4 ?param_5)",
+    "(sum ?param_4 ?param_4 ?param_6)",
+    "(sum ?param_4 ?param_5 ?param_4)",
+    "(sum ?param_4 ?param_5 ?param_5)",
+    "(sum ?param_4 ?param_6 ?param_4)",
+    "(sum ?param_4 ?param_6 ?param_5)",
+    "(sum ?param_4 ?param_6 ?param_6)",
+    "(sum ?param_5 ?param_4 ?param_4)",
+    "(sum ?param_5 ?param_4 ?param_5)",
+    "(sum ?param_5 ?param_5 ?param_4)",
+    "(sum ?param_5 ?param_5 ?param_5)",
+    "(sum ?param_5 ?param_5 ?param_6)",
+    "(sum ?param_5 ?param_6 ?param_4)",
+    "(sum ?param_5 ?param_6 ?param_5)",
+    "(sum ?param_5 ?param_6 ?param_6)",
+    "(sum ?param_6 ?param_4 ?param_4)",
+    "(sum ?param_6 ?param_4 ?param_5)",
+    "(sum ?param_6 ?param_4 ?param_6)",
+    "(sum ?param_6 ?param_5 ?param_4)",
+    "(sum ?param_6 ?param_5 ?param_5)",
+    "(sum ?param_6 ?param_5 ?param_6)",
+    "(sum ?param_6 ?param_6 ?param_4)",
+    "(sum ?param_6 ?param_6 ?param_5)",
+    "(sum ?param_6 ?param_6 ?param_6)"
+  ]
+}

@@ -1,0 +1,339 @@
+
+Total actions: 24
+
+Objects list
+	block:3
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    9     |     0     |   9    |    0    |   9    |    0    |   9   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 12: stack(b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.10  |  1   |    9     |     0     |   9    |    0    |   9    |    0    |   9   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 9
+Random action chosen
+Not Successfully executed action 5: put-down(b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.23  |  2   |    9     |     0     |   9    |    0    |   9    |    0    |   9   |   0   |   9   |   0   |   9   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 12
+Random action chosen
+Successfully executed action 0: pick-up(b1)
+Operator pick-up, adding certain positive effect (holding ?param_1)
+Operator pick-up, adding certain negative effect (not (clear ?param_1))
+Operator pick-up, adding certain negative effect (not (handempty))
+Operator pick-up, adding certain negative effect (not (ontable ?param_1))
+removing (clear ?param_1) from possible positive effects
+removing (handempty) from possible positive effects
+removing (on ?param_1 ?param_1) from possible positive effects
+removing (ontable ?param_1) from possible positive effects
+removing (holding ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.37  |  3   |    9     |     3     |   9    |    1    |   9    |    3    |   6   |   0   |   8   |   0   |   6   |   0   |    0.33    |   0.11   |   0.33   |     1.00      |    0.25     |    1.00     |   0.26   |    1.00     
+
+
+Not executable actions: 7
+Random action chosen
+Successfully executed action 8: stack(b1,b3)
+operator stack, adding certain precondition: (holding ?param_1)
+Operator stack, adding certain positive effect (clear ?param_1)
+Operator stack, adding certain positive effect (handempty)
+Operator stack, adding certain positive effect (on ?param_1 ?param_2)
+Operator stack, adding certain negative effect (not (clear ?param_2))
+Operator stack, adding certain negative effect (not (holding ?param_1))
+removing (clear ?param_2) from possible positive effects
+removing (holding ?param_1) from possible positive effects
+removing (holding ?param_2) from possible positive effects
+removing (on ?param_1 ?param_1) from possible positive effects
+removing (on ?param_2 ?param_1) from possible positive effects
+removing (on ?param_2 ?param_2) from possible positive effects
+removing (ontable ?param_1) from possible positive effects
+removing (clear ?param_1) from possible negative effects
+removing (handempty) from possible negative effects
+removing (on ?param_1 ?param_2) from possible negative effects
+removing (ontable ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.49  |  4   |    9     |     6     |   9    |    4    |   9    |    5    |   4   |   1   |   5   |   0   |   4   |   0   |    0.56    |   0.44   |   0.56   |     0.83      |    0.67     |    1.00     |   0.52   |    0.93     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 18: unstack(b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.60  |  5   |    9     |     6     |   9    |    4    |   9    |    5    |   4   |   1   |   5   |   0   |   4   |   0   |    0.56    |   0.44   |   0.56   |     0.83      |    0.67     |    1.00     |   0.52   |    0.93     
+
+
+Not executable actions: 14
+Random action chosen
+Successfully executed action 17: unstack(b1,b3)
+Operator unstack, adding certain positive effect (clear ?param_2)
+Operator unstack, adding certain positive effect (holding ?param_1)
+Operator unstack, adding certain negative effect (not (clear ?param_1))
+Operator unstack, adding certain negative effect (not (handempty))
+Operator unstack, adding certain negative effect (not (on ?param_1 ?param_2))
+removing (clear ?param_1) from possible positive effects
+removing (handempty) from possible positive effects
+removing (holding ?param_2) from possible positive effects
+removing (on ?param_1 ?param_1) from possible positive effects
+removing (on ?param_1 ?param_2) from possible positive effects
+removing (on ?param_2 ?param_1) from possible positive effects
+removing (on ?param_2 ?param_2) from possible positive effects
+removing (ontable ?param_1) from possible positive effects
+removing (clear ?param_2) from possible negative effects
+removing (holding ?param_1) from possible negative effects
+removing (ontable ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.73  |  6   |    9     |    10     |   9    |    6    |   9    |    8    |   1   |   2   |   3   |   0   |   1   |   0   |    0.89    |   0.67   |   0.89   |     0.80      |    0.86     |    1.00     |   0.81   |    0.92     
+
+
+Not executable actions: 12
+Random action chosen
+Successfully executed action 3: put-down(b1)
+operator put-down, adding certain precondition: (holding ?param_1)
+Operator put-down, adding certain positive effect (clear ?param_1)
+Operator put-down, adding certain positive effect (handempty)
+Operator put-down, adding certain positive effect (ontable ?param_1)
+Operator put-down, adding certain negative effect (not (holding ?param_1))
+removing (holding ?param_1) from possible positive effects
+removing (on ?param_1 ?param_1) from possible positive effects
+removing (clear ?param_1) from possible negative effects
+removing (handempty) from possible negative effects
+removing (ontable ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.83  |  7   |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 18: unstack(b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.94  |  8   |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+operator unstack, adding certain precondition: (on ?param_1 ?param_2)
+Not executable actions: 21
+Random action chosen
+
+
+Checking feasibility of operator pick-up negated preconditions of length 1
+FD computational time: 0:00:00.737484
+Plan computed: True Plan length: 1
+The feasibility of operator pick-up negated preconditions of length 1 is: True
+Successfully executed action 0: pick-up(b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.79  |  9   |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Not successfully executed action 1: pick-up(b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.91  |  10  |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+operator pick-up, adding certain precondition: (handempty)
+
+
+Checking feasibility of operator pick-up negated preconditions of length 1
+FD computational time: 0:00:00.737001
+Plan computed: True Plan length: 1
+The feasibility of operator pick-up negated preconditions of length 1 is: True
+Successfully executed action 7: stack(b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.67  |  11  |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Not successfully executed action 0: pick-up(b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.81  |  12  |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+operator pick-up, adding certain precondition: (ontable ?param_1)
+
+
+Checking feasibility of operator pick-up negated preconditions of length 1
+FD computational time: 0:00:00.734517
+Plan computed: True Plan length: 0
+The feasibility of operator pick-up negated preconditions of length 1 is: True
+Not successfully executed action 1: pick-up(b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.64  |  13  |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+operator pick-up, adding certain precondition: (clear ?param_1)
+
+
+Checking feasibility of operator stack negated preconditions of length 1
+FD computational time: 0:00:00.783928
+Plan computed: True Plan length: 1
+The feasibility of operator stack negated preconditions of length 1 is: True
+Successfully executed action 2: pick-up(b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.45  |  14  |    9     |    11     |   9    |    9    |   9    |    9    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.82      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Successfully executed action 12: stack(b3,b1)
+operator stack, removed uncertain preconditions ['(ontable ?param_2)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.58  |  15  |    9     |    10     |   9    |    9    |   9    |    9    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.90      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Not executable actions: 22
+Random action chosen
+Successfully executed action 21: unstack(b3,b1)
+operator unstack, removed uncertain preconditions ['(ontable ?param_2)']
+removing (ontable ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.70  |  16  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 19
+Random action chosen
+Not Successfully executed action 16: unstack(b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.80  |  17  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator unstack, adding certain precondition: (handempty)
+Not executable actions: 20
+Random action chosen
+Not Successfully executed action 13: stack(b3,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.92  |  18  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator stack, adding certain precondition: (clear ?param_2)
+Not executable actions: 22
+Random action chosen
+
+
+Checking feasibility of operator unstack negated preconditions of length 1
+FD computational time: 0:00:00.749009
+Plan computed: True Plan length: 1
+The feasibility of operator unstack negated preconditions of length 1 is: True
+Successfully executed action 12: stack(b3,b1)
+removing (ontable ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.79  |  19  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not successfully executed action 16: unstack(b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.93  |  20  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator unstack, adding certain precondition: (clear ?param_1)
+
+
+
+Looking for new positive effects of learned operators
+Operator pick-up does not admit new positive effects
+Operator stack does not admit new positive effects
+Operator unstack does not admit new positive effects
+Operator put-down does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator pick-up with possible negative effects
+FD computational time: 0:00:00.737520
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator stack with possible negative effects
+FD computational time: 0:00:00.738195
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unstack with possible negative effects
+FD computational time: 0:00:00.740854
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator put-down with possible negative effects
+FD computational time: 0:00:00.741910
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator pick-up has no known positive effects to check
+Operator stack has no known positive effects to check
+Operator unstack has no known positive effects to check
+Operator put-down has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator pick-up has no known negative effects to check
+Operator stack has no known negative effects to check
+Operator unstack has no known negative effects to check
+Operator put-down has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.92  |  21  |    9     |     9     |   9    |    9    |   9    |    9    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.92  |  21  |    9     |     9     |   9    |    9    |   9    |   21    |   0   |   0   |   0   |   0   |   0   |  12   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    0.43     |   1.00   |    0.69     
+
+

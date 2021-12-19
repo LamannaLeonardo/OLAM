@@ -1,0 +1,231 @@
+
+Total actions: 21
+
+Objects list
+	robot:1
+	gripper:2
+	room:3
+	object:1
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    6     |     0     |   4    |    0    |   4    |    0    |   6   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Successfully executed action 12: move(robot1,room3,room1)
+operator move, adding certain precondition: (at-robby ?param_1 ?param_2)
+Operator move, adding certain positive effect (at-robby ?param_1 ?param_3)
+Operator move, adding certain negative effect (not (at-robby ?param_1 ?param_2))
+removing (at-robby ?param_1 ?param_2) from possible positive effects
+removing (at-robby ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.10  |  1   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 6
+Random action chosen
+Not Successfully executed action 5: drop(robot1,ball1,room3,rgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.23  |  2   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 10
+Random action chosen
+Not Successfully executed action 0: drop(robot1,ball1,room1,lgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.37  |  3   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 18: pick(robot1,ball1,room2,rgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.52  |  4   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 14
+Random action chosen
+Not Successfully executed action 20: pick(robot1,ball1,room3,rgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.68  |  5   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 16
+Random action chosen
+Not Successfully executed action 16: pick(robot1,ball1,room1,rgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.85  |  6   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Not executable actions: 18
+Random action chosen
+Not Successfully executed action 16: pick(robot1,ball1,room1,rgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.99  |  7   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+
+
+Refining learned operators
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator pick with possible preconditions of length 1
+FD computational time: 0:00:00.718556
+Plan computed: True Plan length: 0
+The feasibility of operator pick with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator pick with possible preconditions of length 1
+FD computational time: 0:00:00.724323
+Plan computed: False Plan length: None
+The feasibility of operator pick with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop with possible preconditions of length 1
+FD computational time: 0:00:00.770733
+Plan computed: True Plan length: 0
+The feasibility of operator drop with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator drop with possible preconditions of length 1
+FD computational time: 0:00:00.779028
+Plan computed: False Plan length: None
+The feasibility of operator drop with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator pick with possible preconditions of length 2
+FD computational time: 0:00:00.721656
+Plan computed: True Plan length: 0
+The feasibility of operator pick with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator pick with possible preconditions of length 2
+FD computational time: 0:00:00.704433
+Plan computed: True Plan length: 1
+The feasibility of operator pick with possible preconditions of length 2 is: True
+Successfully executed action 8: move(robot1,room1,room3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.71  |  8   |    6     |     1     |   4    |    1    |   4    |    1    |   5   |   0   |   3   |   0   |   3   |   0   |    0.17    |   0.25   |   0.25   |     1.00      |    0.33     |    1.00     |   0.21   |    1.00     
+
+
+Successfully executed action 19: pick(robot1,ball1,room3,lgripper1)
+operator pick, adding certain precondition: (at-robby ?param_1 ?param_3)
+operator pick, adding certain precondition: (at ?param_2 ?param_3)
+Operator pick, adding certain positive effect (carry ?param_1 ?param_2 ?param_4)
+Operator pick, adding certain negative effect (not (at ?param_2 ?param_3))
+Operator pick, adding certain negative effect (not (free ?param_1 ?param_4))
+removing (at ?param_2 ?param_3) from possible positive effects
+removing (free ?param_1 ?param_4) from possible positive effects
+removing (at-robby ?param_1 ?param_3) from possible negative effects
+removing (carry ?param_1 ?param_2 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.83  |  9   |    6     |     4     |   4    |    2    |   4    |    3    |   2   |   0   |   2   |   0   |   1   |   0   |    0.67    |   0.50   |   0.75   |     1.00      |    0.67     |    1.00     |   0.64   |    1.00     
+
+
+Not executable actions: 15
+Random action chosen
+Not Successfully executed action 2: drop(robot1,ball1,room2,lgripper1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.94  |  10  |    6     |     4     |   4    |    2    |   4    |    3    |   2   |   0   |   2   |   0   |   1   |   0   |    0.67    |   0.50   |   0.75   |     1.00      |    0.67     |    1.00     |   0.64   |    1.00     
+
+
+Not executable actions: 17
+Random action chosen
+Successfully executed action 4: drop(robot1,ball1,room3,lgripper1)
+operator drop, adding certain precondition: (carry ?param_1 ?param_2 ?param_4)
+operator drop, adding certain precondition: (at-robby ?param_1 ?param_3)
+Operator drop, adding certain positive effect (at ?param_2 ?param_3)
+Operator drop, adding certain positive effect (free ?param_1 ?param_4)
+Operator drop, adding certain negative effect (not (carry ?param_1 ?param_2 ?param_4))
+removing (carry ?param_1 ?param_2 ?param_4) from possible positive effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (at-robby ?param_1 ?param_3) from possible negative effects
+removing (free ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.04  |  11  |    6     |     6     |   4    |    4    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 16
+Random action chosen
+
+
+Checking feasibility of operator pick negated preconditions of length 1
+FD computational time: 0:00:00.715155
+Plan computed: False Plan length: None
+The feasibility of operator pick negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+Operator pick does not admit new positive effects
+Operator drop does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+Operator move does not admit new negative effects
+Operator pick does not admit new negative effects
+Operator drop does not admit new negative effects
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+Operator pick has no known positive effects to check
+Operator drop has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+Operator pick has no known negative effects to check
+Operator drop has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.87  |  12  |    6     |     6     |   4    |    4    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.87  |  12  |    6     |     6     |   4    |    4    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+

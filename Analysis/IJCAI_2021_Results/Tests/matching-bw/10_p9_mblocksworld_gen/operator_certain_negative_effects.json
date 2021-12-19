@@ -1,0 +1,44 @@
+{
+  "unstack": [
+    "(not (clear ?param_2))",
+    "(not (empty ?param_1))",
+    "(not (on ?param_2 ?param_3))"
+  ],
+  "putdown-neg-neg": [
+    "(not (holding ?param_1 ?param_2))"
+  ],
+  "pickup": [
+    "(not (clear ?param_2))",
+    "(not (empty ?param_1))",
+    "(not (on-table ?param_2))"
+  ],
+  "stack-pos-neg": [
+    "(not (clear ?param_3))",
+    "(not (holding ?param_1 ?param_2))",
+    "(not (solid ?param_2))"
+  ],
+  "stack-neg-neg": [
+    "(not (clear ?param_3))",
+    "(not (holding ?param_1 ?param_2))"
+  ],
+  "putdown-pos-neg": [
+    "(not (holding ?param_1 ?param_2))",
+    "(not (solid ?param_2))"
+  ],
+  "putdown-pos-pos": [
+    "(not (holding ?param_1 ?param_2))"
+  ],
+  "stack-neg-pos": [
+    "(not (clear ?param_3))",
+    "(not (holding ?param_1 ?param_2))",
+    "(not (solid ?param_2))"
+  ],
+  "putdown-neg-pos": [
+    "(not (holding ?param_1 ?param_2))",
+    "(not (solid ?param_2))"
+  ],
+  "stack-pos-pos": [
+    "(not (clear ?param_3))",
+    "(not (holding ?param_1 ?param_2))"
+  ]
+}

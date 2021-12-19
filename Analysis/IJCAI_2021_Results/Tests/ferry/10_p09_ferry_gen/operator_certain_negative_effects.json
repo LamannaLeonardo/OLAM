@@ -1,0 +1,12 @@
+{
+  "sail": [
+    "(not (at-ferry ?param_1))"
+  ],
+  "board": [
+    "(not (at ?param_1 ?param_2))",
+    "(not (empty-ferry))"
+  ],
+  "debark": [
+    "(not (on ?param_1))"
+  ]
+}

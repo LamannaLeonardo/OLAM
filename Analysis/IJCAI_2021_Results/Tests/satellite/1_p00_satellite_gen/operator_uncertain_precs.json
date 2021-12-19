@@ -1,0 +1,9 @@
+{
+  "calibrate": [],
+  "switch_off": [],
+  "switch_on": [],
+  "take_image": [
+    "(supports ?param_3 ?param_4)"
+  ],
+  "turn_to": []
+}

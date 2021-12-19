@@ -1,0 +1,1251 @@
+
+Total actions: 300
+
+Objects list
+	hand:2
+	block:5
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 248
+Random action chosen
+Not Successfully executed action 244: stack-pos-pos(h2,b4,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.18  |  1   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 253
+Random action chosen
+Not Successfully executed action 200: stack-pos-pos(h1,b1,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.36  |  2   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 257
+Random action chosen
+Not Successfully executed action 207: stack-pos-pos(h1,b2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.53  |  3   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 258
+Random action chosen
+Not Successfully executed action 208: stack-pos-pos(h1,b2,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.72  |  4   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 259
+Random action chosen
+Not Successfully executed action 215: stack-pos-pos(h1,b4,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.99  |  5   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 262
+Random action chosen
+Not Successfully executed action 228: stack-pos-pos(h2,b1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.20  |  6   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 265
+Random action chosen
+Not Successfully executed action 233: stack-pos-pos(h2,b2,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.41  |  7   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 266
+Random action chosen
+Not Successfully executed action 229: stack-pos-pos(h2,b1,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.59  |  8   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 268
+Random action chosen
+Not Successfully executed action 212: stack-pos-pos(h1,b3,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.80  |  9   |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 272
+Random action chosen
+Not Successfully executed action 247: stack-pos-pos(h2,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.98  |  10  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 274
+Random action chosen
+Not Successfully executed action 219: stack-pos-pos(h1,b4,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.16  |  11  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 275
+Random action chosen
+Not Successfully executed action 226: stack-pos-pos(h2,b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.36  |  12  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 277
+Random action chosen
+Not Successfully executed action 203: stack-pos-pos(h1,b1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.54  |  13  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 279
+Random action chosen
+Not Successfully executed action 222: stack-pos-pos(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.74  |  14  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 281
+Random action chosen
+Not Successfully executed action 225: stack-pos-pos(h2,b1,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.92  |  15  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 283
+Random action chosen
+Not Successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.10  |  16  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 284
+Random action chosen
+Not Successfully executed action 239: stack-pos-pos(h2,b3,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.30  |  17  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 285
+Random action chosen
+Not Successfully executed action 209: stack-pos-pos(h1,b2,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.51  |  18  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 286
+Random action chosen
+Not Successfully executed action 224: stack-pos-pos(h1,b5,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.72  |  19  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 287
+Random action chosen
+Not Successfully executed action 246: stack-pos-pos(h2,b5,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.89  |  20  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 288
+Random action chosen
+Not Successfully executed action 245: stack-pos-pos(h2,b5,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.09  |  21  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 289
+Random action chosen
+Not Successfully executed action 221: stack-pos-pos(h1,b5,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.29  |  22  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 290
+Random action chosen
+Not Successfully executed action 220: stack-pos-pos(h1,b5,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.48  |  23  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 291
+Random action chosen
+Not Successfully executed action 204: stack-pos-pos(h1,b1,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.68  |  24  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 292
+Random action chosen
+Not Successfully executed action 240: stack-pos-pos(h2,b4,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.87  |  25  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 294
+Random action chosen
+Not Successfully executed action 216: stack-pos-pos(h1,b4,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.09  |  26  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 295
+Random action chosen
+Not Successfully executed action 249: stack-pos-pos(h2,b5,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.34  |  27  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 296
+Random action chosen
+Not Successfully executed action 241: stack-pos-pos(h2,b4,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.59  |  28  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 297
+Random action chosen
+Not Successfully executed action 214: stack-pos-pos(h1,b3,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.82  |  29  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Not executable actions: 298
+Random action chosen
+Not Successfully executed action 247: stack-pos-pos(h2,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.00  |  30  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator stack-neg-pos negated preconditions of length 1
+FD computational time: 0:00:00.958620
+Plan computed: True Plan length: 4
+The feasibility of operator stack-neg-pos negated preconditions of length 1 is: True
+Successfully executed action 272: unstack(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.00  |  31  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Successfully executed action 286: unstack(h2,b3,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.03  |  32  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Successfully executed action 17: putdown-neg-neg(h2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.06  |  33  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Successfully executed action 283: unstack(h2,b2,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.09  |  34  |    38    |    37     |   27   |   24    |   22   |   20    |   5   |   4   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.89      |    0.96     |    1.00     |   0.89   |    0.95     
+
+
+Successfully executed action 133: stack-neg-pos(h2,b2,b4)
+operator stack-neg-pos, removed uncertain preconditions ['(on-table ?param_3)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.46  |  35  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+
+
+Checking feasibility of operator stack-neg-pos negated preconditions of length 1
+FD computational time: 0:00:00.923287
+Plan computed: True Plan length: 5
+The feasibility of operator stack-neg-pos negated preconditions of length 1 is: True
+Successfully executed action 283: unstack(h2,b2,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.42  |  36  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+Successfully executed action 26: putdown-neg-pos(h2,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.46  |  37  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+Successfully executed action 290: unstack(h2,b4,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.49  |  38  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+Successfully executed action 18: putdown-neg-neg(h2,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.52  |  39  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+Successfully executed action 6: pickup(h2,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.55  |  40  |    38    |    36     |   27   |   24    |   22   |   20    |   5   |   3   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.92      |    0.96     |    1.00     |   0.89   |    0.96     
+
+
+Successfully executed action 130: stack-neg-pos(h2,b2,b1)
+operator stack-neg-pos, removed uncertain preconditions ['(block-negative ?param_3)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.89  |  41  |    38    |    35     |   27   |   24    |   22   |   20    |   5   |   2   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.94      |    0.96     |    1.00     |   0.89   |    0.97     
+
+
+
+
+Checking feasibility of operator stack-pos-neg negated preconditions of length 1
+FD computational time: 0:00:00.965394
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-neg negated preconditions of length 1 is: True
+Successfully executed action 172: stack-pos-neg(h1,b5,b3)
+operator stack-pos-neg, removed uncertain preconditions ['(block-positive ?param_3)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.29  |  42  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator unstack negated preconditions of length 1
+FD computational time: 0:00:01.003776
+Plan computed: True Plan length: 1
+The feasibility of operator unstack negated preconditions of length 1 is: True
+Successfully executed action 3: pickup(h1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.32  |  43  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 255: unstack(h1,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.68  |  44  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+operator unstack, adding certain precondition: (empty ?param_1)
+
+
+Checking feasibility of operator unstack negated preconditions of length 1
+FD computational time: 0:00:00.954864
+Plan computed: False Plan length: None
+The feasibility of operator unstack negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator unstack negated preconditions of length 2
+FD computational time: 0:00:01.098126
+Plan computed: False Plan length: None
+The feasibility of operator unstack negated preconditions of length 2 is: False
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 1
+FD computational time: 0:00:01.454761
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-pos with possible preconditions of length 1 is: True
+Not successfully executed action 201: stack-pos-pos(h1,b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.50  |  45  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 205: stack-pos-pos(h1,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.55  |  46  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 1
+FD computational time: 0:00:00.964652
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 2
+FD computational time: 0:00:00.913822
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-pos with possible preconditions of length 2 is: True
+Not successfully executed action 202: stack-pos-pos(h1,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.70  |  47  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 203: stack-pos-pos(h1,b1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.72  |  48  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 210: stack-pos-pos(h1,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.74  |  49  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 214: stack-pos-pos(h1,b3,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.76  |  50  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 215: stack-pos-pos(h1,b4,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.77  |  51  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 222: stack-pos-pos(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.79  |  52  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 226: stack-pos-pos(h2,b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.81  |  53  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 230: stack-pos-pos(h2,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.83  |  54  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 2
+FD computational time: 0:00:00.761398
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 2 is: True
+Successfully executed action 280: unstack(h2,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.62  |  55  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 200: stack-pos-pos(h1,b1,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.90  |  56  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 2
+FD computational time: 0:00:00.758070
+Plan computed: True Plan length: 5
+The feasibility of operator stack-pos-pos with possible preconditions of length 2 is: True
+Successfully executed action 26: putdown-neg-pos(h2,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.68  |  57  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 33: putdown-pos-neg(h1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.70  |  58  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 272: unstack(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.72  |  59  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 7: pickup(h2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.74  |  60  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 85: stack-neg-neg(h2,b3,b1)
+removing (on-table ?param_3) from possible negative effects
+removing (solid ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.75  |  61  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 202: stack-pos-pos(h1,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.04  |  62  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 210: stack-pos-pos(h1,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.06  |  63  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 2
+FD computational time: 0:00:00.766025
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.372335
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Not successfully executed action 203: stack-pos-pos(h1,b1,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.68  |  64  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 207: stack-pos-pos(h1,b2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.70  |  65  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 211: stack-pos-pos(h1,b3,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.72  |  66  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 214: stack-pos-pos(h1,b3,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.74  |  67  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 215: stack-pos-pos(h1,b4,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.75  |  68  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 222: stack-pos-pos(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.77  |  69  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 226: stack-pos-pos(h2,b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.79  |  70  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 227: stack-pos-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.81  |  71  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 230: stack-pos-pos(h2,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.83  |  72  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.84  |  73  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.212292
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 285: unstack(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.08  |  74  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 227: stack-pos-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.54  |  75  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.56  |  76  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 237: stack-pos-pos(h2,b3,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.58  |  77  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.261995
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 170: stack-pos-neg(h1,b5,b1)
+removing (on-table ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.87  |  78  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 204: stack-pos-pos(h1,b1,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.27  |  79  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 220: stack-pos-pos(h1,b5,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.29  |  80  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.095442
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 1: pickup(h1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.41  |  81  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 201: stack-pos-pos(h1,b1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.78  |  82  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 205: stack-pos-pos(h1,b2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.79  |  83  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.252864
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 17: putdown-neg-neg(h2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.07  |  84  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 202: stack-pos-pos(h1,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.47  |  85  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 210: stack-pos-pos(h1,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.49  |  86  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.125883
+Plan computed: True Plan length: 2
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 295: unstack(h2,b5,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.65  |  87  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 97: stack-neg-neg(h2,b5,b3)
+removing (block-positive ?param_3) from possible positive effects
+removing (block-negative ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.67  |  88  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 239: stack-pos-pos(h2,b3,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.06  |  89  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 247: stack-pos-pos(h2,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.08  |  90  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.111104
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 5: pickup(h2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.22  |  91  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 225: stack-pos-pos(h2,b1,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.61  |  92  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.095436
+Plan computed: True Plan length: 3
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 41: putdown-pos-pos(h1,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.73  |  93  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 272: unstack(h1,b5,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.75  |  94  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 127: stack-neg-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.77  |  95  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 202: stack-pos-pos(h1,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.14  |  96  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 210: stack-pos-pos(h1,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.17  |  97  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 227: stack-pos-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.18  |  98  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.20  |  99  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.004163
+Plan computed: True Plan length: 3
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: True
+Successfully executed action 277: unstack(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.23  | 100  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 34: putdown-pos-neg(h1,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.25  | 101  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Successfully executed action 2: pickup(h1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.27  | 102  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 3
+FD computational time: 0:00:01.041688
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 3 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 4
+FD computational time: 0:00:04.842840
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-pos with possible preconditions of length 4 is: True
+Not successfully executed action 207: stack-pos-pos(h1,b2,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.94  | 103  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 211: stack-pos-pos(h1,b3,b2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.96  | 104  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 212: stack-pos-pos(h1,b3,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.98  | 105  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 213: stack-pos-pos(h1,b3,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.00  | 106  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 217: stack-pos-pos(h1,b4,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.02  | 107  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 227: stack-pos-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.04  | 108  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.05  | 109  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 238: stack-pos-pos(h2,b3,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.07  | 110  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 242: stack-pos-pos(h2,b4,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.09  | 111  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 4
+FD computational time: 0:00:04.557798
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 4 is: True
+Successfully executed action 25: putdown-neg-pos(h2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 47.68  | 112  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 227: stack-pos-pos(h2,b1,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 48.90  | 113  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 235: stack-pos-pos(h2,b3,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 48.92  | 114  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 238: stack-pos-pos(h2,b3,b4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 48.95  | 115  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+Not successfully executed action 242: stack-pos-pos(h2,b4,b3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 48.97  | 116  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 4
+FD computational time: 0:00:04.531735
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 4 is: True
+Successfully executed action 9: pickup(h2,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.52  | 117  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 4
+FD computational time: 0:00:04.434618
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 4 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 5
+FD computational time: 0:00:23.320523
+Plan computed: True Plan length: 0
+The feasibility of operator stack-pos-pos with possible preconditions of length 5 is: True
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 5
+FD computational time: 0:00:22.019628
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 5 is: True
+Successfully executed action 19: putdown-neg-neg(h2,b5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 108.43 | 118  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 5
+FD computational time: 0:00:22.391775
+Plan computed: True Plan length: 1
+The feasibility of operator stack-pos-pos with possible preconditions of length 5 is: True
+Successfully executed action 5: pickup(h2,b1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 133.79 | 119  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 5
+FD computational time: 0:00:22.743151
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 5 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 6
+FD computational time: 0:00:57.637796
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 6 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 7
+FD computational time: 0:00:57.586258
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 7 is: False
+
+
+Checking feasibility of operator stack-pos-pos with possible preconditions of length 8
+FD computational time: 0:00:57.603445
+Plan computed: False Plan length: None
+The feasibility of operator stack-pos-pos with possible preconditions of length 8 is: False
+
+
+
+
+Model convergence reached, although not all operators have been learned 
+
+
+
+Looking for new positive effects of learned operators
+(exists (?param_1 - hand ?param_2 ?param_3 - block) (and (block-positive ?param_2) (clear ?param_3) (hand-negative ?param_1) (holding ?param_1 ?param_2) (solid ?param_3) (not (block-negative ?param_3)) (not (= ?param_3 ?param_2))))
+
+
+
+Checking feasibility of operator stack-neg-pos with possible positive effect (block-negative ?param_3)
+FD computational time: 0:00:00.712087
+Plan computed: False Plan length: None
+(exists (?param_1 - hand ?param_2 ?param_3 - block) (and (block-positive ?param_2) (clear ?param_3) (hand-negative ?param_1) (holding ?param_1 ?param_2) (solid ?param_3) (not (on-table ?param_3)) (not (= ?param_3 ?param_2))))
+
+
+
+Checking feasibility of operator stack-neg-pos with possible positive effect (on-table ?param_3)
+FD computational time: 0:00:00.730401
+Plan computed: False Plan length: None
+(exists (?param_1 - hand ?param_2 ?param_3 - block) (and (block-negative ?param_2) (clear ?param_3) (hand-positive ?param_1) (holding ?param_1 ?param_2) (solid ?param_3) (not (block-positive ?param_3)) (not (= ?param_3 ?param_2))))
+
+
+
+Checking feasibility of operator stack-pos-neg with possible positive effect (block-positive ?param_3)
+FD computational time: 0:00:00.726000
+Plan computed: False Plan length: None
+Operator unstack does not admit new positive effects
+Operator pickup does not admit new positive effects
+Operator putdown-pos-pos does not admit new positive effects
+Operator putdown-neg-neg does not admit new positive effects
+Operator putdown-pos-neg does not admit new positive effects
+Operator putdown-neg-pos does not admit new positive effects
+Operator stack-neg-neg does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator stack-neg-pos with possible negative effects
+FD computational time: 0:00:00.752936
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator stack-pos-neg with possible negative effects
+FD computational time: 0:00:00.822262
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unstack with possible negative effects
+FD computational time: 0:00:01.169940
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup with possible negative effects
+FD computational time: 0:00:01.264941
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-pos-pos with possible negative effects
+FD computational time: 0:00:01.305163
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-neg-neg with possible negative effects
+FD computational time: 0:00:01.254021
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-pos-neg with possible negative effects
+FD computational time: 0:00:00.864492
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-neg-pos with possible negative effects
+FD computational time: 0:00:00.804882
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator stack-neg-neg with possible negative effects
+FD computational time: 0:00:00.758779
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator stack-neg-pos has no known positive effects to check
+Operator stack-pos-neg has no known positive effects to check
+Operator unstack has no known positive effects to check
+Operator pickup has no known positive effects to check
+Operator putdown-pos-pos has no known positive effects to check
+Operator putdown-neg-neg has no known positive effects to check
+Operator putdown-pos-neg has no known positive effects to check
+Operator putdown-neg-pos has no known positive effects to check
+Operator stack-neg-neg has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator stack-neg-pos has no known negative effects to check
+Operator stack-pos-neg has no known negative effects to check
+Operator unstack has no known negative effects to check
+Operator pickup has no known negative effects to check
+Operator putdown-pos-pos has no known negative effects to check
+Operator putdown-neg-neg has no known negative effects to check
+Operator putdown-pos-neg has no known negative effects to check
+Operator putdown-neg-pos has no known negative effects to check
+Operator stack-neg-neg has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 344.98 | 120  |    38    |    34     |   27   |   24    |   22   |   20    |   5   |   1   |   3   |   0   |   2   |   0   |    0.87    |   0.89   |   0.91   |     0.97      |    0.96     |    1.00     |   0.89   |    0.99     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 344.98 | 120  |    38    |    34     |   27   |   24    |   22   |   80    |   5   |   1   |   3   |   0   |   0   |  58   |    0.87    |   0.89   |   1.00   |     0.97      |    0.96     |    0.28     |   0.91   |    0.57     
+
+

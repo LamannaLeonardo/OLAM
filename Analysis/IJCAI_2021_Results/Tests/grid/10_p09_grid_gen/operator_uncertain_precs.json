@@ -1,0 +1,21 @@
+{
+  "move": [
+    "(open ?param_1)",
+    "(conn ?param_2 ?param_1)",
+    "(conn ?param_1 ?param_2)"
+  ],
+  "pickup": [
+    "(open ?param_1)"
+  ],
+  "pickup-and-loose": [
+    "(open ?param_1)"
+  ],
+  "putdown": [
+    "(open ?param_1)"
+  ],
+  "unlock": [
+    "(open ?param_1)",
+    "(conn ?param_2 ?param_1)",
+    "(conn ?param_1 ?param_2)"
+  ]
+}

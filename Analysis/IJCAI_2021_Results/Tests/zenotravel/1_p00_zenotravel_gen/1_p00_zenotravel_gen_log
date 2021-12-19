@@ -1,0 +1,728 @@
+
+Total actions: 3340
+
+Objects list
+	aircraft:2
+	person:1
+	city:2
+	flevel:7
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 2732: zoom(plane2,city1,city0,fl1,fl4,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.38  |  1   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 408
+Random action chosen
+Not Successfully executed action 2914: zoom(plane2,city1,city0,fl5,fl2,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.95  |  2   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 452
+Random action chosen
+Not Successfully executed action 1859: zoom(plane1,city1,city1,fl4,fl5,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.10  |  3   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 503
+Random action chosen
+Not Successfully executed action 835: zoom(plane1,city0,city0,fl4,fl6,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.92  |  4   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1019
+Random action chosen
+Not Successfully executed action 851: zoom(plane1,city0,city0,fl5,fl1,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.92  |  5   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1127
+Random action chosen
+Not Successfully executed action 2530: zoom(plane2,city0,city1,fl4,fl3,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.32  |  6   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1207
+Random action chosen
+Not Successfully executed action 1356: zoom(plane1,city1,city0,fl1,fl3,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.10  |  7   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1319
+Random action chosen
+Not Successfully executed action 2722: zoom(plane2,city1,city0,fl1,fl2,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.83  |  8   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1341
+Random action chosen
+Not Successfully executed action 277: fly(plane2,city0,city1,fl3,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.55  |  9   |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1449
+Random action chosen
+Not Successfully executed action 3053: zoom(plane2,city1,city1,fl1,fl1,fl0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.94  |  10  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1458
+Random action chosen
+Not Successfully executed action 3218: zoom(plane2,city1,city1,fl4,fl3,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.64  |  11  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1467
+Random action chosen
+Not Successfully executed action 763: zoom(plane1,city0,city0,fl3,fl2,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.42  |  12  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1511
+Random action chosen
+Not Successfully executed action 1754: zoom(plane1,city1,city1,fl2,fl4,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.38  |  13  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1540
+Random action chosen
+Not Successfully executed action 2604: zoom(plane2,city0,city1,fl5,fl6,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.24  |  14  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1684
+Random action chosen
+Not Successfully executed action 772: zoom(plane1,city0,city0,fl3,fl4,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.20  |  15  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1720
+Random action chosen
+Not Successfully executed action 2726: zoom(plane2,city1,city0,fl1,fl3,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.96  |  16  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1749
+Random action chosen
+Not Successfully executed action 422: refuel(plane1,city0,fl3,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.66  |  17  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1875
+Random action chosen
+Not Successfully executed action 1332: zoom(plane1,city1,city0,fl1,fl0,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.00  |  18  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1952
+Random action chosen
+Not Successfully executed action 954: zoom(plane1,city0,city1,fl0,fl2,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.79  |  19  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1967
+Random action chosen
+Not Successfully executed action 115: fly(plane1,city1,city0,fl1,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.53  |  20  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2059
+Random action chosen
+Not Successfully executed action 308: fly(plane2,city1,city0,fl0,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.88  |  21  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2077
+Random action chosen
+Not Successfully executed action 2140: zoom(plane2,city0,city0,fl3,fl3,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.20  |  22  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2179
+Random action chosen
+Not Successfully executed action 1289: zoom(plane1,city1,city0,fl0,fl1,fl0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.88  |  23  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2225
+Random action chosen
+Not Successfully executed action 2292: zoom(plane2,city0,city0,fl6,fl4,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.48  |  24  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2279
+Random action chosen
+Not Successfully executed action 90: fly(plane1,city0,city1,fl4,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.11  |  25  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2288
+Random action chosen
+Not Successfully executed action 2252: zoom(plane2,city0,city0,fl5,fl5,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.49  |  26  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2403
+Random action chosen
+Not Successfully executed action 3276: zoom(plane2,city1,city1,fl5,fl4,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.13  |  27  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2411
+Random action chosen
+Not Successfully executed action 229: fly(plane2,city0,city0,fl3,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.81  |  28  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2474
+Random action chosen
+Not Successfully executed action 2653: zoom(plane2,city0,city1,fl6,fl6,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.14  |  29  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2505
+Random action chosen
+Not Successfully executed action 2603: zoom(plane2,city0,city1,fl5,fl6,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.84  |  30  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2524
+Random action chosen
+Not Successfully executed action 1395: zoom(plane1,city1,city0,fl2,fl2,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.50  |  31  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2535
+Random action chosen
+Not Successfully executed action 1501: zoom(plane1,city1,city0,fl4,fl3,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.16  |  32  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2542
+Random action chosen
+Not Successfully executed action 343: fly(plane2,city1,city0,fl5,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.77  |  33  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2546
+Random action chosen
+Not Successfully executed action 603: zoom(plane1,city0,city0,fl0,fl1,fl0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.09  |  34  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2573
+Random action chosen
+Not Successfully executed action 3296: zoom(plane2,city1,city1,fl6,fl0,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.70  |  35  |    14    |     0     |   7    |    0    |   7    |    0    |  14   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2581
+Random action chosen
+Successfully executed action 2644: zoom(plane2,city0,city1,fl6,fl5,fl4)
+operator zoom, adding certain precondition: (fuel-level ?param_1 ?param_4)
+Operator zoom, adding certain positive effect (at ?param_1 ?param_3)
+Operator zoom, adding certain positive effect (fuel-level ?param_1 ?param_6)
+Operator zoom, adding certain negative effect (not (at ?param_1 ?param_2))
+Operator zoom, adding certain negative effect (not (fuel-level ?param_1 ?param_4))
+removing (at ?param_1 ?param_2) from possible positive effects
+removing (fuel-level ?param_1 ?param_4) from possible positive effects
+removing (fuel-level ?param_1 ?param_5) from possible positive effects
+removing (next ?param_4 ?param_4) from possible positive effects
+removing (next ?param_4 ?param_5) from possible positive effects
+removing (next ?param_4 ?param_6) from possible positive effects
+removing (next ?param_5 ?param_5) from possible positive effects
+removing (next ?param_5 ?param_6) from possible positive effects
+removing (next ?param_6 ?param_4) from possible positive effects
+removing (next ?param_6 ?param_6) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (fuel-level ?param_1 ?param_6) from possible negative effects
+removing (next ?param_5 ?param_4) from possible negative effects
+removing (next ?param_6 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.42  |  36  |    14    |     4     |   7    |    2    |   7    |    2    |  10   |   0   |   5   |   0   |   5   |   0   |    0.29    |   0.29   |   0.29   |     1.00      |    0.33     |    1.00     |   0.29   |    1.00     
+
+
+Not executable actions: 3094
+Random action chosen
+Not Successfully executed action 528: refuel(plane2,city0,fl4,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.03  |  37  |    14    |     4     |   7    |    2    |   7    |    2    |  10   |   0   |   5   |   0   |   5   |   0   |    0.29    |   0.29   |   0.29   |     1.00      |    0.33     |    1.00     |   0.29   |    1.00     
+
+
+Not executable actions: 3102
+Random action chosen
+Not Successfully executed action 530: refuel(plane2,city0,fl4,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.40  |  38  |    14    |     4     |   7    |    2    |   7    |    2    |  10   |   0   |   5   |   0   |   5   |   0   |    0.29    |   0.29   |   0.29   |     1.00      |    0.33     |    1.00     |   0.29   |    1.00     
+
+
+Not executable actions: 3104
+Random action chosen
+Not Successfully executed action 70: fly(plane1,city0,city1,fl1,fl6)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.76  |  39  |    14    |     4     |   7    |    2    |   7    |    2    |  10   |   0   |   5   |   0   |   5   |   0   |    0.29    |   0.29   |   0.29   |     1.00      |    0.33     |    1.00     |   0.29   |    1.00     
+
+
+Not executable actions: 3112
+Random action chosen
+Successfully executed action 15: fly(plane1,city0,city0,fl1,fl0)
+Operator fly, adding certain positive effect (fuel-level ?param_1 ?param_5)
+Operator fly, adding certain negative effect (not (fuel-level ?param_1 ?param_4))
+removing (fuel-level ?param_1 ?param_4) from possible positive effects
+removing (next ?param_4 ?param_4) from possible positive effects
+removing (next ?param_4 ?param_5) from possible positive effects
+removing (next ?param_5 ?param_5) from possible positive effects
+removing (fuel-level ?param_1 ?param_5) from possible negative effects
+removing (next ?param_5 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.13  |  40  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3152
+Random action chosen
+Not Successfully executed action 575: refuel(plane2,city1,fl4,fl0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.68  |  41  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3161
+Random action chosen
+Not Successfully executed action 496: refuel(plane1,city1,fl6,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.04  |  42  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3170
+Random action chosen
+Not Successfully executed action 523: refuel(plane2,city0,fl3,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.40  |  43  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3180
+Random action chosen
+Not Successfully executed action 407: refuel(plane1,city0,fl1,fl0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.74  |  44  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3193
+Random action chosen
+Not Successfully executed action 564: refuel(plane2,city1,fl2,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.11  |  45  |    14    |     8     |   7    |    3    |   7    |    3    |   7   |   1   |   4   |   0   |   4   |   0   |    0.50    |   0.43   |   0.43   |     0.88      |    0.50     |    1.00     |   0.46   |    0.93     
+
+
+Not executable actions: 3202
+Random action chosen
+Successfully executed action 3: board(person1,plane2,city1)
+Operator board, adding certain positive effect (in ?param_1 ?param_2)
+Operator board, adding certain negative effect (not (at ?param_1 ?param_3))
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (in ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.45  |  46  |    14    |    10     |   7    |    4    |   7    |    4    |   5   |   1   |   3   |   0   |   3   |   0   |    0.64    |   0.57   |   0.57   |     0.90      |    0.67     |    1.00     |   0.61   |    0.94     
+
+
+Not executable actions: 3204
+Random action chosen
+Not Successfully executed action 579: refuel(plane2,city1,fl4,fl4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.03  |  47  |    14    |    10     |   7    |    4    |   7    |    4    |   5   |   1   |   3   |   0   |   3   |   0   |    0.64    |   0.57   |   0.57   |     0.90      |    0.67     |    1.00     |   0.61   |    0.94     
+
+
+Not executable actions: 3206
+Random action chosen
+Not Successfully executed action 6: debark(person1,plane2,city0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.41  |  48  |    14    |    10     |   7    |    4    |   7    |    4    |   5   |   1   |   3   |   0   |   3   |   0   |    0.64    |   0.57   |   0.57   |     0.90      |    0.67     |    1.00     |   0.61   |    0.94     
+
+
+Not executable actions: 3208
+Random action chosen
+Not Successfully executed action 578: refuel(plane2,city1,fl4,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.74  |  49  |    14    |    10     |   7    |    4    |   7    |    4    |   5   |   1   |   3   |   0   |   3   |   0   |    0.64    |   0.57   |   0.57   |     0.90      |    0.67     |    1.00     |   0.61   |    0.94     
+
+
+Not executable actions: 3210
+Random action chosen
+Not Successfully executed action 531: refuel(plane2,city0,fl4,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.12  |  50  |    14    |    10     |   7    |    4    |   7    |    4    |   5   |   1   |   3   |   0   |   3   |   0   |    0.64    |   0.57   |   0.57   |     0.90      |    0.67     |    1.00     |   0.61   |    0.94     
+
+
+Not executable actions: 3212
+Random action chosen
+Successfully executed action 401: refuel(plane1,city0,fl0,fl1)
+operator refuel, adding certain precondition: (fuel-level ?param_1 ?param_3)
+operator refuel, adding certain precondition: (next ?param_3 ?param_4)
+operator refuel, adding certain precondition: (at ?param_1 ?param_2)
+Operator refuel, adding certain positive effect (fuel-level ?param_1 ?param_4)
+Operator refuel, adding certain negative effect (not (fuel-level ?param_1 ?param_3))
+removing (fuel-level ?param_1 ?param_3) from possible positive effects
+removing (next ?param_3 ?param_3) from possible positive effects
+removing (next ?param_4 ?param_3) from possible positive effects
+removing (next ?param_4 ?param_4) from possible positive effects
+removing (at ?param_1 ?param_2) from possible negative effects
+removing (fuel-level ?param_1 ?param_4) from possible negative effects
+removing (next ?param_3 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.48  |  51  |    14    |    13     |   7    |    5    |   7    |    5    |   2   |   1   |   2   |   0   |   2   |   0   |    0.86    |   0.71   |   0.71   |     0.92      |    0.83     |    1.00     |   0.79   |    0.96     
+
+
+Not executable actions: 3200
+Random action chosen
+Not Successfully executed action 4: debark(person1,plane1,city0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.08  |  52  |    14    |    13     |   7    |    5    |   7    |    5    |   2   |   1   |   2   |   0   |   2   |   0   |    0.86    |   0.71   |   0.71   |     0.92      |    0.83     |    1.00     |   0.79   |    0.96     
+
+
+Not executable actions: 3201
+Random action chosen
+Successfully executed action 7: debark(person1,plane2,city1)
+operator debark, adding certain precondition: (at ?param_2 ?param_3)
+operator debark, adding certain precondition: (in ?param_1 ?param_2)
+Operator debark, adding certain positive effect (at ?param_1 ?param_3)
+Operator debark, adding certain negative effect (not (in ?param_1 ?param_2))
+removing (in ?param_1 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at ?param_2 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.42  |  53  |    14    |    15     |   7    |    6    |   7    |    6    |   0   |   1   |   1   |   0   |   1   |   0   |    1.00    |   0.86   |   0.86   |     0.93      |    1.00     |    1.00     |   0.93   |    0.96     
+
+
+Not executable actions: 3201
+Random action chosen
+Not Successfully executed action 16: fly(plane1,city0,city0,fl1,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.07  |  54  |    14    |    15     |   7    |    6    |   7    |    6    |   0   |   1   |   1   |   0   |   1   |   0   |    1.00    |   0.86   |   0.86   |     0.93      |    1.00     |    1.00     |   0.93   |    0.96     
+
+
+operator fly, adding certain precondition: (next ?param_5 ?param_4)
+Not executable actions: 3213
+Random action chosen
+Not Successfully executed action 1011: zoom(plane1,city0,city1,fl1,fl3,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.42  |  55  |    14    |    15     |   7    |    6    |   7    |    6    |   0   |   1   |   1   |   0   |   1   |   0   |    1.00    |   0.86   |   0.86   |     0.93      |    1.00     |    1.00     |   0.93   |    0.96     
+
+
+operator zoom, adding certain precondition: (next ?param_5 ?param_4)
+Not executable actions: 3257
+Random action chosen
+Successfully executed action 64: fly(plane1,city0,city1,fl1,fl0)
+operator fly, removed uncertain preconditions ['(at ?param_1 ?param_3)']
+Operator fly, adding certain positive effect (at ?param_1 ?param_3)
+Operator fly, adding certain negative effect (not (at ?param_1 ?param_2))
+removing (at ?param_1 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.83  |  56  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 3272
+Random action chosen
+Not Successfully executed action 2876: zoom(plane2,city1,city0,fl4,fl3,fl5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.39  |  57  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator zoom, adding certain precondition: (next ?param_6 ?param_5)
+Not executable actions: 3284
+Random action chosen
+Not Successfully executed action 2187: zoom(plane2,city0,city0,fl4,fl3,fl2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.79  |  58  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator zoom, adding certain precondition: (at ?param_1 ?param_2)
+Not executable actions: 3286
+Random action chosen
+Not Successfully executed action 366: fly(plane2,city1,city1,fl2,fl1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 36.15  |  59  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator fly, adding certain precondition: (fuel-level ?param_1 ?param_4)
+Not executable actions: 3330
+Random action chosen
+Not Successfully executed action 284: fly(plane2,city0,city1,fl4,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 36.48  |  60  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator fly, adding certain precondition: (at ?param_1 ?param_2)
+Not executable actions: 3332
+Random action chosen
+
+
+Checking feasibility of operator board negated preconditions of length 1
+FD computational time: 0:00:00.770570
+Plan computed: True Plan length: 1
+The feasibility of operator board negated preconditions of length 1 is: True
+Successfully executed action 333: fly(plane2,city1,city0,fl4,fl3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.59  |  61  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not successfully executed action 2: board(person1,plane2,city0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 38.10  |  62  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator board, adding certain precondition: (at ?param_1 ?param_3)
+
+
+Checking feasibility of operator board negated preconditions of length 1
+FD computational time: 0:00:00.766858
+Plan computed: True Plan length: 0
+The feasibility of operator board negated preconditions of length 1 is: True
+Not successfully executed action 3: board(person1,plane2,city1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.19  |  63  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+operator board, adding certain precondition: (at ?param_2 ?param_3)
+
+
+Checking feasibility of operator board negated preconditions of length 2
+FD computational time: 0:00:00.757224
+Plan computed: True Plan length: 0
+The feasibility of operator board negated preconditions of length 2 is: True
+
+
+
+Looking for new positive effects of learned operators
+Operator zoom does not admit new positive effects
+Operator fly does not admit new positive effects
+Operator board does not admit new positive effects
+Operator refuel does not admit new positive effects
+Operator debark does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator zoom with possible negative effects
+FD computational time: 0:00:00.777045
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator fly with possible negative effects
+FD computational time: 0:00:00.759116
+Plan computed: False Plan length: None
+Operator board does not admit new negative effects
+
+
+Checking feasibility of operator refuel with possible negative effects
+FD computational time: 0:00:00.760714
+Plan computed: False Plan length: None
+Operator debark does not admit new negative effects
+
+
+
+ Checking known positive effects of learned operators
+Operator zoom has no known positive effects to check
+Operator fly has no known positive effects to check
+Operator board has no known positive effects to check
+Operator refuel has no known positive effects to check
+Operator debark has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator zoom has no known negative effects to check
+Operator fly has no known negative effects to check
+Operator board has no known negative effects to check
+Operator refuel has no known negative effects to check
+Operator debark has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.67  |  64  |    14    |    14     |   7    |    7    |   7    |    7    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.67  |  64  |    14    |    14     |   7    |    7    |   7    |   21    |   0   |   0   |   0   |   0   |   0   |  14   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    0.33     |   1.00   |    0.67     
+
+

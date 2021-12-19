@@ -1,0 +1,48 @@
+{
+  "grasp": [
+    "(not (handempty ?param_1))",
+    "(not (ontable ?param_2))"
+  ],
+  "fill-shot": [
+    "(not (clean ?param_1))",
+    "(not (empty ?param_1))"
+  ],
+  "leave": [
+    "(not (holding ?param_1 ?param_2))"
+  ],
+  "empty-shot": [
+    "(not (contains ?param_2 ?param_3))"
+  ],
+  "clean-shot": [
+    "(not (used ?param_1 ?param_2))"
+  ],
+  "clean-shaker": [],
+  "pour-shot-to-clean-shaker": [
+    "(not (clean ?param_3))",
+    "(not (contains ?param_1 ?param_2))",
+    "(not (empty ?param_3))",
+    "(not (shaker-level ?param_3 ?param_5))"
+  ],
+  "refill-shot": [
+    "(not (empty ?param_1))"
+  ],
+  "pour-shot-to-used-shaker": [
+    "(not (contains ?param_1 ?param_2))",
+    "(not (shaker-level ?param_3 ?param_5))"
+  ],
+  "shake": [
+    "(not (contains ?param_4 ?param_2))",
+    "(not (contains ?param_4 ?param_3))",
+    "(not (unshaked ?param_4))"
+  ],
+  "pour-shaker-to-shot": [
+    "(not (clean ?param_2))",
+    "(not (empty ?param_2))",
+    "(not (shaker-level ?param_4 ?param_5))"
+  ],
+  "empty-shaker": [
+    "(not (contains ?param_2 ?param_3))",
+    "(not (shaked ?param_2))",
+    "(not (shaker-level ?param_2 ?param_4))"
+  ]
+}

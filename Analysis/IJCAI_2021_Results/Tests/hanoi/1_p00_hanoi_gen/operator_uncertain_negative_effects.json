@@ -1,0 +1,6 @@
+{
+  "move": [
+    "(on ?param_1 ?param_1)",
+    "(smaller ?param_1 ?param_1)"
+  ]
+}

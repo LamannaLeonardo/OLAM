@@ -1,0 +1,1967 @@
+
+Total actions: 17408
+
+Objects list
+	dir:4
+	box:1
+	loc:16
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 2732: push(f0-1f,f2-2f,f2-3f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.45  |  1   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 8288
+Random action chosen
+Not Successfully executed action 5120: push(f1-0f,f0-0f,f0-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.43  |  2   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 10498
+Random action chosen
+Not Successfully executed action 10069: push(f2-0f,f3-1f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.45  |  3   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 10584
+Random action chosen
+Not Successfully executed action 9942: push(f2-0f,f2-3f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.68  |  4   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 11010
+Random action chosen
+Not Successfully executed action 14763: push(f3-1f,f1-2f,f2-2f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.74  |  5   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 11064
+Random action chosen
+Not Successfully executed action 1033: push(f0-0f,f0-0f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.91  |  6   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 11728
+Random action chosen
+Not Successfully executed action 11552: push(f2-2f,f1-0f,f2-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.31  |  7   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 12120
+Random action chosen
+Not Successfully executed action 8395: push(f1-3f,f0-3f,f0-2f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.58  |  8   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 12512
+Random action chosen
+Not Successfully executed action 705: move(f2-3f,f0-0f,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.02  |  9   |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 13380
+Random action chosen
+Not Successfully executed action 14269: push(f3-0f,f3-2f,f3-3f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.55  |  10  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 13443
+Random action chosen
+Not Successfully executed action 9132: push(f1-3f,f3-2f,f2-3f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.13  |  11  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 13497
+Random action chosen
+Not Successfully executed action 7081: push(f1-1f,f3-2f,f2-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.59  |  12  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 13583
+Random action chosen
+Not Successfully executed action 7525: push(f1-2f,f1-1f,f2-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.08  |  13  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14141
+Random action chosen
+Not Successfully executed action 13847: push(f3-0f,f2-0f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.67  |  14  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14173
+Random action chosen
+Not Successfully executed action 6808: push(f1-1f,f2-2f,f1-2f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.18  |  15  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14631
+Random action chosen
+Not Successfully executed action 2105: push(f0-1f,f0-0f,f3-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.53  |  16  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14635
+Random action chosen
+Not Successfully executed action 11591: push(f2-2f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.87  |  17  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14681
+Random action chosen
+Not Successfully executed action 10564: push(f2-1f,f1-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.33  |  18  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14781
+Random action chosen
+Not Successfully executed action 12649: push(f2-3f,f1-1f,f2-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.70  |  19  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14813
+Random action chosen
+Not Successfully executed action 6144: push(f1-1f,f0-0f,f0-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.11  |  20  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14905
+Random action chosen
+Not Successfully executed action 4102: push(f0-3f,f0-0f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.61  |  21  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14929
+Random action chosen
+Not Successfully executed action 12751: push(f2-3f,f1-3f,f0-3f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.04  |  22  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14949
+Random action chosen
+Not Successfully executed action 11438: push(f2-2f,f0-2f,f2-3f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.51  |  23  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15287
+Random action chosen
+Not Successfully executed action 414: move(f1-2f,f1-3f,right)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.00  |  24  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15331
+Random action chosen
+Not Successfully executed action 16407: push(f3-3f,f0-0f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.52  |  25  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15375
+Random action chosen
+Not Successfully executed action 6997: push(f1-1f,f3-1f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.88  |  26  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15383
+Random action chosen
+Not Successfully executed action 5186: push(f1-0f,f0-1f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.33  |  27  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15682
+Random action chosen
+Not Successfully executed action 6252: push(f1-1f,f0-1f,f2-3f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.79  |  28  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15728
+Random action chosen
+Not Successfully executed action 4831: push(f0-3f,f2-3f,f1-3f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.26  |  29  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15748
+Random action chosen
+Not Successfully executed action 8404: push(f1-3f,f0-3f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 38.83  |  30  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15780
+Random action chosen
+Not Successfully executed action 6538: push(f1-1f,f1-2f,f0-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 40.29  |  31  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15826
+Random action chosen
+Not Successfully executed action 1859: push(f0-0f,f3-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.07  |  32  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15834
+Random action chosen
+Not Successfully executed action 11707: push(f2-2f,f1-2f,f3-2f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.73  |  33  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15837
+Random action chosen
+Not Successfully executed action 11523: push(f2-2f,f1-0f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 45.36  |  34  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15861
+Random action chosen
+Not Successfully executed action 5653: push(f1-0f,f2-0f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 47.04  |  35  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15907
+Random action chosen
+Not Successfully executed action 5152: push(f1-0f,f0-0f,f2-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 48.87  |  36  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15961
+Random action chosen
+Not Successfully executed action 3145: push(f0-2f,f0-1f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 50.53  |  37  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15997
+Random action chosen
+Not Successfully executed action 3146: push(f0-2f,f0-1f,f0-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 52.13  |  38  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16033
+Random action chosen
+Not Successfully executed action 6279: push(f1-1f,f0-2f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.68  |  39  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16079
+Random action chosen
+Not Successfully executed action 1356: push(f0-0f,f1-1f,f0-3f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 55.29  |  40  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16123
+Random action chosen
+Not Successfully executed action 1130: push(f0-0f,f0-1f,f2-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 56.96  |  41  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16147
+Random action chosen
+Not Successfully executed action 6426: push(f1-1f,f1-0f,f1-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 58.55  |  42  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16151
+Random action chosen
+Not Successfully executed action 4180: push(f0-3f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 60.03  |  43  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16197
+Random action chosen
+Not Successfully executed action 7829: push(f1-2f,f2-2f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 61.55  |  44  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16243
+Random action chosen
+Not Successfully executed action 28: move(f0-0f,f1-3f,down)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 63.21  |  45  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16299
+Random action chosen
+Not Successfully executed action 8279: push(f1-3f,f0-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 63.75  |  46  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16345
+Random action chosen
+Not Successfully executed action 1282: push(f0-0f,f1-0f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 65.22  |  47  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16389
+Random action chosen
+Not Successfully executed action 1303: push(f0-0f,f1-0f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 66.80  |  48  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16439
+Random action chosen
+Not Successfully executed action 16024: push(f3-2f,f2-2f,f1-2f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 68.27  |  49  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16440
+Random action chosen
+Not Successfully executed action 957: move(f3-2f,f3-3f,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 69.79  |  50  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16450
+Random action chosen
+Not Successfully executed action 15225: push(f3-1f,f3-1f,f3-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 70.32  |  51  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16452
+Random action chosen
+Not Successfully executed action 6612: push(f1-1f,f1-3f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 71.76  |  52  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16492
+Random action chosen
+Not Successfully executed action 6496: push(f1-1f,f1-1f,f2-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 73.14  |  53  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16540
+Random action chosen
+Not Successfully executed action 12969: push(f2-3f,f2-2f,f2-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 74.59  |  54  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16576
+Random action chosen
+Not Successfully executed action 2377: push(f0-1f,f1-1f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 75.99  |  55  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16608
+Random action chosen
+Not Successfully executed action 5123: push(f1-0f,f0-0f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 77.56  |  56  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16686
+Random action chosen
+Not Successfully executed action 6422: push(f1-1f,f1-0f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 78.87  |  57  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16695
+Random action chosen
+Not Successfully executed action 12184: push(f2-2f,f3-2f,f1-2f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 80.28  |  58  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16698
+Random action chosen
+Not Successfully executed action 800: move(f3-0f,f2-0f,down)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 81.56  |  59  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16732
+Random action chosen
+Not Successfully executed action 7122: push(f1-1f,f3-3f,f1-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 82.04  |  60  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16778
+Random action chosen
+Not Successfully executed action 12611: push(f2-3f,f1-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 83.37  |  61  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16822
+Random action chosen
+Not Successfully executed action 4298: push(f0-3f,f0-3f,f0-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 84.82  |  62  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16856
+Random action chosen
+Not Successfully executed action 6401: push(f1-1f,f1-0f,f0-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 86.09  |  63  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16860
+Random action chosen
+Not Successfully executed action 1232: push(f0-0f,f0-3f,f1-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 87.35  |  64  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16884
+Random action chosen
+Not Successfully executed action 6286: push(f1-1f,f0-2f,f0-3f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 88.66  |  65  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16911
+Random action chosen
+Not Successfully executed action 8197: push(f1-3f,f0-0f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 89.96  |  66  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16935
+Random action chosen
+Not Successfully executed action 1574: push(f0-0f,f2-0f,f2-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 91.26  |  67  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16967
+Random action chosen
+Not Successfully executed action 6484: push(f1-1f,f1-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 92.54  |  68  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16979
+Random action chosen
+Not Successfully executed action 1361: push(f0-0f,f1-1f,f1-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 93.79  |  69  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16983
+Random action chosen
+Not Successfully executed action 1427: push(f0-0f,f1-2f,f1-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 95.22  |  70  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17007
+Random action chosen
+Not Successfully executed action 15217: push(f3-1f,f3-1f,f3-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 96.46  |  71  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17013
+Random action chosen
+Not Successfully executed action 1641: push(f0-0f,f2-1f,f2-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 97.73  |  72  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17045
+Random action chosen
+Not Successfully executed action 1301: push(f0-0f,f1-0f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 99.01  |  73  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17049
+Random action chosen
+Not Successfully executed action 3413: push(f0-2f,f1-1f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 100.24 |  74  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17089
+Random action chosen
+Not Successfully executed action 2057: push(f0-1f,f0-0f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 101.58 |  75  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17105
+Random action chosen
+Not Successfully executed action 6756: push(f1-1f,f2-1f,f2-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 102.74 |  76  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17109
+Random action chosen
+Not Successfully executed action 10868: push(f2-1f,f2-1f,f3-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 103.98 |  77  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17113
+Random action chosen
+Not Successfully executed action 1291: push(f0-0f,f1-0f,f0-2f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 105.11 |  78  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17133
+Random action chosen
+Not Successfully executed action 5683: push(f1-0f,f2-0f,f3-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 106.23 |  79  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17148
+Random action chosen
+Not Successfully executed action 6163: push(f1-1f,f0-0f,f1-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 107.48 |  80  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17150
+Random action chosen
+Not Successfully executed action 7445: push(f1-2f,f1-0f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 108.57 |  81  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17158
+Random action chosen
+Not Successfully executed action 11813: push(f2-2f,f2-0f,f2-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 109.62 |  82  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17174
+Random action chosen
+Not Successfully executed action 2371: push(f0-1f,f1-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 110.74 |  83  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17178
+Random action chosen
+Not Successfully executed action 6466: push(f1-1f,f1-1f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 111.72 |  84  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17182
+Random action chosen
+Not Successfully executed action 6503: push(f1-1f,f1-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 112.90 |  85  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17186
+Random action chosen
+Not Successfully executed action 9232: push(f2-0f,f0-0f,f1-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 113.93 |  86  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17188
+Random action chosen
+Not Successfully executed action 1047: push(f0-0f,f0-0f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 115.07 |  87  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17192
+Random action chosen
+Not Successfully executed action 13023: push(f2-3f,f2-3f,f1-3f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 116.19 |  88  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17218
+Random action chosen
+Not Successfully executed action 6723: push(f1-1f,f2-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 117.30 |  89  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17222
+Random action chosen
+Not Successfully executed action 6209: push(f1-1f,f0-1f,f0-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 118.30 |  90  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17224
+Random action chosen
+Not Successfully executed action 5141: push(f1-0f,f0-0f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 119.23 |  91  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17228
+Random action chosen
+Not Successfully executed action 1364: push(f0-0f,f1-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 120.17 |  92  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17232
+Random action chosen
+Not Successfully executed action 1383: push(f0-0f,f1-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 121.17 |  93  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17236
+Random action chosen
+Not Successfully executed action 2647: push(f0-1f,f2-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 122.12 |  94  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17240
+Random action chosen
+Not Successfully executed action 11095: push(f2-1f,f3-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 123.09 |  95  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17241
+Random action chosen
+Not Successfully executed action 6161: push(f1-1f,f0-0f,f1-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 124.10 |  96  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17245
+Random action chosen
+Not Successfully executed action 6162: push(f1-1f,f0-0f,f1-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 125.12 |  97  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17249
+Random action chosen
+Not Successfully executed action 0: move(f0-0f,f0-0f,down)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 126.18 |  98  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17253
+Random action chosen
+Not Successfully executed action 6740: push(f1-1f,f2-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 126.77 |  99  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17257
+Random action chosen
+Not Successfully executed action 1346: push(f0-0f,f1-1f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 127.83 | 100  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17261
+Random action chosen
+Not Successfully executed action 2114: push(f0-1f,f0-1f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 128.78 | 101  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17263
+Random action chosen
+Not Successfully executed action 6471: push(f1-1f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 129.86 | 102  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17267
+Random action chosen
+Not Successfully executed action 10599: push(f2-1f,f1-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 130.77 | 103  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17271
+Random action chosen
+Not Successfully executed action 6759: push(f1-1f,f2-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 131.83 | 104  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17275
+Random action chosen
+Not Successfully executed action 2053: push(f0-1f,f0-0f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 132.83 | 105  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17277
+Random action chosen
+Not Successfully executed action 8598: push(f1-3f,f1-2f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 133.77 | 106  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17279
+Random action chosen
+Not Successfully executed action 14695: push(f3-1f,f1-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 134.83 | 107  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17280
+Random action chosen
+Not Successfully executed action 5: move(f0-0f,f0-1f,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 135.76 | 108  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17282
+Random action chosen
+Not Successfully executed action 1029: push(f0-0f,f0-0f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 136.32 | 109  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17284
+Random action chosen
+Not Successfully executed action 10580: push(f2-1f,f1-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 137.42 | 110  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17288
+Random action chosen
+Not Successfully executed action 2132: push(f0-1f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 138.53 | 111  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17292
+Random action chosen
+Not Successfully executed action 5143: push(f1-0f,f0-0f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 139.40 | 112  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17294
+Random action chosen
+Not Successfully executed action 1283: push(f0-0f,f1-0f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 140.39 | 113  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17296
+Random action chosen
+Not Successfully executed action 5443: push(f1-0f,f1-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 141.27 | 114  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17298
+Random action chosen
+Not Successfully executed action 65: move(f0-1f,f0-0f,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 142.20 | 115  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17300
+Random action chosen
+Not Successfully executed action 10563: push(f2-1f,f1-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 142.78 | 116  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17304
+Random action chosen
+Not Successfully executed action 6165: push(f1-1f,f0-0f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 143.70 | 117  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17308
+Random action chosen
+Not Successfully executed action 2068: push(f0-1f,f0-0f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 144.62 | 118  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17312
+Random action chosen
+Not Successfully executed action 14692: push(f3-1f,f1-1f,f2-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 145.51 | 119  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17313
+Random action chosen
+Not Successfully executed action 6618: push(f1-1f,f1-3f,f1-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 146.50 | 120  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17315
+Random action chosen
+Not Successfully executed action 9235: push(f2-0f,f0-0f,f1-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 147.41 | 121  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17317
+Random action chosen
+Not Successfully executed action 5136: push(f1-0f,f0-0f,f1-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 148.34 | 122  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17319
+Random action chosen
+Not Successfully executed action 1296: push(f0-0f,f1-0f,f1-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 149.25 | 123  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17321
+Random action chosen
+Not Successfully executed action 10596: push(f2-1f,f1-1f,f2-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 150.18 | 124  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17325
+Random action chosen
+Not Successfully executed action 6150: push(f1-1f,f0-0f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 151.18 | 125  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17327
+Random action chosen
+Not Successfully executed action 1363: push(f0-0f,f1-1f,f1-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 152.06 | 126  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17329
+Random action chosen
+Not Successfully executed action 1108: push(f0-0f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 152.87 | 127  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17333
+Random action chosen
+Not Successfully executed action 5466: push(f1-0f,f1-1f,f1-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 153.73 | 128  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17337
+Random action chosen
+Not Successfully executed action 7637: push(f1-2f,f1-3f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 154.81 | 129  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17338
+Random action chosen
+Not Successfully executed action 10612: push(f2-1f,f1-1f,f3-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 155.68 | 130  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17339
+Random action chosen
+Not Successfully executed action 5379: push(f1-0f,f1-0f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 156.54 | 131  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17341
+Random action chosen
+Not Successfully executed action 1090: push(f0-0f,f0-1f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.43 | 132  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17343
+Random action chosen
+Not Successfully executed action 6557: push(f1-1f,f1-2f,f1-3f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 158.28 | 133  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17345
+Random action chosen
+Not Successfully executed action 6400: push(f1-1f,f1-0f,f0-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 159.15 | 134  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17347
+Random action chosen
+Not Successfully executed action 1097: push(f0-0f,f0-1f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 160.04 | 135  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17349
+Random action chosen
+Not Successfully executed action 66: move(f0-1f,f0-0f,right)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 160.91 | 136  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17351
+Random action chosen
+Not Successfully executed action 9475: push(f2-0f,f1-0f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 161.46 | 137  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17353
+Random action chosen
+Not Successfully executed action 1350: push(f0-0f,f1-1f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 162.29 | 138  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17355
+Random action chosen
+Not Successfully executed action 6425: push(f1-1f,f1-0f,f1-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 163.12 | 139  |    8     |     0     |   4    |    0    |   4    |    0    |   8   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 17359
+Random action chosen
+Successfully executed action 6: move(f0-0f,f0-1f,right)
+operator move, adding certain precondition: (adjacent ?param_1 ?param_2 ?param_3)
+operator move, adding certain precondition: (at-robot ?param_1)
+Operator move, adding certain positive effect (at-robot ?param_2)
+Operator move, adding certain negative effect (not (at-robot ?param_1))
+removing (adjacent ?param_1 ?param_1 ?param_3) from possible positive effects
+removing (adjacent ?param_2 ?param_1 ?param_3) from possible positive effects
+removing (adjacent ?param_2 ?param_2 ?param_3) from possible positive effects
+removing (at-robot ?param_1) from possible positive effects
+removing (adjacent ?param_1 ?param_2 ?param_3) from possible negative effects
+removing (at-robot ?param_2) from possible negative effects
+removing (clear ?param_1) from possible negative effects
+removing (clear ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 164.01 | 140  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17174
+Random action chosen
+Not Successfully executed action 2371: push(f0-1f,f1-1f,f0-0f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 167.04 | 141  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17187
+Random action chosen
+Not Successfully executed action 2118: push(f0-1f,f0-1f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 168.33 | 142  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17191
+Random action chosen
+Not Successfully executed action 8537: push(f1-3f,f1-1f,f1-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 169.49 | 143  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17192
+Random action chosen
+Not Successfully executed action 2396: push(f0-1f,f1-1f,f1-3f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 170.68 | 144  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17205
+Random action chosen
+Not Successfully executed action 6271: push(f1-1f,f0-1f,f3-3f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 171.94 | 145  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17218
+Random action chosen
+Not Successfully executed action 16471: push(f3-3f,f0-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 173.34 | 146  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17231
+Random action chosen
+Not Successfully executed action 5462: push(f1-0f,f1-1f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 174.61 | 147  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17234
+Random action chosen
+Not Successfully executed action 2324: push(f0-1f,f1-0f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 175.83 | 148  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17247
+Random action chosen
+Not Successfully executed action 2249: push(f0-1f,f0-3f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 176.97 | 149  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17248
+Random action chosen
+Not Successfully executed action 8519: push(f1-3f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 178.07 | 150  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17261
+Random action chosen
+Not Successfully executed action 1108: push(f0-0f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 179.14 | 151  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17274
+Random action chosen
+Not Successfully executed action 1157: push(f0-0f,f0-2f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 180.31 | 152  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17276
+Random action chosen
+Not Successfully executed action 6791: push(f1-1f,f2-2f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 181.35 | 153  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17289
+Random action chosen
+Not Successfully executed action 8516: push(f1-3f,f1-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 182.36 | 154  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17302
+Random action chosen
+Not Successfully executed action 2135: push(f0-1f,f0-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 183.47 | 155  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17319
+Random action chosen
+Not Successfully executed action 6224: push(f1-1f,f0-1f,f1-0f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 184.39 | 156  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17332
+Random action chosen
+Not Successfully executed action 14935: push(f3-1f,f2-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 185.39 | 157  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17333
+Random action chosen
+Not Successfully executed action 2375: push(f0-1f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 186.47 | 158  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17334
+Random action chosen
+Not Successfully executed action 3137: push(f0-2f,f0-1f,f0-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 187.44 | 159  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17336
+Random action chosen
+Not Successfully executed action 10567: push(f2-1f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 188.32 | 160  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17337
+Random action chosen
+Not Successfully executed action 6852: push(f1-1f,f2-3f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 189.25 | 161  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17350
+Random action chosen
+Not Successfully executed action 1349: push(f0-0f,f1-1f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 190.12 | 162  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17352
+Random action chosen
+Not Successfully executed action 7518: push(f1-2f,f1-1f,f1-3f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 191.07 | 163  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17353
+Random action chosen
+Not Successfully executed action 2198: push(f0-1f,f0-2f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 192.14 | 164  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17355
+Random action chosen
+Not Successfully executed action 6247: push(f1-1f,f0-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 193.15 | 165  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17356
+Random action chosen
+Not Successfully executed action 2057: push(f0-1f,f0-0f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 194.07 | 166  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17358
+Random action chosen
+Not Successfully executed action 2050: push(f0-1f,f0-0f,f0-0f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 194.97 | 167  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17360
+Random action chosen
+Not Successfully executed action 2388: push(f0-1f,f1-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 195.93 | 168  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17361
+Random action chosen
+Not Successfully executed action 6212: push(f1-1f,f0-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 196.82 | 169  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17362
+Random action chosen
+Not Successfully executed action 2407: push(f0-1f,f1-1f,f2-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 197.77 | 170  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17363
+Random action chosen
+Not Successfully executed action 2391: push(f0-1f,f1-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 198.76 | 171  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17364
+Random action chosen
+Not Successfully executed action 3158: push(f0-2f,f0-1f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 199.68 | 172  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17366
+Random action chosen
+Not Successfully executed action 6558: push(f1-1f,f1-2f,f1-3f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 200.53 | 173  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17368
+Random action chosen
+Not Successfully executed action 7638: push(f1-2f,f1-3f,f1-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 201.45 | 174  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17370
+Random action chosen
+Not Successfully executed action 6244: push(f1-1f,f0-1f,f2-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 202.32 | 175  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17371
+Random action chosen
+Not Successfully executed action 6727: push(f1-1f,f2-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 203.21 | 176  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17372
+Random action chosen
+Not Successfully executed action 3270: push(f0-2f,f0-3f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 204.11 | 177  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17373
+Random action chosen
+Not Successfully executed action 10324: push(f2-1f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 205.01 | 178  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17374
+Random action chosen
+Not Successfully executed action 7517: push(f1-2f,f1-1f,f1-3f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 205.94 | 179  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17376
+Random action chosen
+Not Successfully executed action 6617: push(f1-1f,f1-3f,f1-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 206.87 | 180  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17378
+Random action chosen
+Not Successfully executed action 6471: push(f1-1f,f1-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 207.79 | 181  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17379
+Random action chosen
+Not Successfully executed action 6231: push(f1-1f,f0-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 208.65 | 182  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17380
+Random action chosen
+Not Successfully executed action 1158: push(f0-0f,f0-2f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 209.53 | 183  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17382
+Random action chosen
+Not Successfully executed action 2372: push(f0-1f,f1-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 210.37 | 184  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17383
+Random action chosen
+Not Successfully executed action 1097: push(f0-0f,f0-1f,f0-2f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 211.31 | 185  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17385
+Random action chosen
+Not Successfully executed action 2177: push(f0-1f,f0-2f,f0-0f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 212.24 | 186  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17387
+Random action chosen
+Not Successfully executed action 2644: push(f0-1f,f2-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 213.10 | 187  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17388
+Random action chosen
+Not Successfully executed action 8538: push(f1-3f,f1-1f,f1-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 214.07 | 188  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17389
+Random action chosen
+Not Successfully executed action 3269: push(f0-2f,f0-3f,f0-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 214.92 | 189  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17390
+Random action chosen
+Not Successfully executed action 6215: push(f1-1f,f0-1f,f0-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 215.78 | 190  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17391
+Random action chosen
+Not Successfully executed action 6228: push(f1-1f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 216.68 | 191  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17392
+Random action chosen
+Not Successfully executed action 6724: push(f1-1f,f2-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 217.54 | 192  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17393
+Random action chosen
+Not Successfully executed action 2132: push(f0-1f,f0-1f,f1-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 218.43 | 193  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17394
+Random action chosen
+Not Successfully executed action 8597: push(f1-3f,f1-2f,f1-1f,left,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 219.21 | 194  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17395
+Random action chosen
+Not Successfully executed action 4230: push(f0-3f,f0-2f,f0-1f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 220.05 | 195  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17396
+Random action chosen
+Not Successfully executed action 6468: push(f1-1f,f1-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 220.92 | 196  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17397
+Random action chosen
+Not Successfully executed action 10564: push(f2-1f,f1-1f,f0-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 221.72 | 197  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17398
+Random action chosen
+Not Successfully executed action 2647: push(f0-1f,f2-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 222.56 | 198  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17399
+Random action chosen
+Not Successfully executed action 2122: push(f0-1f,f0-1f,f0-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 223.37 | 199  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17401
+Random action chosen
+Not Successfully executed action 2250: push(f0-1f,f0-3f,f0-2f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 224.19 | 200  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17402
+Random action chosen
+Not Successfully executed action 10327: push(f2-1f,f0-1f,f1-1f,up,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 224.90 | 201  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17403
+Random action chosen
+Not Successfully executed action 2190: push(f0-1f,f0-2f,f0-3f,right,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 225.67 | 202  |    8     |     4     |   4    |    1    |   4    |    1    |   5   |   1   |   3   |   0   |   3   |   0   |    0.38    |   0.25   |   0.25   |     0.75      |    0.50     |    1.00     |   0.31   |    0.83     
+
+
+Not executable actions: 17404
+Random action chosen
+Successfully executed action 2404: push(f0-1f,f1-1f,f2-1f,down,box0)
+operator push, adding certain precondition: (adjacent ?param_1 ?param_2 ?param_4)
+operator push, adding certain precondition: (at-robot ?param_1)
+operator push, adding certain precondition: (adjacent ?param_2 ?param_3 ?param_4)
+operator push, adding certain precondition: (at ?param_5 ?param_2)
+Operator push, adding certain positive effect (at ?param_5 ?param_3)
+Operator push, adding certain positive effect (at-robot ?param_2)
+Operator push, adding certain positive effect (clear ?param_2)
+Operator push, adding certain negative effect (not (at ?param_5 ?param_2))
+Operator push, adding certain negative effect (not (at-robot ?param_1))
+Operator push, adding certain negative effect (not (clear ?param_3))
+removing (adjacent ?param_1 ?param_1 ?param_4) from possible positive effects
+removing (adjacent ?param_1 ?param_3 ?param_4) from possible positive effects
+removing (adjacent ?param_2 ?param_1 ?param_4) from possible positive effects
+removing (adjacent ?param_2 ?param_2 ?param_4) from possible positive effects
+removing (adjacent ?param_3 ?param_1 ?param_4) from possible positive effects
+removing (adjacent ?param_3 ?param_2 ?param_4) from possible positive effects
+removing (adjacent ?param_3 ?param_3 ?param_4) from possible positive effects
+removing (at ?param_5 ?param_1) from possible positive effects
+removing (at ?param_5 ?param_2) from possible positive effects
+removing (at-robot ?param_1) from possible positive effects
+removing (at-robot ?param_3) from possible positive effects
+removing (clear ?param_3) from possible positive effects
+removing (adjacent ?param_1 ?param_2 ?param_4) from possible negative effects
+removing (adjacent ?param_2 ?param_3 ?param_4) from possible negative effects
+removing (at ?param_5 ?param_3) from possible negative effects
+removing (at-robot ?param_2) from possible negative effects
+removing (clear ?param_1) from possible negative effects
+removing (clear ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 226.44 | 203  |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+Not executable actions: 17403
+Random action chosen
+Not Successfully executed action 6772: push(f1-1f,f2-1f,f3-1f,down,box0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 228.38 | 204  |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+operator push, adding certain precondition: (clear ?param_3)
+Not executable actions: 17404
+Random action chosen
+Not Successfully executed action 356: move(f1-1f,f2-1f,down)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 229.59 | 205  |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+operator move, adding certain precondition: (clear ?param_2)
+Not executable actions: 17405
+Random action chosen
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:00.800573
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator push negated preconditions of length 1
+FD computational time: 0:00:00.799885
+Plan computed: False Plan length: None
+The feasibility of operator push negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+Operator push does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:00.803093
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator push with possible negative effects
+FD computational time: 0:00:00.818514
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+Operator push has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+Operator push has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 234.52 | 206  |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 234.52 | 206  |    8     |    10     |   4    |    4    |   4    |   16    |   0   |   2   |   0   |   0   |   0   |  12   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    0.25     |   1.00   |    0.53     
+
+

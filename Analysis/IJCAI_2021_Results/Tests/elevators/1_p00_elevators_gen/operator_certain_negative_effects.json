@@ -1,0 +1,22 @@
+{
+  "move-up-fast": [
+    "(not (lift-at ?param_1 ?param_2))"
+  ],
+  "move-down-fast": [
+    "(not (lift-at ?param_1 ?param_2))"
+  ],
+  "move-up-slow": [
+    "(not (lift-at ?param_1 ?param_2))"
+  ],
+  "move-down-slow": [
+    "(not (lift-at ?param_1 ?param_2))"
+  ],
+  "board": [
+    "(not (passengers ?param_2 ?param_4))",
+    "(not (passenger-at ?param_1 ?param_3))"
+  ],
+  "leave": [
+    "(not (boarded ?param_1 ?param_2))",
+    "(not (passengers ?param_2 ?param_4))"
+  ]
+}

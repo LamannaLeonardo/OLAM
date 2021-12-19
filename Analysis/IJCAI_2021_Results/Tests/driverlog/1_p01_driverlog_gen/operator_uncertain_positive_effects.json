@@ -1,0 +1,42 @@
+{
+  "load-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "unload-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "board-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "disembark-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "drive-truck": [
+    "(at ?param_1 ?param_2)",
+    "(at ?param_1 ?param_3)",
+    "(at ?param_4 ?param_2)",
+    "(at ?param_4 ?param_3)",
+    "(driving ?param_4 ?param_1)",
+    "(empty ?param_1)",
+    "(link ?param_2 ?param_2)",
+    "(link ?param_2 ?param_3)",
+    "(link ?param_3 ?param_2)",
+    "(link ?param_3 ?param_3)",
+    "(path ?param_2 ?param_2)",
+    "(path ?param_2 ?param_3)",
+    "(path ?param_3 ?param_2)",
+    "(path ?param_3 ?param_3)"
+  ],
+  "walk": [
+    "(at ?param_1 ?param_2)",
+    "(at ?param_1 ?param_3)",
+    "(link ?param_2 ?param_2)",
+    "(link ?param_2 ?param_3)",
+    "(link ?param_3 ?param_2)",
+    "(link ?param_3 ?param_3)",
+    "(path ?param_2 ?param_2)",
+    "(path ?param_2 ?param_3)",
+    "(path ?param_3 ?param_2)",
+    "(path ?param_3 ?param_3)"
+  ]
+}

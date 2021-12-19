@@ -1,0 +1,41 @@
+{
+  "move": [
+    "(clear ?param_1)",
+    "(clear ?param_2)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)"
+  ],
+  "pickup-laser": [
+    "(bomb-at ?param_1)",
+    "(clear ?param_1)",
+    "(robot-at ?param_1)"
+  ],
+  "pickup-bomb": [
+    "(bomb-at ?param_1)",
+    "(clear ?param_1)",
+    "(laser-at ?param_1)",
+    "(robot-at ?param_1)"
+  ],
+  "putdown-laser": [
+    "(clear ?param_1)",
+    "(robot-at ?param_1)"
+  ],
+  "detonate-bomb": [
+    "(clear ?param_1)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)",
+    "(robot-at ?param_1)"
+  ],
+  "fire-laser": [
+    "(clear ?param_1)",
+    "(connected ?param_1 ?param_2)",
+    "(connected ?param_2 ?param_1)",
+    "(holds-laser)",
+    "(robot-at ?param_1)"
+  ],
+  "pick-gold": [
+    "(clear ?param_1)",
+    "(gold-at ?param_1)",
+    "(robot-at ?param_1)"
+  ]
+}

@@ -1,0 +1,122 @@
+
+Total actions: 192
+
+Objects list
+	driver:2
+	truck:2
+	obj:4
+	location:4
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |    16     |   7    |    7    |   7    |    7    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.88      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Not executable actions: 180
+Random action chosen
+Not Successfully executed action 186: walk(driver2,s0,s0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.19  |  1   |    14    |    16     |   7    |    7    |   7    |    7    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.88      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+Not executable actions: 186
+Random action chosen
+
+
+Checking feasibility of operator drive-truck negated preconditions of length 1
+FD computational time: 0:00:00.741671
+Plan computed: False Plan length: None
+The feasibility of operator drive-truck negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator walk negated preconditions of length 1
+FD computational time: 0:00:00.744728
+Plan computed: False Plan length: None
+The feasibility of operator walk negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator drive-truck does not admit new positive effects
+Operator walk does not admit new positive effects
+Operator load-truck does not admit new positive effects
+Operator unload-truck does not admit new positive effects
+Operator board-truck does not admit new positive effects
+Operator disembark-truck does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator drive-truck with possible negative effects
+FD computational time: 0:00:00.745834
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator walk with possible negative effects
+FD computational time: 0:00:00.731095
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator load-truck with possible negative effects
+FD computational time: 0:00:00.720705
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload-truck with possible negative effects
+FD computational time: 0:00:00.722652
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator board-truck with possible negative effects
+FD computational time: 0:00:00.717148
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator disembark-truck with possible negative effects
+FD computational time: 0:00:00.724883
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator drive-truck has no known positive effects to check
+Operator walk has no known positive effects to check
+Operator load-truck has no known positive effects to check
+Operator unload-truck has no known positive effects to check
+Operator board-truck has no known positive effects to check
+Operator disembark-truck has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator drive-truck has no known negative effects to check
+Operator walk has no known negative effects to check
+Operator load-truck has no known negative effects to check
+Operator unload-truck has no known negative effects to check
+Operator board-truck has no known negative effects to check
+Operator disembark-truck has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.24  |  2   |    14    |    16     |   7    |    7    |   7    |    7    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.88      |    1.00     |    1.00     |   1.00   |    0.93     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.24  |  2   |    14    |    16     |   7    |    7    |   7    |   30    |   0   |   2   |   0   |   0   |   0   |  23   |    1.00    |   1.00   |   1.00   |     0.88      |    1.00     |    0.23     |   1.00   |    0.53     
+
+

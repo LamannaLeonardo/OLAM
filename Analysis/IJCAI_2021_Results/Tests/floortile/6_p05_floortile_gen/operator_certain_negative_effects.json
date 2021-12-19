@@ -1,0 +1,27 @@
+{
+  "up": [
+    "(not (clear ?param_3))",
+    "(not (robot-at ?param_1 ?param_2))"
+  ],
+  "left": [
+    "(not (clear ?param_3))",
+    "(not (robot-at ?param_1 ?param_2))"
+  ],
+  "change-color": [
+    "(not (robot-has ?param_1 ?param_2))"
+  ],
+  "down": [
+    "(not (clear ?param_3))",
+    "(not (robot-at ?param_1 ?param_2))"
+  ],
+  "paint-up": [
+    "(not (clear ?param_2))"
+  ],
+  "paint-down": [
+    "(not (clear ?param_2))"
+  ],
+  "right": [
+    "(not (clear ?param_3))",
+    "(not (robot-at ?param_1 ?param_2))"
+  ]
+}

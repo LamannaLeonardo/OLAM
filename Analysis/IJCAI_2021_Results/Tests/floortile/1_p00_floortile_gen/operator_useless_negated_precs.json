@@ -1,0 +1,59 @@
+{
+  "change-color": [],
+  "down": [
+    [
+      "(clear ?param_3)"
+    ],
+    [
+      "(down ?param_3 ?param_2)",
+      "(up ?param_2 ?param_3)"
+    ]
+  ],
+  "left": [
+    [
+      "(clear ?param_3)"
+    ],
+    [
+      "(left ?param_3 ?param_2)",
+      "(right ?param_2 ?param_3)"
+    ]
+  ],
+  "paint-down": [
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(down ?param_2 ?param_3)",
+      "(up ?param_3 ?param_2)"
+    ]
+  ],
+  "paint-up": [
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(down ?param_3 ?param_2)",
+      "(up ?param_2 ?param_3)"
+    ]
+  ],
+  "right": [
+    [
+      "(left ?param_2 ?param_3)",
+      "(right ?param_3 ?param_2)"
+    ],
+    [
+      "(clear ?param_3)",
+      "(left ?param_2 ?param_3)",
+      "(right ?param_3 ?param_2)"
+    ]
+  ],
+  "up": [
+    [
+      "(clear ?param_3)"
+    ],
+    [
+      "(down ?param_2 ?param_3)",
+      "(up ?param_3 ?param_2)"
+    ]
+  ]
+}

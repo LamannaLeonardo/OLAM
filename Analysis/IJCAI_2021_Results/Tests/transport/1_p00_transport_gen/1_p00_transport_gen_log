@@ -1,0 +1,748 @@
+
+Total actions: 7392
+
+Objects list
+	location:8
+	vehicle:3
+	package:6
+	capacity-number:5
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 2732: drop(truck-3,city-loc-1,package-6,capacity-3,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.35  |  1   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1100
+Random action chosen
+Not Successfully executed action 3707: drop(truck-3,city-loc-8,package-3,capacity-3,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.86  |  2   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1260
+Random action chosen
+Not Successfully executed action 2446: drop(truck-2,city-loc-8,package-1,capacity-0,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.36  |  3   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 1590
+Random action chosen
+Not Successfully executed action 4854: pick-up(truck-1,city-loc-8,package-1,capacity-2,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.90  |  4   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2690
+Random action chosen
+Not Successfully executed action 1704: drop(truck-2,city-loc-3,package-1,capacity-2,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.51  |  5   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 2850
+Random action chosen
+Not Successfully executed action 7213: pick-up(truck-3,city-loc-7,package-5,capacity-4,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.17  |  6   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 3180
+Random action chosen
+Not Successfully executed action 6167: pick-up(truck-2,city-loc-8,package-6,capacity-0,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.70  |  7   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 3340
+Random action chosen
+Not Successfully executed action 4441: pick-up(truck-1,city-loc-5,package-2,capacity-4,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.34  |  8   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 3780
+Random action chosen
+Not Successfully executed action 1205: drop(truck-1,city-loc-7,package-5,capacity-2,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.90  |  9   |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4158
+Random action chosen
+Not Successfully executed action 5859: pick-up(truck-2,city-loc-6,package-5,capacity-3,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.58  |  10  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4488
+Random action chosen
+Not Successfully executed action 5246: pick-up(truck-2,city-loc-2,package-5,capacity-0,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.24  |  11  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4536
+Random action chosen
+Not Successfully executed action 5494: pick-up(truck-2,city-loc-4,package-3,capacity-0,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.82  |  12  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4696
+Random action chosen
+Not Successfully executed action 3980: pick-up(truck-1,city-loc-2,package-2,capacity-2,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.39  |  13  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 5026
+Random action chosen
+Not Successfully executed action 1072: drop(truck-1,city-loc-6,package-6,capacity-1,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.03  |  14  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 5356
+Random action chosen
+Not Successfully executed action 2206: drop(truck-2,city-loc-6,package-3,capacity-2,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.68  |  15  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 5404
+Random action chosen
+Not Successfully executed action 72: drive(truck-2,city-loc-2,city-loc-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.33  |  16  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 5477
+Random action chosen
+Not Successfully executed action 2339: drop(truck-2,city-loc-7,package-2,capacity-4,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.78  |  17  |    10    |     0     |   5    |    0    |   5    |    0    |  10   |   0   |   5   |   0   |   5   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 5807
+Random action chosen
+Successfully executed action 188: drive(truck-3,city-loc-8,city-loc-5)
+Operator drive, adding certain positive effect (at ?param_1 ?param_3)
+Operator drive, adding certain negative effect (not (at ?param_1 ?param_2))
+removing (at ?param_1 ?param_2) from possible positive effects
+removing (road ?param_2 ?param_2) from possible positive effects
+removing (road ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (road ?param_2 ?param_3) from possible negative effects
+removing (road ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.40  |  18  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 5817
+Random action chosen
+Not Successfully executed action 4861: pick-up(truck-1,city-loc-8,package-1,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.37  |  19  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 5927
+Random action chosen
+Not Successfully executed action 3778: drop(truck-3,city-loc-8,package-6,capacity-2,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.90  |  20  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 5975
+Random action chosen
+Not Successfully executed action 2436: drop(truck-2,city-loc-7,package-6,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.50  |  21  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6085
+Random action chosen
+Not Successfully executed action 5455: pick-up(truck-2,city-loc-4,package-1,capacity-2,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.17  |  22  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6133
+Random action chosen
+Not Successfully executed action 1015: drop(truck-1,city-loc-6,package-3,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.69  |  23  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6307
+Random action chosen
+Not Successfully executed action 1868: drop(truck-2,city-loc-4,package-2,capacity-0,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.34  |  24  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6381
+Random action chosen
+Not Successfully executed action 6540: pick-up(truck-3,city-loc-3,package-2,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.80  |  25  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6491
+Random action chosen
+Not Successfully executed action 6493: pick-up(truck-3,city-loc-3,package-1,capacity-0,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.32  |  26  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6539
+Random action chosen
+Not Successfully executed action 1862: drop(truck-2,city-loc-4,package-1,capacity-4,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.05  |  27  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6587
+Random action chosen
+Not Successfully executed action 4838: pick-up(truck-1,city-loc-7,package-6,capacity-4,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.73  |  28  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6635
+Random action chosen
+Not Successfully executed action 3340: drop(truck-3,city-loc-5,package-6,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.45  |  29  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6699
+Random action chosen
+Not Successfully executed action 4278: pick-up(truck-1,city-loc-4,package-2,capacity-2,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.98  |  30  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6747
+Random action chosen
+Not Successfully executed action 3786: drop(truck-3,city-loc-8,package-6,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.51  |  31  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6763
+Random action chosen
+Not Successfully executed action 2616: drop(truck-3,city-loc-1,package-1,capacity-4,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.05  |  32  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6873
+Random action chosen
+Not Successfully executed action 4731: pick-up(truck-1,city-loc-7,package-2,capacity-2,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.60  |  33  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6921
+Random action chosen
+Not Successfully executed action 4836: pick-up(truck-1,city-loc-7,package-6,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.23  |  34  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 6937
+Random action chosen
+Not Successfully executed action 1211: drop(truck-1,city-loc-7,package-5,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.77  |  35  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7001
+Random action chosen
+Not Successfully executed action 5311: pick-up(truck-2,city-loc-3,package-1,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.26  |  36  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7017
+Random action chosen
+Not Successfully executed action 5459: pick-up(truck-2,city-loc-4,package-1,capacity-3,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.82  |  37  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7065
+Random action chosen
+Not Successfully executed action 6513: pick-up(truck-3,city-loc-3,package-1,capacity-4,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.29  |  38  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7113
+Random action chosen
+Not Successfully executed action 3341: drop(truck-3,city-loc-5,package-6,capacity-4,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.76  |  39  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7129
+Random action chosen
+Not Successfully executed action 6879: pick-up(truck-3,city-loc-5,package-4,capacity-2,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.28  |  40  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7149
+Random action chosen
+Not Successfully executed action 3416: drop(truck-3,city-loc-6,package-3,capacity-4,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.82  |  41  |    10    |     3     |   5    |    1    |   5    |    1    |   8   |   1   |   4   |   0   |   4   |   0   |    0.20    |   0.20   |   0.20   |     0.67      |    0.33     |    1.00     |   0.20   |    0.80     
+
+
+Not executable actions: 7165
+Random action chosen
+Successfully executed action 6886: pick-up(truck-3,city-loc-5,package-4,capacity-3,capacity-4)
+operator pick-up, adding certain precondition: (at ?param_3 ?param_2)
+operator pick-up, adding certain precondition: (at ?param_1 ?param_2)
+Operator pick-up, adding certain positive effect (capacity ?param_1 ?param_4)
+Operator pick-up, adding certain positive effect (in ?param_3 ?param_1)
+Operator pick-up, adding certain negative effect (not (at ?param_3 ?param_2))
+Operator pick-up, adding certain negative effect (not (capacity ?param_1 ?param_5))
+removing (at ?param_3 ?param_2) from possible positive effects
+removing (capacity ?param_1 ?param_5) from possible positive effects
+removing (capacity-predecessor ?param_4 ?param_4) from possible positive effects
+removing (capacity-predecessor ?param_5 ?param_4) from possible positive effects
+removing (capacity-predecessor ?param_5 ?param_5) from possible positive effects
+removing (road ?param_2 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_2) from possible negative effects
+removing (capacity ?param_1 ?param_4) from possible negative effects
+removing (capacity-predecessor ?param_4 ?param_5) from possible negative effects
+removing (in ?param_3 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.37  |  42  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 6983
+Random action chosen
+Not Successfully executed action 3583: drop(truck-3,city-loc-7,package-4,capacity-3,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.26  |  43  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7081
+Random action chosen
+Not Successfully executed action 2665: drop(truck-3,city-loc-1,package-3,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.98  |  44  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7111
+Random action chosen
+Not Successfully executed action 3211: drop(truck-3,city-loc-5,package-1,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.69  |  45  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7146
+Random action chosen
+Not Successfully executed action 3568: drop(truck-3,city-loc-7,package-4,capacity-0,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.41  |  46  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7160
+Random action chosen
+Not Successfully executed action 2990: drop(truck-3,city-loc-3,package-4,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.08  |  47  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7195
+Random action chosen
+Not Successfully executed action 3288: drop(truck-3,city-loc-5,package-4,capacity-4,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.71  |  48  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7207
+Random action chosen
+Not Successfully executed action 3134: drop(truck-3,city-loc-4,package-4,capacity-3,capacity-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.31  |  49  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7214
+Random action chosen
+Not Successfully executed action 3730: drop(truck-3,city-loc-8,package-4,capacity-2,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.88  |  50  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7221
+Random action chosen
+Not Successfully executed action 1872: drop(truck-2,city-loc-4,package-2,capacity-1,capacity-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.45  |  51  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7224
+Random action chosen
+Not Successfully executed action 1876: drop(truck-2,city-loc-4,package-2,capacity-1,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.09  |  52  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7227
+Random action chosen
+Not Successfully executed action 3415: drop(truck-3,city-loc-6,package-3,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.64  |  53  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7232
+Random action chosen
+Not Successfully executed action 3736: drop(truck-3,city-loc-8,package-4,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.19  |  54  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7239
+Random action chosen
+Not Successfully executed action 3786: drop(truck-3,city-loc-8,package-6,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.71  |  55  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7244
+Random action chosen
+Not Successfully executed action 2685: drop(truck-3,city-loc-1,package-4,capacity-3,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.21  |  56  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7251
+Random action chosen
+Not Successfully executed action 3340: drop(truck-3,city-loc-5,package-6,capacity-4,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.80  |  57  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7256
+Random action chosen
+Not Successfully executed action 3278: drop(truck-3,city-loc-5,package-4,capacity-2,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.39  |  58  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7258
+Random action chosen
+Not Successfully executed action 3285: drop(truck-3,city-loc-5,package-4,capacity-3,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.97  |  59  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7263
+Random action chosen
+Not Successfully executed action 1888: drop(truck-2,city-loc-4,package-2,capacity-4,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.49  |  60  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7266
+Random action chosen
+Not Successfully executed action 1886: drop(truck-2,city-loc-4,package-2,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 36.04  |  61  |    10    |     7     |   5    |    3    |   5    |    3    |   4   |   1   |   2   |   0   |   2   |   0   |    0.60    |   0.60   |   0.60   |     0.86      |    0.75     |    1.00     |   0.60   |    0.92     
+
+
+Not executable actions: 7267
+Random action chosen
+Successfully executed action 3286: drop(truck-3,city-loc-5,package-4,capacity-3,capacity-4)
+operator drop, adding certain precondition: (in ?param_3 ?param_1)
+operator drop, adding certain precondition: (at ?param_1 ?param_2)
+operator drop, adding certain precondition: (capacity-predecessor ?param_4 ?param_5)
+Operator drop, adding certain positive effect (at ?param_3 ?param_2)
+Operator drop, adding certain positive effect (capacity ?param_1 ?param_5)
+Operator drop, adding certain negative effect (not (capacity ?param_1 ?param_4))
+Operator drop, adding certain negative effect (not (in ?param_3 ?param_1))
+removing (capacity ?param_1 ?param_4) from possible positive effects
+removing (capacity-predecessor ?param_4 ?param_4) from possible positive effects
+removing (capacity-predecessor ?param_5 ?param_4) from possible positive effects
+removing (capacity-predecessor ?param_5 ?param_5) from possible positive effects
+removing (in ?param_3 ?param_1) from possible positive effects
+removing (road ?param_2 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_2) from possible negative effects
+removing (at ?param_3 ?param_2) from possible negative effects
+removing (capacity ?param_1 ?param_5) from possible negative effects
+removing (capacity-predecessor ?param_4 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 36.58  |  62  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Not executable actions: 7267
+Random action chosen
+Not Successfully executed action 5476: pick-up(truck-2,city-loc-4,package-2,capacity-1,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.54  |  63  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+operator pick-up, adding certain precondition: (capacity-predecessor ?param_4 ?param_5)
+Not executable actions: 7275
+Random action chosen
+Not Successfully executed action 6880: pick-up(truck-3,city-loc-5,package-4,capacity-2,capacity-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 38.15  |  64  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+operator pick-up, adding certain precondition: (capacity ?param_1 ?param_5)
+Not executable actions: 7281
+Random action chosen
+Not Successfully executed action 28: drive(truck-1,city-loc-4,city-loc-5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 38.82  |  65  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+operator drive, adding certain precondition: (at ?param_1 ?param_2)
+Not executable actions: 7366
+Random action chosen
+Not Successfully executed action 94: drive(truck-2,city-loc-4,city-loc-7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.39  |  66  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Not executable actions: 7379
+Random action chosen
+
+
+Checking feasibility of operator drive negated preconditions of length 1
+FD computational time: 0:00:00.856892
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.999092
+Plan computed: True Plan length: 1
+The feasibility of operator drop negated preconditions of length 1 is: True
+Successfully executed action 6886: pick-up(truck-3,city-loc-5,package-4,capacity-3,capacity-4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 41.78  |  67  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Not successfully executed action 3268: drop(truck-3,city-loc-5,package-4,capacity-0,capacity-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.66  |  68  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+operator drop, adding certain precondition: (capacity ?param_1 ?param_4)
+
+
+Checking feasibility of operator drive negated preconditions of length 2
+FD computational time: 0:00:00.884058
+Plan computed: True Plan length: 0
+The feasibility of operator drive negated preconditions of length 2 is: True
+
+
+
+Looking for new positive effects of learned operators
+Operator drive does not admit new positive effects
+Operator pick-up does not admit new positive effects
+Operator drop does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:00.864302
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pick-up with possible negative effects
+FD computational time: 0:00:00.900458
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator drop with possible negative effects
+FD computational time: 0:00:00.870131
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator drive has no known positive effects to check
+Operator pick-up has no known positive effects to check
+Operator drop has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator drive has no known negative effects to check
+Operator pick-up has no known negative effects to check
+Operator drop has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.92  |  69  |    10    |    11     |   5    |    5    |   5    |    5    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.92  |  69  |    10    |    11     |   5    |    5    |   5    |   15    |   0   |   1   |   0   |   0   |   0   |  10   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    0.33     |   1.00   |    0.65     
+
+

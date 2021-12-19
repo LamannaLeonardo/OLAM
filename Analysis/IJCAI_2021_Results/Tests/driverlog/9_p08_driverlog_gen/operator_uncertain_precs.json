@@ -1,0 +1,14 @@
+{
+  "board-truck": [],
+  "disembark-truck": [],
+  "drive-truck": [
+    "(link ?param_2 ?param_3)",
+    "(link ?param_3 ?param_2)"
+  ],
+  "load-truck": [],
+  "unload-truck": [],
+  "walk": [
+    "(path ?param_3 ?param_2)",
+    "(path ?param_2 ?param_3)"
+  ]
+}

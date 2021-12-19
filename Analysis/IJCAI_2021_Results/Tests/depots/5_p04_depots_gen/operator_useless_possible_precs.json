@@ -1,0 +1,178 @@
+{
+  "load": [
+    [
+      "(at ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(available ?param_1)"
+    ],
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)"
+    ],
+    [
+      "(lifting ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(available ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_2 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(lifting ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(lifting ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(available ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(at ?param_3 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(at ?param_3 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(available ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(available ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_2 ?param_4)",
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_2 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_3 ?param_4)",
+      "(clear ?param_2)"
+    ]
+  ],
+  "unload": [
+    [
+      "(at ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(available ?param_1)"
+    ],
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)"
+    ],
+    [
+      "(lifting ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(available ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(available ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_2 ?param_4)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(at ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_1 ?param_4)",
+      "(lifting ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_4)",
+      "(lifting ?param_1 ?param_2)"
+    ]
+  ]
+}

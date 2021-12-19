@@ -1,0 +1,22 @@
+{
+  "lift": [
+    "(clear ?param_3)",
+    "(lifting ?param_1 ?param_2)"
+  ],
+  "drive": [
+    "(at ?param_1 ?param_3)"
+  ],
+  "drop": [
+    "(at ?param_2 ?param_4)",
+    "(available ?param_1)",
+    "(clear ?param_2)",
+    "(on ?param_2 ?param_3)"
+  ],
+  "load": [
+    "(available ?param_1)",
+    "(in ?param_2 ?param_3)"
+  ],
+  "unload": [
+    "(lifting ?param_1 ?param_2)"
+  ]
+}

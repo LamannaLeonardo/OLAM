@@ -1,0 +1,12 @@
+{
+  "walk": [
+    "(not (at ?param_3 ?param_1))"
+  ],
+  "pickup_spanner": [
+    "(not (at ?param_2 ?param_1))"
+  ],
+  "tighten_nut": [
+    "(not (loose ?param_4))",
+    "(not (useable ?param_2))"
+  ]
+}

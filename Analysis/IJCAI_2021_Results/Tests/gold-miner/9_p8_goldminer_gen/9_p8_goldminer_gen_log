@@ -1,0 +1,193 @@
+
+Total actions: 2820
+
+Objects list
+	loc:30
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Not executable actions: 2814
+Random action chosen
+Not Successfully executed action 2575: move(f5-0f,f5-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.40  |  1   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Not executable actions: 2819
+Random action chosen
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 1
+FD computational time: 0:00:57.853750
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 1
+FD computational time: 0:00:57.830373
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:57.825425
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pick-gold negated preconditions of length 1
+FD computational time: 0:00:57.766533
+Plan computed: False Plan length: None
+The feasibility of operator pick-gold negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-bomb negated preconditions of length 1
+FD computational time: 0:00:00.778187
+Plan computed: False Plan length: None
+The feasibility of operator pickup-bomb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-laser negated preconditions of length 1
+FD computational time: 0:00:57.796900
+Plan computed: False Plan length: None
+The feasibility of operator pickup-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator putdown-laser negated preconditions of length 1
+FD computational time: 0:00:57.797704
+Plan computed: False Plan length: None
+The feasibility of operator putdown-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 2
+FD computational time: 0:00:00.732012
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 2
+FD computational time: 0:00:00.765096
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.766597
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 3
+FD computational time: 0:00:57.813973
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 3
+FD computational time: 0:00:57.854743
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:57.841755
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator detonate-bomb does not admit new positive effects
+Operator fire-laser does not admit new positive effects
+Operator move does not admit new positive effects
+Operator pick-gold does not admit new positive effects
+Operator pickup-bomb does not admit new positive effects
+Operator pickup-laser does not admit new positive effects
+Operator putdown-laser does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator detonate-bomb with possible negative effects
+FD computational time: 0:00:58.868227
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator fire-laser with possible negative effects
+FD computational time: 0:00:57.896607
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:57.858503
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pick-gold with possible negative effects
+FD computational time: 0:00:57.802903
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup-bomb with possible negative effects
+FD computational time: 0:00:00.798746
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup-laser with possible negative effects
+FD computational time: 0:00:57.822334
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-laser with possible negative effects
+FD computational time: 0:00:57.792818
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator detonate-bomb has no known positive effects to check
+Operator fire-laser has no known positive effects to check
+Operator move has no known positive effects to check
+Operator pick-gold has no known positive effects to check
+Operator pickup-bomb has no known positive effects to check
+Operator pickup-laser has no known positive effects to check
+Operator putdown-laser has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator detonate-bomb has no known negative effects to check
+Operator fire-laser has no known negative effects to check
+Operator move has no known negative effects to check
+Operator pick-gold has no known negative effects to check
+Operator pickup-bomb has no known negative effects to check
+Operator pickup-laser has no known negative effects to check
+Operator putdown-laser has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 873.21 |  2   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 873.21 |  2   |    21    |    31     |   9    |    9    |   11   |   59    |   0   |  10   |   0   |   0   |   0   |  48   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    0.19     |   1.00   |    0.41     
+
+

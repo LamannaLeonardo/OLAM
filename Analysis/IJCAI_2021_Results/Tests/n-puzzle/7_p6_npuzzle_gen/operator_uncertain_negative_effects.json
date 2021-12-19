@@ -1,0 +1,6 @@
+{
+  "move": [
+    "(neighbor ?param_2 ?param_2)",
+    "(neighbor ?param_3 ?param_3)"
+  ]
+}

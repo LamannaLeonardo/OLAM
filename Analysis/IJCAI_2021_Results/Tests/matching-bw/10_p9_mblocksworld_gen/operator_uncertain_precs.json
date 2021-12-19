@@ -1,0 +1,14 @@
+{
+  "pickup": [],
+  "putdown-neg-neg": [],
+  "putdown-neg-pos": [],
+  "putdown-pos-neg": [],
+  "putdown-pos-pos": [],
+  "stack-neg-neg": [],
+  "stack-neg-pos": [],
+  "stack-pos-neg": [],
+  "stack-pos-pos": [],
+  "unstack": [
+    "(solid ?param_3)"
+  ]
+}

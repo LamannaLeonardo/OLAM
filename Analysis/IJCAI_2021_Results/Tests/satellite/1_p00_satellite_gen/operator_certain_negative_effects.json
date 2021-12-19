@@ -1,0 +1,14 @@
+{
+  "turn_to": [
+    "(not (pointing ?param_1 ?param_3))"
+  ],
+  "switch_on": [
+    "(not (power_avail ?param_2))",
+    "(not (calibrated ?param_1))"
+  ],
+  "switch_off": [
+    "(not (power_on ?param_1))"
+  ],
+  "calibrate": [],
+  "take_image": []
+}

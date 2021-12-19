@@ -1,0 +1,19 @@
+{
+  "zoom": [
+    "(not (at ?param_1 ?param_2))",
+    "(not (fuel-level ?param_1 ?param_4))"
+  ],
+  "fly": [
+    "(not (fuel-level ?param_1 ?param_4))",
+    "(not (at ?param_1 ?param_2))"
+  ],
+  "board": [
+    "(not (at ?param_1 ?param_3))"
+  ],
+  "refuel": [
+    "(not (fuel-level ?param_1 ?param_3))"
+  ],
+  "debark": [
+    "(not (in ?param_1 ?param_2))"
+  ]
+}

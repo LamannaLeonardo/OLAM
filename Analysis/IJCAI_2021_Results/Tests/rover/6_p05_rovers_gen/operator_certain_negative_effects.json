@@ -1,0 +1,23 @@
+{
+  "calibrate": [],
+  "navigate": [
+    "(not (at ?param_1 ?param_2))"
+  ],
+  "sample_rock": [
+    "(not (at_rock_sample ?param_3))",
+    "(not (empty ?param_2))"
+  ],
+  "take_image": [
+    "(not (calibrated ?param_4 ?param_1))"
+  ],
+  "drop": [
+    "(not (full ?param_2))"
+  ],
+  "sample_soil": [
+    "(not (at_soil_sample ?param_3))",
+    "(not (empty ?param_2))"
+  ],
+  "communicate_image_data": [],
+  "communicate_rock_data": [],
+  "communicate_soil_data": []
+}

@@ -1,0 +1,571 @@
+
+Total actions: 201
+
+Objects list
+	goods:3
+	truck:1
+	market:1
+	depot:2
+	level:2
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 102
+Random action chosen
+Not Successfully executed action 126: unload(goods1,truck1,depot2,level0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.20  |  1   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 114
+Random action chosen
+Not Successfully executed action 189: unload(goods3,truck1,depot2,level0,level1,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.40  |  2   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 126
+Random action chosen
+Not Successfully executed action 122: unload(goods1,truck1,depot2,level0,level0,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.62  |  3   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 138
+Random action chosen
+Not Successfully executed action 78: load(goods2,truck1,market1,level0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.81  |  4   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 141
+Random action chosen
+Not Successfully executed action 153: unload(goods2,truck1,depot2,level0,level0,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.98  |  5   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 153
+Random action chosen
+Not Successfully executed action 74: load(goods2,truck1,market1,level0,level0,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.17  |  6   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 156
+Random action chosen
+Not Successfully executed action 61: load(goods1,truck1,market1,level0,level1,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.35  |  7   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 159
+Random action chosen
+Not Successfully executed action 89: load(goods3,truck1,market1,level0,level0,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.56  |  8   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 162
+Random action chosen
+Not Successfully executed action 81: load(goods2,truck1,market1,level1,level0,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.78  |  9   |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 165
+Random action chosen
+Not Successfully executed action 60: load(goods1,truck1,market1,level0,level0,level1,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.03  |  10  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 168
+Random action chosen
+Not Successfully executed action 75: load(goods2,truck1,market1,level0,level0,level1,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.23  |  11  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 171
+Random action chosen
+Not Successfully executed action 82: load(goods2,truck1,market1,level1,level0,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.46  |  12  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 174
+Random action chosen
+Not Successfully executed action 86: load(goods2,truck1,market1,level1,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.71  |  13  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 177
+Random action chosen
+Not Successfully executed action 101: load(goods3,truck1,market1,level1,level1,level0,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.91  |  14  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 180
+Random action chosen
+Not Successfully executed action 64: load(goods1,truck1,market1,level0,level1,level1,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.13  |  15  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 183
+Random action chosen
+Not Successfully executed action 79: load(goods2,truck1,market1,level0,level1,level1,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.32  |  16  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 186
+Random action chosen
+Not Successfully executed action 52: drive(truck1,depot2,depot2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.54  |  17  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 188
+Random action chosen
+Not Successfully executed action 83: load(goods2,truck1,market1,level1,level0,level1,level0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.69  |  18  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Not executable actions: 200
+Random action chosen
+
+
+Checking feasibility of operator buy negated preconditions of length 1
+FD computational time: 0:00:00.799736
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 1
+FD computational time: 0:00:00.758810
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 1
+FD computational time: 0:00:00.783885
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 1
+FD computational time: 0:00:00.777946
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 2
+FD computational time: 0:00:00.934278
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 2
+FD computational time: 0:00:00.924075
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 2
+FD computational time: 0:00:00.784227
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 3
+FD computational time: 0:00:01.297239
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 3
+FD computational time: 0:00:01.422121
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 3
+FD computational time: 0:00:00.839646
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 4
+FD computational time: 0:00:02.012365
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 4
+FD computational time: 0:00:02.761142
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 4
+FD computational time: 0:00:00.830031
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 5
+FD computational time: 0:00:03.076796
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 5
+FD computational time: 0:00:05.128878
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 5
+FD computational time: 0:00:00.766047
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 6
+FD computational time: 0:00:03.523707
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 6
+FD computational time: 0:00:07.201850
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 6
+FD computational time: 0:00:00.753078
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 7
+FD computational time: 0:00:02.684957
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 7
+FD computational time: 0:00:06.655453
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator unload negated preconditions of length 7
+FD computational time: 0:00:00.728328
+Plan computed: False Plan length: None
+The feasibility of operator unload negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 8
+FD computational time: 0:00:01.742661
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 8
+FD computational time: 0:00:04.330493
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 9
+FD computational time: 0:00:01.077231
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 9 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 9
+FD computational time: 0:00:02.206609
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 9 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 10
+FD computational time: 0:00:00.807122
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 10 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 10
+FD computational time: 0:00:01.141582
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 10 is: False
+
+
+Checking feasibility of operator buy negated preconditions of length 11
+FD computational time: 0:00:00.743292
+Plan computed: False Plan length: None
+The feasibility of operator buy negated preconditions of length 11 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 11
+FD computational time: 0:00:00.825131
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 11 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 12
+FD computational time: 0:00:00.747106
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 12 is: False
+
+
+Checking feasibility of operator load negated preconditions of length 13
+FD computational time: 0:00:00.733215
+Plan computed: False Plan length: None
+The feasibility of operator load negated preconditions of length 13 is: False
+
+
+
+Looking for new positive effects of learned operators
+(exists (?param_1 - truck ?param_2 - goods ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_1 ?param_3) (loaded ?param_2 ?param_1 ?param_4) (loaded ?param_2 ?param_1 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_2 ?param_3 ?param_5) (on-sale ?param_2 ?param_3 ?param_7) (ready-to-load ?param_2 ?param_3 ?param_4) (ready-to-load ?param_2 ?param_3 ?param_6) (stored ?param_2 ?param_4) (stored ?param_2 ?param_6) (not (on-sale ?param_2 ?param_3 ?param_4)) (not (= ?param_4 ?param_5)) (not (= ?param_4 ?param_7)) (not (= ?param_4 ?param_6))))
+
+
+
+Checking feasibility of operator buy with possible positive effect (on-sale ?param_2 ?param_3 ?param_4)
+FD computational time: 0:00:00.752763
+Plan computed: False Plan length: None
+(exists (?param_1 - truck ?param_2 - goods ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_1 ?param_3) (loaded ?param_2 ?param_1 ?param_4) (loaded ?param_2 ?param_1 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_2 ?param_3 ?param_5) (on-sale ?param_2 ?param_3 ?param_7) (ready-to-load ?param_2 ?param_3 ?param_4) (ready-to-load ?param_2 ?param_3 ?param_6) (stored ?param_2 ?param_4) (stored ?param_2 ?param_6) (not (on-sale ?param_2 ?param_3 ?param_6)) (not (= ?param_6 ?param_4)) (not (= ?param_6 ?param_7)) (not (= ?param_6 ?param_5))))
+
+
+
+Checking feasibility of operator buy with possible positive effect (on-sale ?param_2 ?param_3 ?param_6)
+FD computational time: 0:00:00.747264
+Plan computed: False Plan length: None
+(exists (?param_1 - truck ?param_2 - goods ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_1 ?param_3) (loaded ?param_2 ?param_1 ?param_4) (loaded ?param_2 ?param_1 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_2 ?param_3 ?param_5) (on-sale ?param_2 ?param_3 ?param_7) (ready-to-load ?param_2 ?param_3 ?param_4) (ready-to-load ?param_2 ?param_3 ?param_6) (stored ?param_2 ?param_4) (stored ?param_2 ?param_6) (not (ready-to-load ?param_2 ?param_3 ?param_5)) (not (= ?param_5 ?param_6)) (not (= ?param_5 ?param_4)) (not (= ?param_5 ?param_7))))
+
+
+
+Checking feasibility of operator buy with possible positive effect (ready-to-load ?param_2 ?param_3 ?param_5)
+FD computational time: 0:00:00.738616
+Plan computed: False Plan length: None
+(exists (?param_1 - truck ?param_2 - goods ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_1 ?param_3) (loaded ?param_2 ?param_1 ?param_4) (loaded ?param_2 ?param_1 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_2 ?param_3 ?param_5) (on-sale ?param_2 ?param_3 ?param_7) (ready-to-load ?param_2 ?param_3 ?param_4) (ready-to-load ?param_2 ?param_3 ?param_6) (stored ?param_2 ?param_4) (stored ?param_2 ?param_6) (not (ready-to-load ?param_2 ?param_3 ?param_7)) (not (= ?param_7 ?param_5)) (not (= ?param_7 ?param_6)) (not (= ?param_7 ?param_4))))
+
+
+
+Checking feasibility of operator buy with possible positive effect (ready-to-load ?param_2 ?param_3 ?param_7)
+FD computational time: 0:00:00.745946
+Plan computed: False Plan length: None
+Operator drive does not admit new positive effects
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_4) (loaded ?param_1 ?param_2 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_1 ?param_3 ?param_4) (on-sale ?param_1 ?param_3 ?param_6) (ready-to-load ?param_1 ?param_3 ?param_5) (ready-to-load ?param_1 ?param_3 ?param_7) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (loaded ?param_1 ?param_2 ?param_5)) (not (= ?param_5 ?param_6)) (not (= ?param_5 ?param_4)) (not (= ?param_5 ?param_7))))
+
+
+
+Checking feasibility of operator load with possible positive effect (loaded ?param_1 ?param_2 ?param_5)
+FD computational time: 0:00:00.744705
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_4) (loaded ?param_1 ?param_2 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_1 ?param_3 ?param_4) (on-sale ?param_1 ?param_3 ?param_6) (ready-to-load ?param_1 ?param_3 ?param_5) (ready-to-load ?param_1 ?param_3 ?param_7) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (loaded ?param_1 ?param_2 ?param_7)) (not (= ?param_7 ?param_5)) (not (= ?param_7 ?param_6)) (not (= ?param_7 ?param_4))))
+
+
+
+Checking feasibility of operator load with possible positive effect (loaded ?param_1 ?param_2 ?param_7)
+FD computational time: 0:00:00.744092
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_4) (loaded ?param_1 ?param_2 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_1 ?param_3 ?param_4) (on-sale ?param_1 ?param_3 ?param_6) (ready-to-load ?param_1 ?param_3 ?param_5) (ready-to-load ?param_1 ?param_3 ?param_7) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (ready-to-load ?param_1 ?param_3 ?param_4)) (not (= ?param_4 ?param_5)) (not (= ?param_4 ?param_7)) (not (= ?param_4 ?param_6))))
+
+
+
+Checking feasibility of operator load with possible positive effect (ready-to-load ?param_1 ?param_3 ?param_4)
+FD computational time: 0:00:00.743776
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - market ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_4) (loaded ?param_1 ?param_2 ?param_6) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (on-sale ?param_1 ?param_3 ?param_4) (on-sale ?param_1 ?param_3 ?param_6) (ready-to-load ?param_1 ?param_3 ?param_5) (ready-to-load ?param_1 ?param_3 ?param_7) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (ready-to-load ?param_1 ?param_3 ?param_6)) (not (= ?param_6 ?param_4)) (not (= ?param_6 ?param_7)) (not (= ?param_6 ?param_5))))
+
+
+
+Checking feasibility of operator load with possible positive effect (ready-to-load ?param_1 ?param_3 ?param_6)
+FD computational time: 0:00:00.733909
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - depot ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_5) (loaded ?param_1 ?param_2 ?param_7) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (loaded ?param_1 ?param_2 ?param_4)) (not (= ?param_4 ?param_5)) (not (= ?param_4 ?param_7)) (not (= ?param_4 ?param_6))))
+
+
+
+Checking feasibility of operator unload with possible positive effect (loaded ?param_1 ?param_2 ?param_4)
+FD computational time: 0:00:00.734454
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - depot ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_5) (loaded ?param_1 ?param_2 ?param_7) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (loaded ?param_1 ?param_2 ?param_6)) (not (= ?param_6 ?param_4)) (not (= ?param_6 ?param_7)) (not (= ?param_6 ?param_5))))
+
+
+
+Checking feasibility of operator unload with possible positive effect (loaded ?param_1 ?param_2 ?param_6)
+FD computational time: 0:00:00.739627
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - depot ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_5) (loaded ?param_1 ?param_2 ?param_7) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (stored ?param_1 ?param_5)) (not (= ?param_5 ?param_6)) (not (= ?param_5 ?param_4)) (not (= ?param_5 ?param_7))))
+
+
+
+Checking feasibility of operator unload with possible positive effect (stored ?param_1 ?param_5)
+FD computational time: 0:00:00.743250
+Plan computed: False Plan length: None
+(exists (?param_1 - goods ?param_2 - truck ?param_3 - depot ?param_4 ?param_5 ?param_6 ?param_7 - level) (and (at ?param_2 ?param_3) (loaded ?param_1 ?param_2 ?param_5) (loaded ?param_1 ?param_2 ?param_7) (next ?param_5 ?param_4) (next ?param_5 ?param_6) (next ?param_7 ?param_4) (next ?param_7 ?param_6) (stored ?param_1 ?param_4) (stored ?param_1 ?param_6) (not (stored ?param_1 ?param_7)) (not (= ?param_7 ?param_5)) (not (= ?param_7 ?param_6)) (not (= ?param_7 ?param_4))))
+
+
+
+Checking feasibility of operator unload with possible positive effect (stored ?param_1 ?param_7)
+FD computational time: 0:00:00.721434
+Plan computed: False Plan length: None
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator buy with possible negative effects
+FD computational time: 0:00:00.865555
+Plan computed: True Plan length: 1
+Successfully executed action 53: drive(truck1,depot2,market1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 73.87  |  19  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Successfully executed action 5: buy(truck1,goods1,market1,level0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 73.90  |  20  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+
+
+Checking feasibility of operator buy with possible negative effects
+FD computational time: 0:00:00.941470
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:00.780743
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator load with possible negative effects
+FD computational time: 0:00:00.890251
+Plan computed: True Plan length: 0
+Successfully executed action 62: load(goods1,truck1,market1,level0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 76.58  |  21  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+
+
+Checking feasibility of operator load with possible negative effects
+FD computational time: 0:00:00.930524
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload with possible negative effects
+FD computational time: 0:00:00.836573
+Plan computed: True Plan length: 1
+Successfully executed action 54: drive(truck1,market1,depot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 78.38  |  22  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+Successfully executed action 110: unload(goods1,truck1,depot1,level0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 78.41  |  23  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+
+
+Checking feasibility of operator unload with possible negative effects
+FD computational time: 0:00:00.866223
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator buy has no known positive effects to check
+Operator drive has no known positive effects to check
+Operator load has no known positive effects to check
+Operator unload has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator buy has no known negative effects to check
+Operator drive has no known negative effects to check
+Operator load has no known negative effects to check
+Operator unload has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 79.29  |  24  |    17    |    38     |   7    |    1    |   7    |    1    |   0   |  21   |   6   |   0   |   6   |   0   |    1.00    |   0.14   |   0.14   |     0.45      |    0.25     |    1.00     |   0.61   |    0.47     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 79.29  |  24  |    17    |    38     |   7    |    1    |   7    |   94    |   0   |  21   |   6   |   0   |   0   |  87   |    1.00    |   0.14   |   1.00   |     0.45      |    0.25     |    0.07     |   0.81   |    0.19     
+
+

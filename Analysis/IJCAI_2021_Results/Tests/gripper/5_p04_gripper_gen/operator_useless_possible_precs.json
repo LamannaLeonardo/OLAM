@@ -1,0 +1,32 @@
+{
+  "pick": [
+    [
+      "(at-robby ?param_1 ?param_3)"
+    ],
+    [
+      "(free ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)"
+    ],
+    [
+      "(at-robby ?param_1 ?param_3)",
+      "(free ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(free ?param_1 ?param_4)"
+    ]
+  ],
+  "drop": [
+    [
+      "(at-robby ?param_1 ?param_3)"
+    ],
+    [
+      "(free ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)"
+    ]
+  ]
+}

@@ -1,0 +1,2777 @@
+{
+  "pickup-laser": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ]
+  ],
+  "pickup-bomb": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ]
+  ],
+  "putdown-laser": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ]
+  ],
+  "detonate-bomb": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ]
+  ],
+  "fire-laser": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(clear ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(bomb-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(clear ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(robot-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(robot-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_1 ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(connected ?param_2 ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(laser-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(hard-rock-at ?param_2)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)",
+      "(soft-rock-at ?param_2)"
+    ],
+    [
+      "(holds-laser)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(bomb-at ?param_2)",
+      "(holds-laser)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(holds-laser)"
+    ],
+    [
+      "(connected ?param_1 ?param_2)",
+      "(holds-laser)"
+    ],
+    [
+      "(connected ?param_2 ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(hard-rock-at ?param_2)",
+      "(holds-laser)"
+    ],
+    [
+      "(holds-laser)",
+      "(robot-at ?param_2)"
+    ],
+    [
+      "(clear ?param_2)",
+      "(gold-at ?param_2)"
+    ],
+    [
+      "(gold-at ?param_2)",
+      "(holds-laser)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-laser)"
+    ]
+  ],
+  "pick-gold": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(laser-at ?param_1)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-bomb)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-bomb)",
+      "(soft-rock-at ?param_1)"
+    ],
+    [
+      "(holds-laser)"
+    ],
+    [
+      "(bomb-at ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(hard-rock-at ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(holds-laser)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(clear ?param_1)",
+      "(gold-at ?param_1)"
+    ],
+    [
+      "(gold-at ?param_1)",
+      "(holds-laser)"
+    ],
+    [
+      "(arm-empty)",
+      "(bomb-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(clear ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(hard-rock-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(laser-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(robot-at ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(gold-at ?param_1)"
+    ]
+  ]
+}

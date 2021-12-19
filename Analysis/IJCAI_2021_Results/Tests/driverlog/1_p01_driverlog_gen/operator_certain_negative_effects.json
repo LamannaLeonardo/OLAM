@@ -1,0 +1,15 @@
+{
+  "load-truck": [
+    "(not (at ?param_1 ?param_3))"
+  ],
+  "board-truck": [
+    "(not (at ?param_1 ?param_3))",
+    "(not (empty ?param_2))"
+  ],
+  "unload-truck": [
+    "(not (in ?param_1 ?param_2))"
+  ],
+  "disembark-truck": [
+    "(not (driving ?param_1 ?param_2))"
+  ]
+}

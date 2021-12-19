@@ -1,0 +1,6 @@
+{
+  "move": [
+    "(not (at ?param_1 ?param_2))",
+    "(not (empty ?param_3))"
+  ]
+}

@@ -1,0 +1,31 @@
+(define   (problem parking)
+(:domain parking)
+(:objects
+car_0  car_1  car_2  car_3  car_4 - car
+curb_0 curb_1 curb_2 curb_3 - curb
+)
+	(:init
+			(at-curb car_1)
+			(at-curb car_2)
+			(at-curb-num car_1 curb_1)
+			(at-curb-num car_2 curb_0)
+			(behind-car car_0 car_0)
+			(behind-car car_3 car_2)
+			(behind-car car_4 car_1)
+			(car-clear car_3)
+			(car-clear car_4)
+			(curb-clear curb_2)
+			(curb-clear curb_3)
+	)
+(:goal
+(and
+(at-curb-num car_0 curb_0)
+(behind-car car_4 car_0)
+(at-curb-num car_1 curb_1)
+(at-curb-num car_2 curb_2)
+(at-curb-num car_3 curb_3)
+)
+)
+)
+
+

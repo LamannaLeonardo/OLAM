@@ -1,0 +1,19 @@
+{
+  "pick-up": [
+    "(not (clear ?param_1))",
+    "(not (handempty))",
+    "(not (ontable ?param_1))"
+  ],
+  "stack": [
+    "(not (clear ?param_2))",
+    "(not (holding ?param_1))"
+  ],
+  "unstack": [
+    "(not (clear ?param_1))",
+    "(not (handempty))",
+    "(not (on ?param_1 ?param_2))"
+  ],
+  "put-down": [
+    "(not (holding ?param_1))"
+  ]
+}

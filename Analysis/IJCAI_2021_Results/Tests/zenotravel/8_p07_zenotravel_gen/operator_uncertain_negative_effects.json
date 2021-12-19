@@ -1,0 +1,24 @@
+{
+  "board": [],
+  "debark": [],
+  "fly": [
+    "(next ?param_4 ?param_4)",
+    "(next ?param_4 ?param_5)",
+    "(next ?param_5 ?param_5)"
+  ],
+  "zoom": [
+    "(fuel-level ?param_1 ?param_5)",
+    "(next ?param_4 ?param_4)",
+    "(next ?param_4 ?param_5)",
+    "(next ?param_4 ?param_6)",
+    "(next ?param_5 ?param_5)",
+    "(next ?param_5 ?param_6)",
+    "(next ?param_6 ?param_4)",
+    "(next ?param_6 ?param_6)"
+  ],
+  "refuel": [
+    "(next ?param_3 ?param_3)",
+    "(next ?param_4 ?param_3)",
+    "(next ?param_4 ?param_4)"
+  ]
+}

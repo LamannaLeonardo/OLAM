@@ -1,0 +1,10 @@
+{
+  "board": [
+    [
+      "(at ?param_1 ?param_3)"
+    ],
+    [
+      "(at ?param_2 ?param_3)"
+    ]
+  ]
+}

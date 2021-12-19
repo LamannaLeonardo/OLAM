@@ -1,0 +1,613 @@
+
+Total actions: 92
+
+Objects list
+	satellite:2
+	instrument:3
+	mode:1
+	direction:4
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 44: take_image(satellite0,star0,instrument2,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.12  |  1   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 59: take_image(satellite1,star3,instrument2,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.26  |  2   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 18
+Random action chosen
+Not Successfully executed action 82: turn_to(satellite1,phenomenon2,star0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.42  |  3   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 36
+Random action chosen
+Not Successfully executed action 3: calibrate(satellite0,instrument0,star3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.55  |  4   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 51
+Random action chosen
+Not Successfully executed action 6: calibrate(satellite0,instrument1,star0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.67  |  5   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 54
+Random action chosen
+Not Successfully executed action 27: switch_off(instrument1,satellite1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.80  |  6   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 57
+Random action chosen
+Not Successfully executed action 50: take_image(satellite1,groundstation1,instrument2,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.91  |  7   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 60
+Random action chosen
+Not Successfully executed action 69: turn_to(satellite0,star0,phenomenon2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.03  |  8   |    14    |     0     |   5    |    0    |   4    |    0    |  14   |   0   |   5   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 66
+Random action chosen
+Successfully executed action 62: turn_to(satellite0,groundstation1,star0)
+operator turn_to, adding certain precondition: (pointing ?param_1 ?param_3)
+Operator turn_to, adding certain positive effect (pointing ?param_1 ?param_2)
+Operator turn_to, adding certain negative effect (not (pointing ?param_1 ?param_3))
+removing (pointing ?param_1 ?param_3) from possible positive effects
+removing (pointing ?param_1 ?param_2) from possible negative effects
+removing (power_avail ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.16  |  9   |    14    |     2     |   5    |    1    |   4    |    1    |  13   |   1   |   4   |   0   |   3   |   0   |    0.07    |   0.20   |   0.25   |     0.50      |    0.20     |    1.00     |   0.13   |    0.75     
+
+
+Not executable actions: 66
+Random action chosen
+Not Successfully executed action 16: calibrate(satellite1,instrument1,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.31  |  10  |    14    |     2     |   5    |    1    |   4    |    1    |  13   |   1   |   4   |   0   |   3   |   0   |    0.07    |   0.20   |   0.25   |     0.50      |    0.20     |    1.00     |   0.13   |    0.75     
+
+
+Not executable actions: 69
+Random action chosen
+Not Successfully executed action 31: switch_on(instrument0,satellite1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.45  |  11  |    14    |     2     |   5    |    1    |   4    |    1    |  13   |   1   |   4   |   0   |   3   |   0   |    0.07    |   0.20   |   0.25   |     0.50      |    0.20     |    1.00     |   0.13   |    0.75     
+
+
+Not executable actions: 72
+Random action chosen
+Successfully executed action 30: switch_on(instrument0,satellite0)
+operator switch_on, adding certain precondition: (on_board ?param_1 ?param_2)
+Operator switch_on, adding certain positive effect (power_on ?param_1)
+Operator switch_on, adding certain negative effect (not (power_avail ?param_2))
+removing (calibrated ?param_1) from possible positive effects
+removing (power_avail ?param_2) from possible positive effects
+removing (on_board ?param_1 ?param_2) from possible negative effects
+removing (power_on ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.56  |  12  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 57
+Random action chosen
+Not Successfully executed action 26: switch_off(instrument1,satellite0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.70  |  13  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 58
+Random action chosen
+Not Successfully executed action 1: calibrate(satellite0,instrument0,phenomenon2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.83  |  14  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 61
+Random action chosen
+Not Successfully executed action 22: calibrate(satellite1,instrument2,star0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.95  |  15  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 62
+Random action chosen
+Not Successfully executed action 25: switch_off(instrument0,satellite1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.07  |  16  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 63
+Random action chosen
+Not Successfully executed action 51: take_image(satellite1,phenomenon2,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.19  |  17  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 66
+Random action chosen
+Not Successfully executed action 36: take_image(satellite0,groundstation1,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.33  |  18  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 71
+Random action chosen
+Not Successfully executed action 4: calibrate(satellite0,instrument1,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.47  |  19  |    14    |     4     |   5    |    2    |   4    |    2    |  11   |   1   |   3   |   0   |   2   |   0   |    0.21    |   0.40   |   0.50   |     0.75      |    0.40     |    1.00     |   0.30   |    0.88     
+
+
+Not executable actions: 72
+Random action chosen
+Successfully executed action 24: switch_off(instrument0,satellite0)
+operator switch_off, adding certain precondition: (power_on ?param_1)
+operator switch_off, adding certain precondition: (on_board ?param_1 ?param_2)
+Operator switch_off, adding certain positive effect (power_avail ?param_2)
+Operator switch_off, adding certain negative effect (not (power_on ?param_1))
+removing (calibrated ?param_1) from possible positive effects
+removing (power_on ?param_1) from possible positive effects
+removing (on_board ?param_1 ?param_2) from possible negative effects
+removing (power_avail ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.60  |  20  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+Not executable actions: 76
+Random action chosen
+Not Successfully executed action 4: calibrate(satellite0,instrument1,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.74  |  21  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+Not executable actions: 78
+Random action chosen
+Not Successfully executed action 37: take_image(satellite0,groundstation1,instrument1,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.85  |  22  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+Not executable actions: 81
+Random action chosen
+Not Successfully executed action 8: calibrate(satellite0,instrument2,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.99  |  23  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator switch_on negated preconditions of length 1
+FD computational time: 0:00:00.735710
+Plan computed: True Plan length: 1
+The feasibility of operator switch_on negated preconditions of length 1 is: True
+Successfully executed action 35: switch_on(instrument2,satellite1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.74  |  24  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+Not successfully executed action 35: switch_on(instrument2,satellite1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.90  |  25  |    14    |     6     |   5    |    3    |   4    |    3    |   9   |   1   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     0.83      |    0.60     |    1.00     |   0.48   |    0.92     
+
+
+operator switch_on, adding certain precondition: (power_avail ?param_2)
+
+
+Checking feasibility of operator turn_to negated preconditions of length 1
+FD computational time: 0:00:00.731344
+Plan computed: True Plan length: 0
+The feasibility of operator turn_to negated preconditions of length 1 is: True
+Successfully executed action 76: turn_to(satellite1,groundstation1,groundstation1)
+operator turn_to, removed uncertain preconditions ['(power_avail ?param_1)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.77  |  26  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator calibrate with possible preconditions of length 1
+FD computational time: 0:00:00.736783
+Plan computed: True Plan length: 0
+The feasibility of operator calibrate with possible preconditions of length 1 is: True
+Not successfully executed action 8: calibrate(satellite0,instrument2,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.65  |  27  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+Checking feasibility of operator calibrate with possible preconditions of length 1
+FD computational time: 0:00:00.741346
+Plan computed: False Plan length: None
+The feasibility of operator calibrate with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator take_image with possible preconditions of length 1
+FD computational time: 0:00:00.741648
+Plan computed: True Plan length: 0
+The feasibility of operator take_image with possible preconditions of length 1 is: True
+Not successfully executed action 38: take_image(satellite0,groundstation1,instrument2,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.29  |  28  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+Checking feasibility of operator take_image with possible preconditions of length 1
+FD computational time: 0:00:00.745422
+Plan computed: False Plan length: None
+The feasibility of operator take_image with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator calibrate with possible preconditions of length 2
+FD computational time: 0:00:00.759906
+Plan computed: True Plan length: 0
+The feasibility of operator calibrate with possible preconditions of length 2 is: True
+Not successfully executed action 10: calibrate(satellite0,instrument2,star0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.95  |  29  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+Not successfully executed action 20: calibrate(satellite1,instrument2,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.96  |  30  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+Checking feasibility of operator take_image with possible preconditions of length 2
+FD computational time: 0:00:00.758895
+Plan computed: True Plan length: 0
+The feasibility of operator take_image with possible preconditions of length 2 is: True
+Not successfully executed action 44: take_image(satellite0,star0,instrument2,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.84  |  31  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+Checking feasibility of operator calibrate with possible preconditions of length 3
+FD computational time: 0:00:00.760371
+Plan computed: True Plan length: 0
+The feasibility of operator calibrate with possible preconditions of length 3 is: True
+Not successfully executed action 22: calibrate(satellite1,instrument2,star0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.73  |  32  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+
+
+Checking feasibility of operator calibrate with possible preconditions of length 3
+FD computational time: 0:00:00.753107
+Plan computed: True Plan length: 1
+The feasibility of operator calibrate with possible preconditions of length 3 is: True
+Successfully executed action 30: switch_on(instrument0,satellite0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.50  |  33  |    14    |     5     |   5    |    3    |   4    |    3    |   9   |   0   |   2   |   0   |   1   |   0   |    0.36    |   0.60   |   0.75   |     1.00      |    0.60     |    1.00     |   0.48   |    1.00     
+
+
+Successfully executed action 0: calibrate(satellite0,instrument0,groundstation1)
+operator calibrate, adding certain precondition: (power_on ?param_2)
+operator calibrate, adding certain precondition: (calibration_target ?param_2 ?param_3)
+operator calibrate, adding certain precondition: (pointing ?param_1 ?param_3)
+Operator calibrate, adding certain positive effect (calibrated ?param_2)
+removing (power_avail ?param_1) from possible positive effects
+removing (calibrated ?param_2) from possible negative effects
+removing (calibration_target ?param_2 ?param_3) from possible negative effects
+removing (on_board ?param_2 ?param_1) from possible negative effects
+removing (pointing ?param_1 ?param_3) from possible negative effects
+removing (power_on ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.67  |  34  |    14    |     9     |   5    |    4    |   4    |    3    |   5   |   0   |   1   |   0   |   1   |   0   |    0.64    |   0.80   |   0.75   |     1.00      |    0.80     |    1.00     |   0.70   |    1.00     
+
+
+Not executable actions: 72
+Random action chosen
+Not Successfully executed action 39: take_image(satellite0,phenomenon2,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.82  |  35  |    14    |     9     |   5    |    4    |   4    |    3    |   5   |   0   |   1   |   0   |   1   |   0   |    0.64    |   0.80   |   0.75   |     1.00      |    0.80     |    1.00     |   0.70   |    1.00     
+
+
+Not executable actions: 78
+Random action chosen
+Successfully executed action 36: take_image(satellite0,groundstation1,instrument0,thermograph0)
+operator take_image, adding certain precondition: (calibrated ?param_3)
+Operator take_image, adding certain positive effect (have_image ?param_2 ?param_4)
+removing (power_avail ?param_1) from possible positive effects
+removing (calibrated ?param_3) from possible negative effects
+removing (calibration_target ?param_3 ?param_2) from possible negative effects
+removing (have_image ?param_2 ?param_4) from possible negative effects
+removing (on_board ?param_3 ?param_1) from possible negative effects
+removing (pointing ?param_1 ?param_2) from possible negative effects
+removing (power_on ?param_3) from possible negative effects
+removing (supports ?param_3 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.95  |  36  |    14    |    15     |   5    |    5    |   4    |    3    |   0   |   1   |   0   |   0   |   1   |   0   |    1.00    |   1.00   |   0.75   |     0.93      |    1.00     |    1.00     |   0.96   |    0.96     
+
+
+Not executable actions: 78
+Random action chosen
+Not Successfully executed action 48: take_image(satellite1,groundstation1,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.09  |  37  |    14    |    15     |   5    |    5    |   4    |    3    |   0   |   1   |   0   |   0   |   1   |   0   |    1.00    |   1.00   |   0.75   |     0.93      |    1.00     |    1.00     |   0.96   |    0.96     
+
+
+operator take_image, adding certain precondition: (on_board ?param_3 ?param_1)
+Not executable actions: 79
+Random action chosen
+Not Successfully executed action 12: calibrate(satellite1,instrument0,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.23  |  38  |    14    |    15     |   5    |    5    |   4    |    3    |   0   |   1   |   0   |   0   |   1   |   0   |    1.00    |   1.00   |   0.75   |     0.93      |    1.00     |    1.00     |   0.96   |    0.96     
+
+
+operator calibrate, adding certain precondition: (on_board ?param_2 ?param_1)
+Not executable actions: 80
+Random action chosen
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.775463
+Plan computed: True Plan length: 1
+The feasibility of operator take_image negated preconditions of length 1 is: True
+Successfully executed action 24: switch_off(instrument0,satellite0)
+removing (calibrated ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.16  |  39  |    14    |    15     |   5    |    5    |   4    |    3    |   0   |   1   |   0   |   0   |   1   |   0   |    1.00    |   1.00   |   0.75   |     0.93      |    1.00     |    1.00     |   0.96   |    0.96     
+
+
+Not successfully executed action 36: take_image(satellite0,groundstation1,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.34  |  40  |    14    |    15     |   5    |    5    |   4    |    3    |   0   |   1   |   0   |   0   |   1   |   0   |    1.00    |   1.00   |   0.75   |     0.93      |    1.00     |    1.00     |   0.96   |    0.96     
+
+
+operator take_image, adding certain precondition: (power_on ?param_3)
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.747817
+Plan computed: True Plan length: 2
+The feasibility of operator take_image negated preconditions of length 1 is: True
+Successfully executed action 30: switch_on(instrument0,satellite0)
+Operator switch_on, adding certain negative effect (not (calibrated ?param_1))
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.11  |  41  |    14    |    15     |   5    |    5    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.764711
+Plan computed: True Plan length: 2
+The feasibility of operator take_image negated preconditions of length 1 is: True
+Successfully executed action 0: calibrate(satellite0,instrument0,groundstation1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.89  |  42  |    14    |    15     |   5    |    5    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 72: turn_to(satellite0,star3,groundstation1)
+removing (power_avail ?param_1) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.90  |  43  |    14    |    15     |   5    |    5    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Not successfully executed action 36: take_image(satellite0,groundstation1,instrument0,thermograph0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.07  |  44  |    14    |    15     |   5    |    5    |   4    |    4    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator take_image, adding certain precondition: (pointing ?param_1 ?param_2)
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.757659
+Plan computed: True Plan length: 0
+The feasibility of operator take_image negated preconditions of length 1 is: True
+Successfully executed action 45: take_image(satellite0,star3,instrument0,thermograph0)
+operator take_image, removed uncertain preconditions ['(calibration_target ?param_3 ?param_2)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.97  |  45  |    14    |    14     |   5    |    5    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+Not executable actions: 81
+Random action chosen
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.761144
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator turn_to does not admit new positive effects
+Operator switch_on does not admit new positive effects
+Operator switch_off does not admit new positive effects
+Operator calibrate does not admit new positive effects
+(exists (?param_1 - satellite ?param_2 - direction ?param_3 - instrument ?param_4 - mode) (and (calibrated ?param_3) (on_board ?param_3 ?param_1) (pointing ?param_1 ?param_2) (power_on ?param_3) (supports ?param_3 ?param_4) (not (calibration_target ?param_3 ?param_2)) ))
+
+
+
+Checking feasibility of operator take_image with possible positive effect (calibration_target ?param_3 ?param_2)
+FD computational time: 0:00:00.763860
+Plan computed: True Plan length: 0
+Successfully executed action 45: take_image(satellite0,star3,instrument0,thermograph0)
+removing (calibration_target ?param_3 ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.64  |  46  |    14    |    14     |   5    |    5    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+
+
+
+Looking for new negative effects of learned operators
+Operator turn_to does not admit new negative effects
+Operator switch_on does not admit new negative effects
+Operator switch_off does not admit new negative effects
+
+
+Checking feasibility of operator calibrate with possible negative effects
+FD computational time: 0:00:00.758535
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator take_image with possible negative effects
+FD computational time: 0:00:00.768232
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator turn_to has no known positive effects to check
+Operator switch_on has no known positive effects to check
+Operator switch_off has no known positive effects to check
+Operator calibrate has no known positive effects to check
+Operator take_image has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator turn_to has no known negative effects to check
+Operator switch_on has no known negative effects to check
+Operator switch_off has no known negative effects to check
+Operator calibrate has no known negative effects to check
+Operator take_image has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.19  |  47  |    14    |    14     |   5    |    5    |   4    |    4    |   0   |   0   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    1.00     |   1.00   |    1.00     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.19  |  47  |    14    |    14     |   5    |    5    |   4    |    6    |   0   |   0   |   0   |   0   |   0   |   2   |    1.00    |   1.00   |   1.00   |     1.00      |    1.00     |    0.67     |   1.00   |    0.92     
+
+

@@ -1,0 +1,14 @@
+{
+  "walk": [
+    "(link ?param_1 ?param_2)"
+  ],
+  "pickup_spanner": [
+    "(at ?param_3 ?param_1)",
+    "(useable ?param_2)"
+  ],
+  "tighten_nut": [
+    "(at ?param_3 ?param_1)",
+    "(at ?param_4 ?param_1)",
+    "(carrying ?param_3 ?param_2)"
+  ]
+}

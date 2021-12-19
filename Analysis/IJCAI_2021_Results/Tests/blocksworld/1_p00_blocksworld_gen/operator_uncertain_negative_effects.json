@@ -1,0 +1,22 @@
+{
+  "pick-up": [
+    "(on ?param_1 ?param_1)"
+  ],
+  "put-down": [
+    "(on ?param_1 ?param_1)"
+  ],
+  "stack": [
+    "(holding ?param_2)",
+    "(on ?param_1 ?param_1)",
+    "(on ?param_2 ?param_1)",
+    "(on ?param_2 ?param_2)",
+    "(ontable ?param_1)"
+  ],
+  "unstack": [
+    "(holding ?param_2)",
+    "(on ?param_1 ?param_1)",
+    "(on ?param_2 ?param_1)",
+    "(on ?param_2 ?param_2)",
+    "(ontable ?param_1)"
+  ]
+}

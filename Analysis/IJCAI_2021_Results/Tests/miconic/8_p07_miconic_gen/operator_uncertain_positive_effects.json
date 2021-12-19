@@ -1,0 +1,16 @@
+{
+  "board": [
+    "(lift-at ?param_1)",
+    "(origin ?param_2 ?param_1)"
+  ],
+  "depart": [
+    "(destin ?param_2 ?param_1)",
+    "(lift-at ?param_1)"
+  ],
+  "up": [
+    "(above ?param_1 ?param_2)"
+  ],
+  "down": [
+    "(above ?param_2 ?param_1)"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "move": [
+    "(at-robot ?param_2)"
+  ],
+  "push": [
+    "(at ?param_5 ?param_3)",
+    "(at-robot ?param_2)",
+    "(clear ?param_2)"
+  ]
+}

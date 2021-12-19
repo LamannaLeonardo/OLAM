@@ -1,0 +1,19 @@
+{
+  "pick-up": [
+    [
+      "(handempty)"
+    ],
+    [
+      "(ontable ?param_1)"
+    ],
+    [
+      "(clear ?param_1)"
+    ]
+  ],
+  "stack": [],
+  "unstack": [
+    [
+      "(clear ?param_1)"
+    ]
+  ]
+}

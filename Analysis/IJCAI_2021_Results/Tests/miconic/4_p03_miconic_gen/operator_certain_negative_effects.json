@@ -1,0 +1,12 @@
+{
+  "board": [],
+  "up": [
+    "(not (lift-at ?param_1))"
+  ],
+  "depart": [
+    "(not (boarded ?param_2))"
+  ],
+  "down": [
+    "(not (lift-at ?param_1))"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "move": [
+    "(clear ?param_1)",
+    "(smaller ?param_2 ?param_1)",
+    "(clear ?param_3)"
+  ]
+}

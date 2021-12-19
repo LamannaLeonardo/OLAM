@@ -1,0 +1,27 @@
+{
+  "up": [
+    "(clear ?param_2)",
+    "(robot-at ?param_1 ?param_3)"
+  ],
+  "left": [
+    "(clear ?param_2)",
+    "(robot-at ?param_1 ?param_3)"
+  ],
+  "change-color": [
+    "(robot-has ?param_1 ?param_3)"
+  ],
+  "down": [
+    "(clear ?param_2)",
+    "(robot-at ?param_1 ?param_3)"
+  ],
+  "paint-up": [
+    "(painted ?param_2 ?param_4)"
+  ],
+  "paint-down": [
+    "(painted ?param_2 ?param_4)"
+  ],
+  "right": [
+    "(clear ?param_2)",
+    "(robot-at ?param_1 ?param_3)"
+  ]
+}

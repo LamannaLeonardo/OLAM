@@ -1,0 +1,1195 @@
+
+Total actions: 1156
+
+Objects list
+	tile:12
+	robot:1
+	color:2
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 684: paint-up(robot1,tile_1-2,tile_1-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.18  |  1   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 95
+Random action chosen
+Not Successfully executed action 559: paint-down(robot1,tile_3-3,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.46  |  2   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 285
+Random action chosen
+Not Successfully executed action 914: right(robot1,tile_1-1,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.71  |  3   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 380
+Random action chosen
+Not Successfully executed action 192: left(robot1,tile_1-1,tile_2-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.01  |  4   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 475
+Random action chosen
+Not Successfully executed action 679: paint-up(robot1,tile_1-2,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.31  |  5   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 584
+Random action chosen
+Not Successfully executed action 9: down(robot1,tile_0-1,tile_1-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.59  |  6   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 679
+Random action chosen
+Not Successfully executed action 613: paint-up(robot1,tile_0-2,tile_1-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.85  |  7   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 693
+Random action chosen
+Not Successfully executed action 893: right(robot1,tile_0-3,tile_0-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.11  |  8   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 699
+Random action chosen
+Not Successfully executed action 760: paint-up(robot1,tile_2-2,tile_2-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.36  |  9   |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 707
+Random action chosen
+Not Successfully executed action 961: right(robot1,tile_2-2,tile_3-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.61  |  10  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 714
+Random action chosen
+Not Successfully executed action 241: left(robot1,tile_2-2,tile_3-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.85  |  11  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 721
+Random action chosen
+Not Successfully executed action 203: left(robot1,tile_1-2,tile_2-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.10  |  12  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 729
+Random action chosen
+Not Successfully executed action 295: paint-down(robot1,tile_0-1,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.36  |  13  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 741
+Random action chosen
+Not Successfully executed action 1137: up(robot1,tile_3-2,tile_1-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.64  |  14  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 836
+Random action chosen
+Not Successfully executed action 1139: up(robot1,tile_3-2,tile_2-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.91  |  15  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 844
+Random action chosen
+Not Successfully executed action 686: paint-up(robot1,tile_1-2,tile_1-3,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.15  |  16  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 850
+Random action chosen
+Not Successfully executed action 98: down(robot1,tile_2-2,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.48  |  17  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 858
+Random action chosen
+Not Successfully executed action 330: paint-down(robot1,tile_0-2,tile_2-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.77  |  18  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 865
+Random action chosen
+Not Successfully executed action 683: paint-up(robot1,tile_1-2,tile_1-1,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.05  |  19  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 877
+Random action chosen
+Not Successfully executed action 343: paint-down(robot1,tile_0-3,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.33  |  20  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 889
+Random action chosen
+Not Successfully executed action 751: paint-up(robot1,tile_2-2,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.60  |  21  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 896
+Random action chosen
+Not Successfully executed action 72: down(robot1,tile_1-3,tile_2-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.88  |  22  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 903
+Random action chosen
+Not Successfully executed action 331: paint-down(robot1,tile_0-2,tile_2-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.14  |  23  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 910
+Random action chosen
+Not Successfully executed action 298: paint-down(robot1,tile_0-1,tile_1-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.42  |  24  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 917
+Random action chosen
+Not Successfully executed action 29: down(robot1,tile_0-3,tile_0-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.69  |  25  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 923
+Random action chosen
+Not Successfully executed action 810: paint-up(robot1,tile_3-1,tile_2-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.95  |  26  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 930
+Random action chosen
+Not Successfully executed action 546: paint-down(robot1,tile_3-2,tile_2-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.21  |  27  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 931
+Random action chosen
+Not Successfully executed action 1100: up(robot1,tile_2-2,tile_1-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.48  |  28  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 939
+Random action chosen
+Not Successfully executed action 1067: up(robot1,tile_1-2,tile_2-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.78  |  29  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 940
+Random action chosen
+Not Successfully executed action 442: paint-down(robot1,tile_2-1,tile_1-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.03  |  30  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 947
+Random action chosen
+Not Successfully executed action 1007: right(robot1,tile_3-3,tile_2-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.35  |  31  |    22    |     0     |   11   |    0    |   11   |    0    |  22   |   0   |  11   |   0   |  11   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 954
+Random action chosen
+Successfully executed action 1106: up(robot1,tile_2-2,tile_3-2)
+Operator up, adding certain positive effect (clear ?param_2)
+Operator up, adding certain positive effect (robot-at ?param_1 ?param_3)
+Operator up, adding certain negative effect (not (clear ?param_3))
+Operator up, adding certain negative effect (not (robot-at ?param_1 ?param_2))
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_2 ?param_3) from possible positive effects
+removing (left ?param_3 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_2 ?param_3) from possible positive effects
+removing (right ?param_3 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_3) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (clear ?param_2) from possible negative effects
+removing (down ?param_2 ?param_3) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+removing (up ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.66  |  32  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 979
+Random action chosen
+Not Successfully executed action 507: paint-down(robot1,tile_2-3,tile_3-3,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.07  |  33  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 987
+Random action chosen
+Not Successfully executed action 553: paint-down(robot1,tile_3-2,tile_3-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.38  |  34  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 989
+Random action chosen
+Not Successfully executed action 134: down(robot1,tile_3-2,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.70  |  35  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 990
+Random action chosen
+Not Successfully executed action 962: right(robot1,tile_2-2,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.96  |  36  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 991
+Random action chosen
+Not Successfully executed action 969: right(robot1,tile_2-3,tile_1-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.21  |  37  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 999
+Random action chosen
+Not Successfully executed action 975: right(robot1,tile_2-3,tile_3-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.49  |  38  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1007
+Random action chosen
+Not Successfully executed action 149: left(robot1,tile_0-1,tile_0-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.75  |  39  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1013
+Random action chosen
+Not Successfully executed action 40: down(robot1,tile_1-1,tile_0-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.01  |  40  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1021
+Random action chosen
+Not Successfully executed action 480: paint-down(robot1,tile_2-2,tile_3-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.26  |  41  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1022
+Random action chosen
+Not Successfully executed action 199: left(robot1,tile_1-2,tile_1-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.57  |  42  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1028
+Random action chosen
+Not Successfully executed action 210: left(robot1,tile_1-3,tile_0-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.82  |  43  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1036
+Random action chosen
+Not Successfully executed action 601: paint-up(robot1,tile_0-1,tile_3-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.08  |  44  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1044
+Random action chosen
+Not Successfully executed action 146: down(robot1,tile_3-3,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.37  |  45  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1053
+Random action chosen
+Not Successfully executed action 495: paint-down(robot1,tile_2-3,tile_1-3,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.67  |  46  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1061
+Random action chosen
+Not Successfully executed action 869: right(robot1,tile_0-1,tile_0-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.98  |  47  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1067
+Random action chosen
+Not Successfully executed action 577: paint-down(robot1,tile_3-3,tile_3-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.26  |  48  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1069
+Random action chosen
+Not Successfully executed action 290: left(robot1,tile_3-3,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.56  |  49  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1070
+Random action chosen
+Not Successfully executed action 535: paint-down(robot1,tile_3-2,tile_0-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.81  |  50  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1086
+Random action chosen
+Not Successfully executed action 0: change-color(robot1,black,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.08  |  51  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1087
+Random action chosen
+Not Successfully executed action 1: change-color(robot1,black,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.33  |  52  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1088
+Random action chosen
+Not Successfully executed action 609: paint-up(robot1,tile_0-2,tile_0-3,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.57  |  53  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1094
+Random action chosen
+Not Successfully executed action 1010: right(robot1,tile_3-3,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.84  |  54  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1095
+Random action chosen
+Not Successfully executed action 57: down(robot1,tile_1-2,tile_1-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.08  |  55  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1101
+Random action chosen
+Not Successfully executed action 842: paint-up(robot1,tile_3-2,tile_3-3,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.32  |  56  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1102
+Random action chosen
+Not Successfully executed action 865: paint-up(robot1,tile_3-3,tile_3-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.58  |  57  |    22    |     4     |   11   |    2    |   11   |    2    |  19   |   1   |   9   |   0   |   9   |   0   |    0.14    |   0.18   |   0.18   |     0.75      |    0.25     |    1.00     |   0.16   |    0.88     
+
+
+Not executable actions: 1104
+Random action chosen
+Successfully executed action 277: left(robot1,tile_3-2,tile_3-1)
+operator left, adding certain precondition: (robot-at ?param_1 ?param_2)
+Operator left, adding certain positive effect (clear ?param_2)
+Operator left, adding certain positive effect (robot-at ?param_1 ?param_3)
+Operator left, adding certain negative effect (not (clear ?param_3))
+Operator left, adding certain negative effect (not (robot-at ?param_1 ?param_2))
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_2 ?param_3) from possible positive effects
+removing (down ?param_3 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_2 ?param_3) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_3) from possible positive effects
+removing (up ?param_3 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (clear ?param_2) from possible negative effects
+removing (left ?param_3 ?param_2) from possible negative effects
+removing (right ?param_2 ?param_3) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.86  |  58  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1128
+Random action chosen
+Not Successfully executed action 815: paint-up(robot1,tile_3-1,tile_3-1,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.30  |  59  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1130
+Random action chosen
+Not Successfully executed action 122: down(robot1,tile_3-1,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.55  |  60  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1131
+Random action chosen
+Not Successfully executed action 742: paint-up(robot1,tile_2-1,tile_3-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.79  |  61  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1132
+Random action chosen
+Not Successfully executed action 808: paint-up(robot1,tile_3-1,tile_2-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.03  |  62  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1133
+Random action chosen
+Not Successfully executed action 809: paint-up(robot1,tile_3-1,tile_2-1,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.29  |  63  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1134
+Random action chosen
+Not Successfully executed action 529: paint-down(robot1,tile_3-1,tile_3-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.54  |  64  |    22    |     8     |   11   |    4    |   11   |    4    |  16   |   2   |   7   |   0   |   7   |   0   |    0.27    |   0.36   |   0.36   |     0.75      |    0.44     |    1.00     |   0.32   |    0.88     
+
+
+Not executable actions: 1136
+Random action chosen
+Successfully executed action 3: change-color(robot1,white,white)
+operator change-color, adding certain precondition: (robot-has ?param_1 ?param_2)
+removing (free-color ?param_1) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.78  |  65  |    22    |    12     |   11   |    4    |   11   |    4    |  14   |   4   |   7   |   0   |   7   |   0   |    0.36    |   0.36   |   0.36   |     0.67      |    0.44     |    1.00     |   0.36   |    0.80     
+
+
+Not executable actions: 1136
+Random action chosen
+Successfully executed action 118: down(robot1,tile_3-1,tile_2-1)
+operator down, adding certain precondition: (robot-at ?param_1 ?param_2)
+Operator down, adding certain positive effect (clear ?param_2)
+Operator down, adding certain positive effect (robot-at ?param_1 ?param_3)
+Operator down, adding certain negative effect (not (clear ?param_3))
+Operator down, adding certain negative effect (not (robot-at ?param_1 ?param_2))
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_2 ?param_3) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_2 ?param_3) from possible positive effects
+removing (left ?param_3 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_2 ?param_3) from possible positive effects
+removing (right ?param_3 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (clear ?param_2) from possible negative effects
+removing (down ?param_3 ?param_2) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+removing (up ?param_2 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.20  |  66  |    22    |    16     |   11   |    6    |   11   |    6    |  11   |   5   |   5   |   0   |   5   |   0   |    0.50    |   0.55   |   0.55   |     0.69      |    0.60     |    1.00     |   0.52   |    0.82     
+
+
+Not executable actions: 1128
+Random action chosen
+Not Successfully executed action 739: paint-up(robot1,tile_2-1,tile_2-2,white)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.63  |  67  |    22    |    16     |   11   |    6    |   11   |    6    |  11   |   5   |   5   |   0   |   5   |   0   |    0.50    |   0.55   |   0.55   |     0.69      |    0.60     |    1.00     |   0.52   |    0.82     
+
+
+Not executable actions: 1129
+Random action chosen
+Not Successfully executed action 808: paint-up(robot1,tile_3-1,tile_2-1,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.89  |  68  |    22    |    16     |   11   |    6    |   11   |    6    |  11   |   5   |   5   |   0   |   5   |   0   |    0.50    |   0.55   |   0.55   |     0.69      |    0.60     |    1.00     |   0.52   |    0.82     
+
+
+Not executable actions: 1130
+Random action chosen
+Successfully executed action 809: paint-up(robot1,tile_3-1,tile_2-1,white)
+operator paint-up, adding certain precondition: (robot-at ?param_1 ?param_3)
+operator paint-up, adding certain precondition: (robot-has ?param_1 ?param_4)
+Operator paint-up, adding certain positive effect (painted ?param_2 ?param_4)
+Operator paint-up, adding certain negative effect (not (clear ?param_2))
+removing (clear ?param_2) from possible positive effects
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_2 ?param_3) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_2 ?param_3) from possible positive effects
+removing (left ?param_3 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (painted ?param_3 ?param_4) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_2 ?param_3) from possible positive effects
+removing (right ?param_3 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (available-color ?param_4) from possible negative effects
+removing (down ?param_3 ?param_2) from possible negative effects
+removing (painted ?param_2 ?param_4) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+removing (robot-has ?param_1 ?param_4) from possible negative effects
+removing (up ?param_2 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.20  |  69  |    22    |    22     |   11   |    7    |   11   |    7    |   7   |   7   |   4   |   0   |   4   |   0   |    0.68    |   0.64   |   0.64   |     0.68      |    0.70     |    1.00     |   0.66   |    0.81     
+
+
+Not executable actions: 1112
+Random action chosen
+Successfully executed action 377: paint-down(robot1,tile_1-1,tile_2-1,white)
+operator paint-down, adding certain precondition: (robot-at ?param_1 ?param_3)
+operator paint-down, adding certain precondition: (robot-has ?param_1 ?param_4)
+Operator paint-down, adding certain positive effect (painted ?param_2 ?param_4)
+Operator paint-down, adding certain negative effect (not (clear ?param_2))
+removing (clear ?param_2) from possible positive effects
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_2 ?param_3) from possible positive effects
+removing (left ?param_3 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (painted ?param_3 ?param_4) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_2 ?param_3) from possible positive effects
+removing (right ?param_3 ?param_2) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_3) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (available-color ?param_4) from possible negative effects
+removing (down ?param_2 ?param_3) from possible negative effects
+removing (painted ?param_2 ?param_4) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+removing (robot-has ?param_1 ?param_4) from possible negative effects
+removing (up ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.57  |  70  |    22    |    28     |   11   |    8    |   11   |    8    |   3   |   9   |   3   |   0   |   3   |   0   |    0.86    |   0.73   |   0.73   |     0.68      |    0.80     |    1.00     |   0.80   |    0.80     
+
+
+Not executable actions: 1139
+Random action chosen
+Not Successfully executed action 949: right(robot1,tile_2-1,tile_3-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.92  |  71  |    22    |    28     |   11   |    8    |   11   |    8    |   3   |   9   |   3   |   0   |   3   |   0   |    0.86    |   0.73   |   0.73   |     0.68      |    0.80     |    1.00     |   0.80   |    0.80     
+
+
+Not executable actions: 1140
+Random action chosen
+Successfully executed action 947: right(robot1,tile_2-1,tile_2-2)
+operator right, adding certain precondition: (robot-at ?param_1 ?param_2)
+Operator right, adding certain positive effect (clear ?param_2)
+Operator right, adding certain positive effect (robot-at ?param_1 ?param_3)
+Operator right, adding certain negative effect (not (clear ?param_3))
+Operator right, adding certain negative effect (not (robot-at ?param_1 ?param_2))
+removing (clear ?param_3) from possible positive effects
+removing (down ?param_2 ?param_2) from possible positive effects
+removing (down ?param_2 ?param_3) from possible positive effects
+removing (down ?param_3 ?param_2) from possible positive effects
+removing (down ?param_3 ?param_3) from possible positive effects
+removing (free-color ?param_1) from possible positive effects
+removing (left ?param_2 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_2) from possible positive effects
+removing (left ?param_3 ?param_3) from possible positive effects
+removing (right ?param_2 ?param_2) from possible positive effects
+removing (right ?param_2 ?param_3) from possible positive effects
+removing (right ?param_3 ?param_3) from possible positive effects
+removing (robot-at ?param_1 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_2) from possible positive effects
+removing (up ?param_2 ?param_3) from possible positive effects
+removing (up ?param_3 ?param_2) from possible positive effects
+removing (up ?param_3 ?param_3) from possible positive effects
+removing (clear ?param_2) from possible negative effects
+removing (left ?param_2 ?param_3) from possible negative effects
+removing (right ?param_3 ?param_2) from possible negative effects
+removing (robot-at ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.19  |  72  |    22    |    32     |   11   |   10    |   11   |   10    |   0   |  10   |   1   |   0   |   1   |   0   |    1.00    |   0.91   |   0.91   |     0.69      |    0.91     |    1.00     |   0.95   |    0.81     
+
+
+Not executable actions: 1143
+Random action chosen
+Not Successfully executed action 1041: up(robot1,tile_0-3,tile_1-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.54  |  73  |    22    |    32     |   11   |   10    |   11   |   10    |   0   |  10   |   1   |   0   |   1   |   0   |    1.00    |   0.91   |   0.91   |     0.69      |    0.91     |    1.00     |   0.95   |    0.81     
+
+
+operator up, adding certain precondition: (robot-at ?param_1 ?param_2)
+Not executable actions: 1148
+Random action chosen
+Successfully executed action 2: change-color(robot1,white,black)
+operator change-color, removed uncertain preconditions ['(robot-has ?param_1 ?param_3)']
+Operator change-color, adding certain positive effect (robot-has ?param_1 ?param_3)
+Operator change-color, adding certain negative effect (not (robot-has ?param_1 ?param_2))
+removing (robot-has ?param_1 ?param_2) from possible positive effects
+removing (available-color ?param_2) from possible negative effects
+removing (available-color ?param_3) from possible negative effects
+removing (robot-has ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.78  |  74  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not executable actions: 1148
+Random action chosen
+
+
+Checking feasibility of operator change-color negated preconditions of length 1
+FD computational time: 0:00:00.789915
+Plan computed: False Plan length: None
+The feasibility of operator change-color negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator down negated preconditions of length 1
+FD computational time: 0:00:00.797959
+Plan computed: True Plan length: 1
+The feasibility of operator down negated preconditions of length 1 is: True
+Successfully executed action 402: paint-down(robot1,tile_1-2,tile_2-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.73  |  75  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not successfully executed action 92: down(robot1,tile_2-2,tile_1-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.05  |  76  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+operator down, adding certain precondition: (clear ?param_3)
+
+
+Checking feasibility of operator down negated preconditions of length 1
+FD computational time: 0:00:00.792457
+Plan computed: False Plan length: None
+The feasibility of operator down negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator left negated preconditions of length 1
+FD computational time: 0:00:00.787414
+Plan computed: True Plan length: 1
+The feasibility of operator left negated preconditions of length 1 is: True
+Successfully executed action 1106: up(robot1,tile_2-2,tile_3-2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.67  |  77  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not successfully executed action 277: left(robot1,tile_3-2,tile_3-1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.02  |  78  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+operator left, adding certain precondition: (clear ?param_3)
+
+
+Checking feasibility of operator left negated preconditions of length 1
+FD computational time: 0:00:00.785071
+Plan computed: False Plan length: None
+The feasibility of operator left negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator paint-down negated preconditions of length 1
+FD computational time: 0:00:00.787518
+Plan computed: True Plan length: 1
+The feasibility of operator paint-down negated preconditions of length 1 is: True
+Successfully executed action 480: paint-down(robot1,tile_2-2,tile_3-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.62  |  79  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not successfully executed action 480: paint-down(robot1,tile_2-2,tile_3-2,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.00  |  80  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+operator paint-down, adding certain precondition: (clear ?param_2)
+
+
+Checking feasibility of operator paint-down negated preconditions of length 1
+FD computational time: 0:00:00.789091
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 1
+FD computational time: 0:00:00.775562
+Plan computed: True Plan length: 3
+The feasibility of operator paint-up negated preconditions of length 1 is: True
+Successfully executed action 999: right(robot1,tile_3-2,tile_3-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.60  |  81  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Successfully executed action 144: down(robot1,tile_3-3,tile_2-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.62  |  82  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Successfully executed action 860: paint-up(robot1,tile_3-3,tile_2-3,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.64  |  83  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+Not successfully executed action 860: paint-up(robot1,tile_3-3,tile_2-3,black)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.95  |  84  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+operator paint-up, adding certain precondition: (clear ?param_2)
+
+
+Checking feasibility of operator paint-up negated preconditions of length 1
+FD computational time: 0:00:00.789684
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator right negated preconditions of length 1
+FD computational time: 0:00:00.816764
+Plan computed: False Plan length: None
+The feasibility of operator right negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator up negated preconditions of length 1
+FD computational time: 0:00:00.816180
+Plan computed: True Plan length: 0
+The feasibility of operator up negated preconditions of length 1 is: True
+Not successfully executed action 1119: up(robot1,tile_2-3,tile_3-3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.68  |  85  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+operator up, adding certain precondition: (clear ?param_3)
+
+
+Checking feasibility of operator up negated preconditions of length 1
+FD computational time: 0:00:00.814219
+Plan computed: False Plan length: None
+The feasibility of operator up negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator change-color negated preconditions of length 2
+FD computational time: 0:00:00.808739
+Plan computed: False Plan length: None
+The feasibility of operator change-color negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator down negated preconditions of length 2
+FD computational time: 0:00:00.818512
+Plan computed: True Plan length: 0
+The feasibility of operator down negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator left negated preconditions of length 2
+FD computational time: 0:00:00.813724
+Plan computed: True Plan length: 0
+The feasibility of operator left negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator paint-down negated preconditions of length 2
+FD computational time: 0:00:00.812435
+Plan computed: True Plan length: 0
+The feasibility of operator paint-down negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator paint-down negated preconditions of length 2
+FD computational time: 0:00:00.807328
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 2
+FD computational time: 0:00:00.810659
+Plan computed: True Plan length: 0
+The feasibility of operator paint-up negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator paint-up negated preconditions of length 2
+FD computational time: 0:00:00.808805
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator right negated preconditions of length 2
+FD computational time: 0:00:00.806575
+Plan computed: True Plan length: 0
+The feasibility of operator right negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator right negated preconditions of length 2
+FD computational time: 0:00:00.798532
+Plan computed: False Plan length: None
+The feasibility of operator right negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator up negated preconditions of length 2
+FD computational time: 0:00:00.808324
+Plan computed: True Plan length: 0
+The feasibility of operator up negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator down negated preconditions of length 3
+FD computational time: 0:00:00.803446
+Plan computed: True Plan length: 0
+The feasibility of operator down negated preconditions of length 3 is: True
+
+
+Checking feasibility of operator paint-down negated preconditions of length 3
+FD computational time: 0:00:00.826061
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 3
+FD computational time: 0:00:00.800260
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator right negated preconditions of length 3
+FD computational time: 0:00:00.817332
+Plan computed: True Plan length: 0
+The feasibility of operator right negated preconditions of length 3 is: True
+
+
+Checking feasibility of operator paint-down negated preconditions of length 4
+FD computational time: 0:00:00.801786
+Plan computed: False Plan length: None
+The feasibility of operator paint-down negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator paint-up negated preconditions of length 4
+FD computational time: 0:00:00.803259
+Plan computed: False Plan length: None
+The feasibility of operator paint-up negated preconditions of length 4 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator up does not admit new positive effects
+Operator left does not admit new positive effects
+Operator change-color does not admit new positive effects
+Operator down does not admit new positive effects
+Operator paint-up does not admit new positive effects
+Operator paint-down does not admit new positive effects
+Operator right does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator up with possible negative effects
+FD computational time: 0:00:00.818542
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator left with possible negative effects
+FD computational time: 0:00:00.817071
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator change-color with possible negative effects
+FD computational time: 0:00:00.782908
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator down with possible negative effects
+FD computational time: 0:00:00.814176
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator paint-up with possible negative effects
+FD computational time: 0:00:00.821492
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator paint-down with possible negative effects
+FD computational time: 0:00:00.819977
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator right with possible negative effects
+FD computational time: 0:00:00.809658
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator up has no known positive effects to check
+Operator left has no known positive effects to check
+Operator change-color has no known positive effects to check
+Operator down has no known positive effects to check
+Operator paint-up has no known positive effects to check
+Operator paint-down has no known positive effects to check
+Operator right has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator up has no known negative effects to check
+Operator left has no known negative effects to check
+Operator change-color has no known negative effects to check
+Operator down has no known negative effects to check
+Operator paint-up has no known negative effects to check
+Operator paint-down has no known negative effects to check
+Operator right has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.29  |  86  |    22    |    31     |   11   |   11    |   11   |   11    |   0   |   9   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    1.00     |   1.00   |    0.83     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.29  |  86  |    22    |    31     |   11   |   11    |   11   |   108   |   0   |   9   |   0   |   0   |   0   |  97   |    1.00    |   1.00   |   1.00   |     0.71      |    1.00     |    0.10     |   1.00   |    0.29     
+
+

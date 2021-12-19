@@ -1,0 +1,3010 @@
+
+Total actions: 109
+
+Objects list
+	lander:1
+	mode:3
+	rover:1
+	store:1
+	waypoint:3
+	camera:1
+	objective:1
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 44: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.12  |  1   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 4
+Random action chosen
+Not Successfully executed action 51: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.27  |  2   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 7
+Random action chosen
+Not Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.43  |  3   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 11
+Random action chosen
+Not Successfully executed action 78: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.59  |  4   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14
+Random action chosen
+Not Successfully executed action 81: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.72  |  5   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 15
+Random action chosen
+Not Successfully executed action 9: communicate_image_data(rover0,general,objective0,colour,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.86  |  6   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 21
+Random action chosen
+Not Successfully executed action 104: take_image(rover0,waypoint1,objective0,camera0,high_res)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.02  |  7   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 27
+Random action chosen
+Not Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.17  |  8   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 36
+Random action chosen
+Not Successfully executed action 61: communicate_soil_data(rover0,general,waypoint0,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.31  |  9   |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 37
+Random action chosen
+Not Successfully executed action 105: take_image(rover0,waypoint1,objective0,camera0,low_res)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.46  |  10  |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 40
+Random action chosen
+Not Successfully executed action 25: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.59  |  11  |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 43
+Random action chosen
+Not Successfully executed action 92: navigate(rover0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.75  |  12  |    45    |     0     |   17   |    0    |   13   |    0    |  45   |   0   |  17   |   0   |  13   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 49
+Random action chosen
+Successfully executed action 1: calibrate(rover0,camera0,objective0,waypoint1)
+Operator calibrate, adding certain positive effect (calibrated ?param_2 ?param_1)
+removing (can_traverse ?param_1 ?param_4 ?param_4) from possible positive effects
+removing (communicated_rock_data ?param_4) from possible positive effects
+removing (communicated_soil_data ?param_4) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_4) from possible positive effects
+removing (visible ?param_4 ?param_4) from possible positive effects
+removing (at ?param_1 ?param_4) from possible negative effects
+removing (at_rock_sample ?param_4) from possible negative effects
+removing (at_soil_sample ?param_4) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (calibrated ?param_2 ?param_1) from possible negative effects
+removing (calibration_target ?param_2 ?param_3) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (on_board ?param_2 ?param_1) from possible negative effects
+removing (visible_from ?param_3 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.89  |  13  |    45    |    10     |   17   |    1    |   13   |    0    |  40   |   5   |  16   |   0   |  13   |   0   |    0.11    |   0.06   |   0.00   |     0.50      |    0.11     |    0.00     |   0.08   |    0.55     
+
+
+Not executable actions: 40
+Random action chosen
+Not Successfully executed action 73: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.10  |  14  |    45    |    10     |   17   |    1    |   13   |    0    |  40   |   5   |  16   |   0   |  13   |   0   |    0.11    |   0.06   |   0.00   |     0.50      |    0.11     |    0.00     |   0.08   |    0.55     
+
+
+Not executable actions: 43
+Random action chosen
+Not Successfully executed action 50: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.29  |  15  |    45    |    10     |   17   |    1    |   13   |    0    |  40   |   5   |  16   |   0   |  13   |   0   |    0.11    |   0.06   |   0.00   |     0.50      |    0.11     |    0.00     |   0.08   |    0.55     
+
+
+Not executable actions: 44
+Random action chosen
+Successfully executed action 90: navigate(rover0,waypoint1,waypoint2)
+operator navigate, adding certain precondition: (at ?param_1 ?param_2)
+Operator navigate, adding certain positive effect (at ?param_1 ?param_3)
+Operator navigate, adding certain negative effect (not (at ?param_1 ?param_2))
+removing (at ?param_1 ?param_2) from possible positive effects
+removing (can_traverse ?param_1 ?param_2 ?param_2) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_3) from possible positive effects
+removing (communicated_rock_data ?param_2) from possible positive effects
+removing (communicated_rock_data ?param_3) from possible positive effects
+removing (communicated_soil_data ?param_2) from possible positive effects
+removing (communicated_soil_data ?param_3) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_2) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_3) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_2) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible positive effects
+removing (visible ?param_2 ?param_2) from possible positive effects
+removing (visible ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at_rock_sample ?param_2) from possible negative effects
+removing (at_rock_sample ?param_3) from possible negative effects
+removing (at_soil_sample ?param_2) from possible negative effects
+removing (at_soil_sample ?param_3) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (can_traverse ?param_1 ?param_2 ?param_3) from possible negative effects
+removing (can_traverse ?param_1 ?param_3 ?param_2) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (visible ?param_2 ?param_3) from possible negative effects
+removing (visible ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.46  |  16  |    45    |    23     |   17   |    2    |   13   |    1    |  36   |  14   |  15   |   0   |  12   |   0   |    0.20    |   0.12   |   0.08   |     0.39      |    0.22     |    1.00     |   0.16   |    0.46     
+
+
+Not executable actions: 30
+Random action chosen
+Not Successfully executed action 59: communicate_soil_data(rover0,general,waypoint0,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.67  |  17  |    45    |    23     |   17   |    2    |   13   |    1    |  36   |  14   |  15   |   0   |  12   |   0   |    0.20    |   0.12   |   0.08   |     0.39      |    0.22     |    1.00     |   0.16   |    0.46     
+
+
+Not executable actions: 31
+Random action chosen
+Not Successfully executed action 45: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.86  |  18  |    45    |    23     |   17   |    2    |   13   |    1    |  36   |  14   |  15   |   0   |  12   |   0   |    0.20    |   0.12   |   0.08   |     0.39      |    0.22     |    1.00     |   0.16   |    0.46     
+
+
+Not executable actions: 34
+Random action chosen
+Not Successfully executed action 20: communicate_image_data(rover0,general,objective0,high_res,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.03  |  19  |    45    |    23     |   17   |    2    |   13   |    1    |  36   |  14   |  15   |   0   |  12   |   0   |    0.20    |   0.12   |   0.08   |     0.39      |    0.22     |    1.00     |   0.16   |    0.46     
+
+
+Not executable actions: 37
+Random action chosen
+Not Successfully executed action 46: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.21  |  20  |    45    |    23     |   17   |    2    |   13   |    1    |  36   |  14   |  15   |   0   |  12   |   0   |    0.20    |   0.12   |   0.08   |     0.39      |    0.22     |    1.00     |   0.16   |    0.46     
+
+
+Not executable actions: 39
+Random action chosen
+Successfully executed action 96: sample_rock(rover0,rover0store,waypoint2)
+Operator sample_rock, adding certain positive effect (full ?param_2)
+Operator sample_rock, adding certain positive effect (have_rock_analysis ?param_1 ?param_3)
+Operator sample_rock, adding certain negative effect (not (at_rock_sample ?param_3))
+Operator sample_rock, adding certain negative effect (not (empty ?param_2))
+removing (at_rock_sample ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_3) from possible positive effects
+removing (communicated_rock_data ?param_3) from possible positive effects
+removing (communicated_soil_data ?param_3) from possible positive effects
+removing (empty ?param_2) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible positive effects
+removing (visible ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at_soil_sample ?param_3) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (full ?param_2) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_3) from possible negative effects
+removing (store_of ?param_2 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.43  |  21  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 32
+Random action chosen
+Not Successfully executed action 76: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.68  |  22  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 34
+Random action chosen
+Not Successfully executed action 107: take_image(rover0,waypoint2,objective0,camera0,high_res)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.89  |  23  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 36
+Random action chosen
+Not Successfully executed action 36: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.05  |  24  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 37
+Random action chosen
+Not Successfully executed action 62: communicate_soil_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.24  |  25  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 39
+Random action chosen
+Not Successfully executed action 47: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.46  |  26  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 41
+Random action chosen
+Not Successfully executed action 97: sample_soil(rover0,rover0store,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.67  |  27  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 42
+Random action chosen
+Not Successfully executed action 100: take_image(rover0,waypoint0,objective0,camera0,colour)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.83  |  28  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 44
+Random action chosen
+Not Successfully executed action 54: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.99  |  29  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 45
+Random action chosen
+Not Successfully executed action 41: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.22  |  30  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 47
+Random action chosen
+Not Successfully executed action 45: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.44  |  31  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 48
+Random action chosen
+Not Successfully executed action 29: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.66  |  32  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 51
+Random action chosen
+Not Successfully executed action 82: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.85  |  33  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 53
+Random action chosen
+Not Successfully executed action 73: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.06  |  34  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 55
+Random action chosen
+Not Successfully executed action 8: communicate_image_data(rover0,general,objective0,colour,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.25  |  35  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 61
+Random action chosen
+Not Successfully executed action 44: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.47  |  36  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 62
+Random action chosen
+Not Successfully executed action 99: sample_soil(rover0,rover0store,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.68  |  37  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 63
+Random action chosen
+Not Successfully executed action 98: sample_soil(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.84  |  38  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 64
+Random action chosen
+Not Successfully executed action 48: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.01  |  39  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 65
+Random action chosen
+Not Successfully executed action 74: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.20  |  40  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 67
+Random action chosen
+Not Successfully executed action 50: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.44  |  41  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 68
+Random action chosen
+Not Successfully executed action 68: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.67  |  42  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 69
+Random action chosen
+Not Successfully executed action 80: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.86  |  43  |    45    |    32     |   17   |    4    |   13   |    3    |  31   |  18   |  13   |   0   |  10   |   0   |    0.31    |   0.24   |   0.23   |     0.44      |    0.40     |    1.00     |   0.28   |    0.54     
+
+
+Not executable actions: 71
+Random action chosen
+Successfully executed action 108: take_image(rover0,waypoint2,objective0,camera0,low_res)
+operator take_image, adding certain precondition: (supports ?param_4 ?param_5)
+Operator take_image, adding certain positive effect (have_image ?param_1 ?param_3 ?param_5)
+Operator take_image, adding certain negative effect (not (calibrated ?param_4 ?param_1))
+removing (at_rock_sample ?param_2) from possible positive effects
+removing (calibrated ?param_4 ?param_1) from possible positive effects
+removing (can_traverse ?param_1 ?param_2 ?param_2) from possible positive effects
+removing (communicated_image_data ?param_3 ?param_5) from possible positive effects
+removing (communicated_rock_data ?param_2) from possible positive effects
+removing (communicated_soil_data ?param_2) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_2) from possible positive effects
+removing (visible ?param_2 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_2) from possible negative effects
+removing (at_soil_sample ?param_2) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (calibration_target ?param_4 ?param_3) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (have_image ?param_1 ?param_3 ?param_5) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_2) from possible negative effects
+removing (on_board ?param_4 ?param_1) from possible negative effects
+removing (supports ?param_4 ?param_5) from possible negative effects
+removing (visible_from ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.05  |  44  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 68
+Random action chosen
+Not Successfully executed action 18: communicate_image_data(rover0,general,objective0,high_res,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.31  |  45  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 70
+Random action chosen
+Not Successfully executed action 10: communicate_image_data(rover0,general,objective0,colour,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.49  |  46  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 72
+Random action chosen
+Not Successfully executed action 21: communicate_image_data(rover0,general,objective0,low_res,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.67  |  47  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 73
+Random action chosen
+Not Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.86  |  48  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 75
+Random action chosen
+Not Successfully executed action 79: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.04  |  49  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 76
+Random action chosen
+Not Successfully executed action 29: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.22  |  50  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 77
+Random action chosen
+Not Successfully executed action 35: communicate_rock_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.38  |  51  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 78
+Random action chosen
+Not Successfully executed action 49: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.61  |  52  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 79
+Random action chosen
+Not Successfully executed action 78: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.80  |  53  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 80
+Random action chosen
+Not Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.04  |  54  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 81
+Random action chosen
+Not Successfully executed action 28: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.22  |  55  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 83
+Random action chosen
+Not Successfully executed action 55: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.38  |  56  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 84
+Random action chosen
+Not Successfully executed action 64: communicate_soil_data(rover0,general,waypoint0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.58  |  57  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 85
+Random action chosen
+Not Successfully executed action 66: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.77  |  58  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 86
+Random action chosen
+Not Successfully executed action 53: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 10.94  |  59  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 87
+Random action chosen
+Not Successfully executed action 24: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.18  |  60  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 88
+Random action chosen
+Not Successfully executed action 25: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.34  |  61  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 89
+Random action chosen
+Not Successfully executed action 72: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.51  |  62  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 90
+Random action chosen
+Not Successfully executed action 46: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.67  |  63  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 91
+Random action chosen
+Not Successfully executed action 83: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 11.85  |  64  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 92
+Random action chosen
+Not Successfully executed action 51: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.02  |  65  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 93
+Random action chosen
+Not Successfully executed action 37: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.25  |  66  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 94
+Random action chosen
+Not Successfully executed action 56: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.45  |  67  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 95
+Random action chosen
+Not Successfully executed action 22: communicate_image_data(rover0,general,objective0,low_res,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.65  |  68  |    45    |    44     |   17   |    5    |   13   |    4    |  25   |  24   |  12   |   0   |   9   |   0   |    0.44    |   0.29   |   0.31   |     0.45      |    0.50     |    1.00     |   0.39   |    0.55     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 84: drop(rover0,rover0store)
+Operator drop, adding certain positive effect (empty ?param_2)
+Operator drop, adding certain negative effect (not (full ?param_2))
+removing (full ?param_2) from possible positive effects
+removing (available ?param_1) from possible negative effects
+removing (empty ?param_2) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (store_of ?param_2 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.80  |  69  |    45    |    50     |   17   |    6    |   13   |    5    |  23   |  28   |  11   |   0   |   8   |   0   |    0.49    |   0.35   |   0.38   |     0.44      |    0.60     |    1.00     |   0.44   |    0.54     
+
+
+Not executable actions: 93
+Random action chosen
+Not Successfully executed action 98: sample_soil(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.06  |  70  |    45    |    50     |   17   |    6    |   13   |    5    |  23   |  28   |  11   |   0   |   8   |   0   |    0.49    |   0.35   |   0.38   |     0.44      |    0.60     |    1.00     |   0.44   |    0.54     
+
+
+Not executable actions: 95
+Random action chosen
+Not Successfully executed action 52: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.24  |  71  |    45    |    50     |   17   |    6    |   13   |    5    |  23   |  28   |  11   |   0   |   8   |   0   |    0.49    |   0.35   |   0.38   |     0.44      |    0.60     |    1.00     |   0.44   |    0.54     
+
+
+Not executable actions: 96
+Random action chosen
+Not Successfully executed action 34: communicate_rock_data(rover0,general,waypoint0,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.41  |  72  |    45    |    50     |   17   |    6    |   13   |    5    |  23   |  28   |  11   |   0   |   8   |   0   |    0.49    |   0.35   |   0.38   |     0.44      |    0.60     |    1.00     |   0.44   |    0.54     
+
+
+Not executable actions: 97
+Random action chosen
+Successfully executed action 99: sample_soil(rover0,rover0store,waypoint2)
+operator sample_soil, adding certain precondition: (empty ?param_2)
+Operator sample_soil, adding certain positive effect (full ?param_2)
+Operator sample_soil, adding certain positive effect (have_soil_analysis ?param_1 ?param_3)
+Operator sample_soil, adding certain negative effect (not (at_soil_sample ?param_3))
+Operator sample_soil, adding certain negative effect (not (empty ?param_2))
+removing (at_rock_sample ?param_3) from possible positive effects
+removing (at_soil_sample ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_3) from possible positive effects
+removing (communicated_rock_data ?param_3) from possible positive effects
+removing (communicated_soil_data ?param_3) from possible positive effects
+removing (empty ?param_2) from possible positive effects
+removing (visible ?param_3 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (full ?param_2) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_3) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible negative effects
+removing (store_of ?param_2 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.58  |  73  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 45
+Random action chosen
+Not Successfully executed action 73: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 13.85  |  74  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 47
+Random action chosen
+Not Successfully executed action 41: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.11  |  75  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 49
+Random action chosen
+Not Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.36  |  76  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 55
+Random action chosen
+Not Successfully executed action 19: communicate_image_data(rover0,general,objective0,high_res,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.55  |  77  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 59
+Random action chosen
+Not Successfully executed action 36: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 14.73  |  78  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 60
+Random action chosen
+Not Successfully executed action 29: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.01  |  79  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 63
+Random action chosen
+Not Successfully executed action 37: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.22  |  80  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 64
+Random action chosen
+Not Successfully executed action 52: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.47  |  81  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 66
+Random action chosen
+Not Successfully executed action 44: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.70  |  82  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 67
+Random action chosen
+Not Successfully executed action 72: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 15.95  |  83  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 68
+Random action chosen
+Not Successfully executed action 50: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.20  |  84  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 69
+Random action chosen
+Not Successfully executed action 62: communicate_soil_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.43  |  85  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 71
+Random action chosen
+Not Successfully executed action 68: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.68  |  86  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 72
+Random action chosen
+Not Successfully executed action 78: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 16.93  |  87  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 74
+Random action chosen
+Not Successfully executed action 38: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.18  |  88  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 75
+Random action chosen
+Not Successfully executed action 74: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.44  |  89  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 77
+Random action chosen
+Not Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.68  |  90  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 78
+Random action chosen
+Not Successfully executed action 80: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.94  |  91  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 80
+Random action chosen
+Not Successfully executed action 83: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.15  |  92  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 81
+Random action chosen
+Not Successfully executed action 47: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.35  |  93  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 82
+Random action chosen
+Not Successfully executed action 55: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.57  |  94  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 84
+Random action chosen
+Not Successfully executed action 45: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.80  |  95  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 85
+Random action chosen
+Not Successfully executed action 27: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.03  |  96  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 86
+Random action chosen
+Not Successfully executed action 53: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.19  |  97  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 87
+Random action chosen
+Not Successfully executed action 28: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.46  |  98  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 88
+Random action chosen
+Not Successfully executed action 46: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.61  |  99  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 89
+Random action chosen
+Not Successfully executed action 51: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.82  | 100  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 90
+Random action chosen
+Not Successfully executed action 76: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.03  | 101  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 91
+Random action chosen
+Not Successfully executed action 56: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.28  | 102  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 92
+Random action chosen
+Not Successfully executed action 35: communicate_rock_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.46  | 103  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 93
+Random action chosen
+Not Successfully executed action 81: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.64  | 104  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 94
+Random action chosen
+Not Successfully executed action 79: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 20.87  | 105  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 95
+Random action chosen
+Not Successfully executed action 82: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.07  | 106  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 96
+Random action chosen
+Not Successfully executed action 64: communicate_soil_data(rover0,general,waypoint0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.24  | 107  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 97
+Random action chosen
+Not Successfully executed action 49: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.41  | 108  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+Not executable actions: 98
+Random action chosen
+Not Successfully executed action 1: calibrate(rover0,camera0,objective0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.59  | 109  |    45    |    59     |   17   |    8    |   13   |    7    |  18   |  32   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.46      |    0.73     |    1.00     |   0.56   |    0.57     
+
+
+operator calibrate, adding certain precondition: (at ?param_1 ?param_4)
+Not executable actions: 100
+Random action chosen
+Successfully executed action 92: navigate(rover0,waypoint2,waypoint1)
+operator navigate, removed uncertain preconditions ['(at_rock_sample ?param_2)', '(at_soil_sample ?param_2)']
+removing (at_rock_sample ?param_2) from possible positive effects
+removing (at_soil_sample ?param_2) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_2) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.74  | 110  |    45    |    57     |   17   |    8    |   13   |    7    |  18   |  30   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.47      |    0.73     |    1.00     |   0.56   |    0.58     
+
+
+Not executable actions: 57
+Random action chosen
+Not Successfully executed action 78: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.05  | 111  |    45    |    57     |   17   |    8    |   13   |    7    |  18   |  30   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.47      |    0.73     |    1.00     |   0.56   |    0.58     
+
+
+Not executable actions: 58
+Random action chosen
+Not Successfully executed action 46: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.33  | 112  |    45    |    57     |   17   |    8    |   13   |    7    |  18   |  30   |   9   |   0   |   6   |   0   |    0.60    |   0.47   |   0.54   |     0.47      |    0.73     |    1.00     |   0.56   |    0.58     
+
+
+Not executable actions: 59
+Random action chosen
+Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+operator communicate_image_data, adding certain precondition: (at ?param_1 ?param_5)
+Operator communicate_image_data, adding certain positive effect (communicated_image_data ?param_3 ?param_4)
+removing (at ?param_1 ?param_6) from possible positive effects
+removing (at_lander ?param_2 ?param_5) from possible positive effects
+removing (at_rock_sample ?param_6) from possible positive effects
+removing (at_soil_sample ?param_6) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_6 ?param_6) from possible positive effects
+removing (communicated_rock_data ?param_5) from possible positive effects
+removing (communicated_rock_data ?param_6) from possible positive effects
+removing (communicated_soil_data ?param_5) from possible positive effects
+removing (communicated_soil_data ?param_6) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_5) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_5) from possible positive effects
+removing (visible ?param_5 ?param_5) from possible positive effects
+removing (visible ?param_6 ?param_6) from possible positive effects
+removing (at ?param_1 ?param_5) from possible negative effects
+removing (at_lander ?param_2 ?param_6) from possible negative effects
+removing (at_rock_sample ?param_5) from possible negative effects
+removing (at_soil_sample ?param_5) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (can_traverse ?param_1 ?param_5 ?param_6) from possible negative effects
+removing (can_traverse ?param_1 ?param_6 ?param_5) from possible negative effects
+removing (channel_free ?param_2) from possible negative effects
+removing (communicated_image_data ?param_3 ?param_4) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+removing (have_image ?param_1 ?param_3 ?param_4) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_6) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_6) from possible negative effects
+removing (visible ?param_5 ?param_6) from possible negative effects
+removing (visible ?param_6 ?param_5) from possible negative effects
+removing (visible_from ?param_3 ?param_5) from possible negative effects
+removing (visible_from ?param_3 ?param_6) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.62  | 113  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 65
+Random action chosen
+Not Successfully executed action 31: communicate_rock_data(rover0,general,waypoint0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.97  | 114  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 66
+Random action chosen
+Not Successfully executed action 49: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.26  | 115  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 67
+Random action chosen
+Not Successfully executed action 68: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.52  | 116  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 68
+Random action chosen
+Not Successfully executed action 52: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.82  | 117  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 69
+Random action chosen
+Not Successfully executed action 79: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.10  | 118  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 70
+Random action chosen
+Not Successfully executed action 37: communicate_rock_data(rover0,general,waypoint0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.36  | 119  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 71
+Random action chosen
+Not Successfully executed action 39: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.69  | 120  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 72
+Random action chosen
+Not Successfully executed action 41: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.96  | 121  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 73
+Random action chosen
+Not Successfully executed action 43: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.24  | 122  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 74
+Random action chosen
+Not Successfully executed action 76: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.52  | 123  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 75
+Random action chosen
+Not Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.83  | 124  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 76
+Random action chosen
+Not Successfully executed action 44: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.10  | 125  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 77
+Random action chosen
+Not Successfully executed action 82: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.38  | 126  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 78
+Random action chosen
+Not Successfully executed action 73: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.68  | 127  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 79
+Random action chosen
+Not Successfully executed action 62: communicate_soil_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 26.92  | 128  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 80
+Random action chosen
+Not Successfully executed action 66: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.20  | 129  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 81
+Random action chosen
+Not Successfully executed action 35: communicate_rock_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.43  | 130  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 82
+Random action chosen
+Not Successfully executed action 51: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.67  | 131  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 83
+Random action chosen
+Not Successfully executed action 74: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 27.94  | 132  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 84
+Random action chosen
+Not Successfully executed action 58: communicate_soil_data(rover0,general,waypoint0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.22  | 133  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 85
+Random action chosen
+Not Successfully executed action 72: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.44  | 134  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 86
+Random action chosen
+Not Successfully executed action 45: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.67  | 135  |    45    |    75     |   17   |    9    |   13   |    7    |  12   |  42   |   8   |   0   |   6   |   0   |    0.73    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.65   |    0.54     
+
+
+Not executable actions: 87
+Random action chosen
+Successfully executed action 53: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint2)
+operator communicate_rock_data, adding certain precondition: (at ?param_1 ?param_4)
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_5) from possible positive effects
+removing (at_lander ?param_2 ?param_4) from possible positive effects
+removing (at_rock_sample ?param_3) from possible positive effects
+removing (at_rock_sample ?param_5) from possible positive effects
+removing (at_soil_sample ?param_3) from possible positive effects
+removing (at_soil_sample ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_5) from possible positive effects
+removing (communicated_rock_data ?param_4) from possible positive effects
+removing (communicated_soil_data ?param_3) from possible positive effects
+removing (communicated_soil_data ?param_4) from possible positive effects
+removing (communicated_soil_data ?param_5) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_4) from possible positive effects
+removing (visible ?param_3 ?param_3) from possible positive effects
+removing (visible ?param_3 ?param_5) from possible positive effects
+removing (visible ?param_4 ?param_4) from possible positive effects
+removing (visible ?param_5 ?param_3) from possible positive effects
+removing (visible ?param_5 ?param_5) from possible positive effects
+removing (at ?param_1 ?param_4) from possible negative effects
+removing (at_rock_sample ?param_4) from possible negative effects
+removing (at_soil_sample ?param_4) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (channel_free ?param_2) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.92  | 136  |    45    |    97     |   17   |    9    |   13   |    7    |   6   |  58   |   8   |   0   |   6   |   0   |    0.87    |   0.53   |   0.54   |     0.40      |    0.82     |    1.00     |   0.73   |    0.49     
+
+
+Not executable actions: 74
+Random action chosen
+Successfully executed action 80: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint2)
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (at ?param_1 ?param_5) from possible positive effects
+removing (at_lander ?param_2 ?param_4) from possible positive effects
+removing (at_rock_sample ?param_3) from possible positive effects
+removing (at_rock_sample ?param_5) from possible positive effects
+removing (at_soil_sample ?param_3) from possible positive effects
+removing (at_soil_sample ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_5) from possible positive effects
+removing (communicated_rock_data ?param_4) from possible positive effects
+removing (communicated_soil_data ?param_4) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_4) from possible positive effects
+removing (visible ?param_3 ?param_3) from possible positive effects
+removing (visible ?param_3 ?param_5) from possible positive effects
+removing (visible ?param_4 ?param_4) from possible positive effects
+removing (visible ?param_5 ?param_3) from possible positive effects
+removing (visible ?param_5 ?param_5) from possible positive effects
+removing (at ?param_1 ?param_4) from possible negative effects
+removing (at_rock_sample ?param_4) from possible negative effects
+removing (at_soil_sample ?param_4) from possible negative effects
+removing (available ?param_1) from possible negative effects
+removing (channel_free ?param_2) from possible negative effects
+removing (equipped_for_imaging ?param_1) from possible negative effects
+removing (equipped_for_rock_analysis ?param_1) from possible negative effects
+removing (equipped_for_soil_analysis ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.24  | 137  |    45    |    121    |   17   |    9    |   13   |    7    |   0   |  76   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.37      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+Not executable actions: 79
+Random action chosen
+Not Successfully executed action 8: communicate_image_data(rover0,general,objective0,colour,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.45  | 138  |    45    |    121    |   17   |    9    |   13   |    7    |   0   |  76   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.37      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+operator communicate_image_data, adding certain precondition: (have_image ?param_1 ?param_3 ?param_4)
+Not executable actions: 81
+Random action chosen
+Successfully executed action 88: navigate(rover0,waypoint1,waypoint0)
+operator navigate, removed uncertain preconditions ['(at_soil_sample ?param_3)']
+removing (at_soil_sample ?param_3) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.64  | 139  |    45    |    120    |   17   |    9    |   13   |    7    |   0   |  75   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.38      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+Not executable actions: 81
+Random action chosen
+Not Successfully executed action 80: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 29.90  | 140  |    45    |    120    |   17   |    9    |   13   |    7    |   0   |  75   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.38      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+operator communicate_soil_data, adding certain precondition: (at ?param_1 ?param_4)
+Not executable actions: 91
+Random action chosen
+Successfully executed action 0: calibrate(rover0,camera0,objective0,waypoint0)
+operator calibrate, removed uncertain preconditions ['(at_soil_sample ?param_4)']
+removing (at_soil_sample ?param_4) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.09  | 141  |    45    |    119    |   17   |    9    |   13   |    7    |   0   |  74   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.38      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+Not executable actions: 89
+Random action chosen
+Not Successfully executed action 105: take_image(rover0,waypoint1,objective0,camera0,low_res)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.33  | 142  |    45    |    119    |   17   |    9    |   13   |    7    |   0   |  74   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.38      |    0.82     |    1.00     |   0.81   |    0.45     
+
+
+Not executable actions: 90
+Random action chosen
+Successfully executed action 23: communicate_image_data(rover0,general,objective0,low_res,waypoint0,waypoint2)
+operator communicate_image_data, removed uncertain preconditions ['(at_soil_sample ?param_5)', '(can_traverse ?param_1 ?param_5 ?param_6)', '(can_traverse ?param_1 ?param_6 ?param_5)']
+removing (at_soil_sample ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_6) from possible positive effects
+removing (can_traverse ?param_1 ?param_6 ?param_5) from possible positive effects
+removing (communicated_rock_data ?param_6) from possible negative effects
+removing (communicated_soil_data ?param_6) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.51  | 143  |    45    |    116    |   17   |    9    |   13   |    7    |   0   |  71   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.39      |    0.82     |    1.00     |   0.81   |    0.46     
+
+
+Not executable actions: 90
+Random action chosen
+Successfully executed action 102: take_image(rover0,waypoint0,objective0,camera0,low_res)
+operator take_image, removed uncertain preconditions ['(at_soil_sample ?param_2)', '(have_rock_analysis ?param_1 ?param_2)']
+operator take_image, adding certain precondition: (calibrated ?param_4 ?param_1)
+operator take_image, adding certain precondition: (at ?param_1 ?param_2)
+removing (at_soil_sample ?param_2) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_2) from possible positive effects
+removing (at_rock_sample ?param_2) from possible negative effects
+removing (communicated_image_data ?param_3 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.72  | 144  |    45    |    114    |   17   |    9    |   13   |    7    |   0   |  69   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.39      |    0.82     |    1.00     |   0.81   |    0.47     
+
+
+Not executable actions: 92
+Random action chosen
+Not Successfully executed action 22: communicate_image_data(rover0,general,objective0,low_res,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 30.93  | 145  |    45    |    114    |   17   |    9    |   13   |    7    |   0   |  69   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.39      |    0.82     |    1.00     |   0.81   |    0.47     
+
+
+Not executable actions: 94
+Random action chosen
+Successfully executed action 77: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint2)
+operator communicate_soil_data, removed uncertain preconditions ['(at_soil_sample ?param_4)', '(can_traverse ?param_1 ?param_3 ?param_4)', '(can_traverse ?param_1 ?param_4 ?param_3)', '(can_traverse ?param_1 ?param_4 ?param_5)', '(can_traverse ?param_1 ?param_5 ?param_4)']
+removing (at_soil_sample ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_4) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.08  | 146  |    45    |    109    |   17   |    9    |   13   |    7    |   0   |  64   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.41      |    0.82     |    1.00     |   0.81   |    0.49     
+
+
+Not executable actions: 94
+Random action chosen
+Not Successfully executed action 76: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.27  | 147  |    45    |    109    |   17   |    9    |   13   |    7    |   0   |  64   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.41      |    0.82     |    1.00     |   0.81   |    0.49     
+
+
+Not executable actions: 96
+Random action chosen
+Not Successfully executed action 68: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.45  | 148  |    45    |    109    |   17   |    9    |   13   |    7    |   0   |  64   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.41      |    0.82     |    1.00     |   0.81   |    0.49     
+
+
+Not executable actions: 98
+Random action chosen
+Not Successfully executed action 94: sample_rock(rover0,rover0store,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.61  | 149  |    45    |    109    |   17   |    9    |   13   |    7    |   0   |  64   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.41      |    0.82     |    1.00     |   0.81   |    0.49     
+
+
+Not executable actions: 100
+Random action chosen
+Not Successfully executed action 95: sample_rock(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.75  | 150  |    45    |    109    |   17   |    9    |   13   |    7    |   0   |  64   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.41      |    0.82     |    1.00     |   0.81   |    0.49     
+
+
+Not executable actions: 101
+Random action chosen
+Successfully executed action 50: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint2)
+operator communicate_rock_data, removed uncertain preconditions ['(at_soil_sample ?param_4)', '(can_traverse ?param_1 ?param_3 ?param_4)', '(can_traverse ?param_1 ?param_4 ?param_3)', '(can_traverse ?param_1 ?param_4 ?param_5)', '(can_traverse ?param_1 ?param_5 ?param_4)']
+removing (at_soil_sample ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_3 ?param_4) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_3) from possible positive effects
+removing (can_traverse ?param_1 ?param_4 ?param_5) from possible positive effects
+removing (can_traverse ?param_1 ?param_5 ?param_4) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.89  | 151  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Not executable actions: 101
+Random action chosen
+Not Successfully executed action 87: navigate(rover0,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.07  | 152  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Not executable actions: 102
+Random action chosen
+Not Successfully executed action 85: navigate(rover0,waypoint0,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 32.21  | 153  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Not executable actions: 103
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.791464
+Plan computed: True Plan length: 3
+The feasibility of operator calibrate negated preconditions of length 1 is: True
+Successfully executed action 86: navigate(rover0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.17  | 154  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Successfully executed action 84: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.19  | 155  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Successfully executed action 95: sample_rock(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.21  | 156  |    45    |    104    |   17   |    9    |   13   |    7    |   0   |  59   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.43      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Successfully executed action 1: calibrate(rover0,camera0,objective0,waypoint1)
+operator calibrate, removed uncertain preconditions ['(at_rock_sample ?param_4)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.40  | 157  |    45    |    103    |   17   |    9    |   13   |    7    |   0   |  58   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.81   |    0.51     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 80: communicate_soil_data(rover0,general,waypoint2,waypoint1,waypoint2)
+operator communicate_soil_data, removed uncertain preconditions ['(at_rock_sample ?param_4)']
+removing (at_rock_sample ?param_4) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.65  | 158  |    45    |    102    |   17   |    9    |   13   |    7    |   0   |  57   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.44      |    0.82     |    1.00     |   0.81   |    0.52     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 53: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint2)
+operator communicate_rock_data, removed uncertain preconditions ['(at_rock_sample ?param_4)']
+removing (at_rock_sample ?param_4) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.89  | 159  |    45    |    101    |   17   |    9    |   13   |    7    |   0   |  56   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.52     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+operator communicate_image_data, removed uncertain preconditions ['(at_rock_sample ?param_5)']
+removing (at_rock_sample ?param_5) from possible positive effects
+removing (have_rock_analysis ?param_1 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.11  | 160  |    45    |    100    |   17   |    9    |   13   |    7    |   0   |  55   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 90: navigate(rover0,waypoint1,waypoint2)
+operator navigate, removed uncertain preconditions ['(at_rock_sample ?param_3)']
+removing (at_rock_sample ?param_3) from possible positive effects
+removing (communicated_rock_data ?param_3) from possible negative effects
+removing (communicated_soil_data ?param_3) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_3) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.31  | 161  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 97
+Random action chosen
+Not Successfully executed action 28: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.52  | 162  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 98
+Random action chosen
+Not Successfully executed action 83: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.67  | 163  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 99
+Random action chosen
+Not Successfully executed action 55: communicate_rock_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.84  | 164  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 100
+Random action chosen
+Not Successfully executed action 47: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 34.97  | 165  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 101
+Random action chosen
+Not Successfully executed action 46: communicate_rock_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.14  | 166  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 102
+Random action chosen
+Not Successfully executed action 74: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.28  | 167  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 103
+Random action chosen
+Not Successfully executed action 82: communicate_soil_data(rover0,general,waypoint2,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.45  | 168  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 104
+Random action chosen
+Not Successfully executed action 73: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.59  | 169  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not executable actions: 105
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.779232
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.805286
+Plan computed: True Plan length: 4
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: True
+Successfully executed action 84: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.36  | 170  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Successfully executed action 92: navigate(rover0,waypoint2,waypoint1)
+removing (communicated_rock_data ?param_2) from possible negative effects
+removing (communicated_soil_data ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.38  | 171  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Successfully executed action 98: sample_soil(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.41  | 172  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Successfully executed action 90: navigate(rover0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.43  | 173  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Not successfully executed action 28: communicate_image_data(rover0,general,objective0,low_res,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 37.63  | 174  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+operator communicate_image_data, adding certain precondition: (at_lander ?param_2 ?param_6)
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.802236
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.805235
+Plan computed: True Plan length: 2
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: True
+Successfully executed action 92: navigate(rover0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.28  | 175  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Successfully executed action 88: navigate(rover0,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.30  | 176  |    45    |    99     |   17   |    9    |   13   |    7    |   0   |  54   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.45      |    0.82     |    1.00     |   0.81   |    0.53     
+
+
+Successfully executed action 41: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint2)
+operator communicate_rock_data, removed uncertain preconditions ['(at_lander ?param_2 ?param_3)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.50  | 177  |    45    |    98     |   17   |    9    |   13   |    7    |   0   |  53   |   8   |   0   |   6   |   0   |    1.00    |   0.53   |   0.54   |     0.46      |    0.82     |    1.00     |   0.81   |    0.54     
+
+
+Not executable actions: 96
+Random action chosen
+Successfully executed action 68: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint2)
+operator communicate_soil_data, removed uncertain preconditions ['(at_lander ?param_2 ?param_3)']
+Operator communicate_soil_data, adding certain positive effect (communicated_soil_data ?param_3)
+removing (at_lander ?param_2 ?param_3) from possible positive effects
+removing (at_lander ?param_2 ?param_5) from possible negative effects
+removing (can_traverse ?param_1 ?param_3 ?param_4) from possible negative effects
+removing (can_traverse ?param_1 ?param_3 ?param_5) from possible negative effects
+removing (can_traverse ?param_1 ?param_4 ?param_3) from possible negative effects
+removing (can_traverse ?param_1 ?param_5 ?param_3) from possible negative effects
+removing (communicated_rock_data ?param_3) from possible negative effects
+removing (communicated_rock_data ?param_5) from possible negative effects
+removing (communicated_soil_data ?param_3) from possible negative effects
+removing (communicated_soil_data ?param_5) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_3) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_5) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_5) from possible negative effects
+removing (visible ?param_3 ?param_4) from possible negative effects
+removing (visible ?param_3 ?param_5) from possible negative effects
+removing (visible ?param_4 ?param_3) from possible negative effects
+removing (visible ?param_4 ?param_5) from possible negative effects
+removing (visible ?param_5 ?param_3) from possible negative effects
+removing (visible ?param_5 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.71  | 178  |    45    |    97     |   17   |   10    |   13   |    7    |   0   |  52   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.46      |    0.91     |    1.00     |   0.83   |    0.54     
+
+
+Not executable actions: 96
+Random action chosen
+Not Successfully executed action 67: communicate_soil_data(rover0,general,waypoint1,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 39.90  | 179  |    45    |    97     |   17   |   10    |   13   |    7    |   0   |  52   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.46      |    0.91     |    1.00     |   0.83   |    0.54     
+
+
+operator communicate_soil_data, adding certain precondition: (at_lander ?param_2 ?param_5)
+Not executable actions: 98
+Random action chosen
+Not Successfully executed action 49: communicate_rock_data(rover0,general,waypoint2,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 40.05  | 180  |    45    |    97     |   17   |   10    |   13   |    7    |   0   |  52   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.46      |    0.91     |    1.00     |   0.83   |    0.54     
+
+
+operator communicate_rock_data, adding certain precondition: (at_lander ?param_2 ?param_5)
+Not executable actions: 100
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.778418
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.802352
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.808557
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.842381
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.781757
+Plan computed: True Plan length: 1
+The feasibility of operator drop negated preconditions of length 1 is: True
+Successfully executed action 84: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.26  | 181  |    45    |    97     |   17   |   10    |   13   |    7    |   0   |  52   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.46      |    0.91     |    1.00     |   0.83   |    0.54     
+
+
+Not successfully executed action 84: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.46  | 182  |    45    |    97     |   17   |   10    |   13   |    7    |   0   |  52   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.46      |    0.91     |    1.00     |   0.83   |    0.54     
+
+
+operator drop, adding certain precondition: (full ?param_2)
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.763626
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.784203
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.781713
+Plan computed: True Plan length: 0
+The feasibility of operator sample_rock negated preconditions of length 1 is: True
+Successfully executed action 94: sample_rock(rover0,rover0store,waypoint0)
+operator sample_rock, removed uncertain preconditions ['(at_soil_sample ?param_3)']
+operator sample_rock, adding certain precondition: (empty ?param_2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.95  | 183  |    45    |    96     |   17   |   10    |   13   |    7    |   0   |  51   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.47      |    0.91     |    1.00     |   0.83   |    0.55     
+
+
+Not executable actions: 98
+Random action chosen
+Successfully executed action 32: communicate_rock_data(rover0,general,waypoint0,waypoint0,waypoint2)
+operator communicate_rock_data, removed uncertain preconditions ['(have_soil_analysis ?param_1 ?param_3)', '(visible ?param_3 ?param_4)', '(visible ?param_4 ?param_3)']
+operator communicate_rock_data, adding certain precondition: (have_rock_analysis ?param_1 ?param_3)
+removing (at_lander ?param_2 ?param_3) from possible positive effects
+removing (have_soil_analysis ?param_1 ?param_3) from possible positive effects
+removing (visible ?param_3 ?param_4) from possible positive effects
+removing (visible ?param_4 ?param_3) from possible positive effects
+removing (at_lander ?param_2 ?param_5) from possible negative effects
+removing (communicated_rock_data ?param_5) from possible negative effects
+removing (communicated_soil_data ?param_5) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_5) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 47.15  | 184  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+Not executable actions: 98
+Random action chosen
+Not Successfully executed action 59: communicate_soil_data(rover0,general,waypoint0,waypoint0,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 47.35  | 185  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+Not executable actions: 99
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.777841
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.788958
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.797751
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.809394
+Plan computed: True Plan length: 1
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: True
+Successfully executed action 86: navigate(rover0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 50.69  | 186  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+Not successfully executed action 62: communicate_soil_data(rover0,general,waypoint0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 50.91  | 187  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+operator communicate_soil_data, adding certain precondition: (have_soil_analysis ?param_1 ?param_3)
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.811988
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.770461
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.777097
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.776615
+Plan computed: True Plan length: 1
+The feasibility of operator sample_rock negated preconditions of length 1 is: True
+Successfully executed action 84: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 54.10  | 188  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+Not successfully executed action 95: sample_rock(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 54.29  | 189  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+operator sample_rock, adding certain precondition: (at_rock_sample ?param_3)
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.749711
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 1
+FD computational time: 0:00:00.764451
+Plan computed: True Plan length: 0
+The feasibility of operator sample_soil negated preconditions of length 1 is: True
+Not successfully executed action 98: sample_soil(rover0,rover0store,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 55.96  | 190  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+operator sample_soil, adding certain precondition: (at_soil_sample ?param_3)
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 1
+FD computational time: 0:00:00.755809
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.769082
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 2
+FD computational time: 0:00:00.784219
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 2
+FD computational time: 0:00:00.901121
+Plan computed: True Plan length: 1
+The feasibility of operator communicate_image_data negated preconditions of length 2 is: True
+Successfully executed action 90: navigate(rover0,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 59.23  | 191  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 2
+FD computational time: 0:00:00.885886
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 2
+FD computational time: 0:00:00.831699
+Plan computed: True Plan length: 0
+The feasibility of operator communicate_rock_data negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 2
+FD computational time: 0:00:00.843125
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 2
+FD computational time: 0:00:01.043005
+Plan computed: True Plan length: 0
+The feasibility of operator communicate_soil_data negated preconditions of length 2 is: True
+Not successfully executed action 74: communicate_soil_data(rover0,general,waypoint1,waypoint2,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 63.28  | 192  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 2
+FD computational time: 0:00:01.027682
+Plan computed: True Plan length: 1
+The feasibility of operator communicate_soil_data negated preconditions of length 2 is: True
+Successfully executed action 92: navigate(rover0,waypoint2,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 64.34  | 193  |    45    |    93     |   17   |   10    |   13   |    7    |   0   |  48   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.48      |    0.91     |    1.00     |   0.83   |    0.56     
+
+
+Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+operator communicate_soil_data, removed uncertain preconditions ['(visible ?param_3 ?param_4)', '(visible ?param_4 ?param_3)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 64.53  | 194  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+Not executable actions: 99
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.760091
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.791528
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.769411
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.801047
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.749757
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.770600
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.761184
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 1
+FD computational time: 0:00:00.756845
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.757814
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 2
+FD computational time: 0:00:00.774466
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 2
+FD computational time: 0:00:00.886895
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 2
+FD computational time: 0:00:00.834962
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 2
+FD computational time: 0:00:00.913318
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 2
+FD computational time: 0:00:00.757171
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 2
+FD computational time: 0:00:00.788102
+Plan computed: True Plan length: 1
+The feasibility of operator navigate negated preconditions of length 2 is: True
+Successfully executed action 88: navigate(rover0,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 76.72  | 195  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator navigate negated preconditions of length 2
+FD computational time: 0:00:00.792014
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 2
+FD computational time: 0:00:00.765342
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 2
+FD computational time: 0:00:00.774763
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 2
+FD computational time: 0:00:00.788715
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 3
+FD computational time: 0:00:00.787380
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 3
+FD computational time: 0:00:01.145519
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 3
+FD computational time: 0:00:00.910794
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 3
+FD computational time: 0:00:01.295591
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 3
+FD computational time: 0:00:00.759401
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 3
+FD computational time: 0:00:00.818907
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 3
+FD computational time: 0:00:00.765984
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 3
+FD computational time: 0:00:00.780742
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 3
+FD computational time: 0:00:00.813508
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 4
+FD computational time: 0:00:00.795384
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 4
+FD computational time: 0:00:01.538652
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 4
+FD computational time: 0:00:00.981759
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 4
+FD computational time: 0:00:02.046443
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 4
+FD computational time: 0:00:00.756213
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 4
+FD computational time: 0:00:00.801431
+Plan computed: True Plan length: 0
+The feasibility of operator navigate negated preconditions of length 4 is: True
+
+
+Checking feasibility of operator navigate negated preconditions of length 4
+FD computational time: 0:00:00.856496
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 4
+FD computational time: 0:00:00.773311
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 4
+FD computational time: 0:00:00.835815
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 4
+FD computational time: 0:00:00.835269
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 5
+FD computational time: 0:00:00.805907
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 5
+FD computational time: 0:00:01.877708
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 5
+FD computational time: 0:00:01.003288
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 5
+FD computational time: 0:00:02.992480
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 5
+FD computational time: 0:00:00.779516
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 5
+FD computational time: 0:00:00.822345
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 5
+FD computational time: 0:00:00.785240
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 5
+FD computational time: 0:00:00.783038
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 5
+FD computational time: 0:00:00.812741
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 6
+FD computational time: 0:00:00.789837
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 6
+FD computational time: 0:00:01.872063
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 6
+FD computational time: 0:00:00.907887
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 6
+FD computational time: 0:00:03.158827
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 6
+FD computational time: 0:00:00.788046
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 6
+FD computational time: 0:00:00.770852
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 6
+FD computational time: 0:00:00.774861
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 6
+FD computational time: 0:00:00.795175
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 6 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 7
+FD computational time: 0:00:00.778379
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 7
+FD computational time: 0:00:01.408120
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 7
+FD computational time: 0:00:00.830945
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 7
+FD computational time: 0:00:02.640899
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 7
+FD computational time: 0:00:00.782552
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 7
+FD computational time: 0:00:00.770605
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 7
+FD computational time: 0:00:00.773476
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 7 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 8
+FD computational time: 0:00:01.046057
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 8
+FD computational time: 0:00:00.782563
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 8
+FD computational time: 0:00:01.720664
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 8
+FD computational time: 0:00:00.774918
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 8 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 9
+FD computational time: 0:00:00.846700
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 9 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 9
+FD computational time: 0:00:00.781597
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 9 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 9
+FD computational time: 0:00:01.157900
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 9 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 10
+FD computational time: 0:00:00.798928
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 10 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 10
+FD computational time: 0:00:00.909958
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 10 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 11
+FD computational time: 0:00:00.781750
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 11 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 11
+FD computational time: 0:00:00.791488
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 11 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 12
+FD computational time: 0:00:00.782131
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 12 is: False
+
+
+
+Looking for new positive effects of learned operators
+(exists (?param_1 - rover ?param_2 - camera ?param_3 - objective ?param_4 - waypoint) (and (at ?param_1 ?param_4) (available ?param_1) (calibration_target ?param_2 ?param_3) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (on_board ?param_2 ?param_1) (visible_from ?param_3 ?param_4) (not (at_rock_sample ?param_4)) ))
+
+
+
+Checking feasibility of operator calibrate with possible positive effect (at_rock_sample ?param_4)
+FD computational time: 0:00:00.785537
+Plan computed: True Plan length: 0
+Successfully executed action 0: calibrate(rover0,camera0,objective0,waypoint0)
+removing (at_rock_sample ?param_4) from possible positive effects
+removing (communicated_rock_data ?param_4) from possible negative effects
+removing (have_rock_analysis ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 139.38 | 196  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+Operator navigate does not admit new positive effects
+(exists (?param_1 - rover ?param_2 - store ?param_3 - waypoint) (and (at ?param_1 ?param_3) (at_rock_sample ?param_3) (available ?param_1) (empty ?param_2) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (store_of ?param_2 ?param_1) (not (at_soil_sample ?param_3)) ))
+
+
+
+Checking feasibility of operator sample_rock with possible positive effect (at_soil_sample ?param_3)
+FD computational time: 0:00:00.778390
+Plan computed: False Plan length: None
+Operator take_image does not admit new positive effects
+Operator drop does not admit new positive effects
+Operator sample_soil does not admit new positive effects
+Operator communicate_image_data does not admit new positive effects
+(exists (?param_1 - rover ?param_2 - lander ?param_3 - waypoint ?param_4 - waypoint ?param_5 - waypoint) (and (at ?param_1 ?param_4) (at_lander ?param_2 ?param_5) (available ?param_1) (channel_free ?param_2) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (have_rock_analysis ?param_1 ?param_3) (have_rock_analysis ?param_1 ?param_5) (have_soil_analysis ?param_1 ?param_5) (visible ?param_4 ?param_5) (visible ?param_5 ?param_4) (not (communicated_rock_data ?param_3)) (not (= ?param_3 ?param_4)) (not (= ?param_3 ?param_5))))
+
+
+
+Checking feasibility of operator communicate_rock_data with possible positive effect (communicated_rock_data ?param_3)
+FD computational time: 0:00:00.785121
+Plan computed: False Plan length: None
+(exists (?param_1 - rover ?param_2 - lander ?param_3 - waypoint ?param_4 - waypoint ?param_5 - waypoint) (and (at ?param_1 ?param_4) (at_lander ?param_2 ?param_5) (available ?param_1) (channel_free ?param_2) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (have_rock_analysis ?param_1 ?param_3) (have_rock_analysis ?param_1 ?param_5) (have_soil_analysis ?param_1 ?param_5) (visible ?param_4 ?param_5) (visible ?param_5 ?param_4) (not (communicated_rock_data ?param_5)) (not (= ?param_5 ?param_4)) (not (= ?param_5 ?param_3))))
+
+
+
+Checking feasibility of operator communicate_rock_data with possible positive effect (communicated_rock_data ?param_5)
+FD computational time: 0:00:00.783033
+Plan computed: False Plan length: None
+(exists (?param_1 - rover ?param_2 - lander ?param_3 - waypoint ?param_4 - waypoint ?param_5 - waypoint) (and (at ?param_1 ?param_4) (at_lander ?param_2 ?param_5) (available ?param_1) (channel_free ?param_2) (communicated_rock_data ?param_3) (communicated_rock_data ?param_5) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (have_rock_analysis ?param_1 ?param_3) (have_rock_analysis ?param_1 ?param_5) (have_soil_analysis ?param_1 ?param_3) (have_soil_analysis ?param_1 ?param_5) (visible ?param_4 ?param_5) (visible ?param_5 ?param_4) (not (communicated_soil_data ?param_5)) (not (= ?param_5 ?param_4)) (not (= ?param_5 ?param_3))))
+
+
+
+Checking feasibility of operator communicate_soil_data with possible positive effect (communicated_soil_data ?param_5)
+FD computational time: 0:00:00.786280
+Plan computed: False Plan length: None
+(exists (?param_1 - rover ?param_2 - lander ?param_3 - waypoint ?param_4 - waypoint ?param_5 - waypoint) (and (at ?param_1 ?param_4) (at_lander ?param_2 ?param_5) (available ?param_1) (channel_free ?param_2) (communicated_rock_data ?param_3) (communicated_rock_data ?param_5) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (have_rock_analysis ?param_1 ?param_3) (have_rock_analysis ?param_1 ?param_5) (have_soil_analysis ?param_1 ?param_3) (have_soil_analysis ?param_1 ?param_5) (visible ?param_4 ?param_5) (visible ?param_5 ?param_4) (not (visible ?param_3 ?param_4)) (not (= ?param_4 ?param_5)) (not (= ?param_4 ?param_3)) (not (= ?param_3 ?param_4)) (not (= ?param_3 ?param_5))))
+
+
+
+Checking feasibility of operator communicate_soil_data with possible positive effect (visible ?param_3 ?param_4)
+FD computational time: 0:00:00.766952
+Plan computed: False Plan length: None
+(exists (?param_1 - rover ?param_2 - lander ?param_3 - waypoint ?param_4 - waypoint ?param_5 - waypoint) (and (at ?param_1 ?param_4) (at_lander ?param_2 ?param_5) (available ?param_1) (channel_free ?param_2) (communicated_rock_data ?param_3) (communicated_rock_data ?param_5) (equipped_for_imaging ?param_1) (equipped_for_rock_analysis ?param_1) (equipped_for_soil_analysis ?param_1) (have_rock_analysis ?param_1 ?param_3) (have_rock_analysis ?param_1 ?param_5) (have_soil_analysis ?param_1 ?param_3) (have_soil_analysis ?param_1 ?param_5) (visible ?param_4 ?param_5) (visible ?param_5 ?param_4) (not (visible ?param_4 ?param_3)) (not (= ?param_4 ?param_5)) (not (= ?param_4 ?param_3)) (not (= ?param_3 ?param_4)) (not (= ?param_3 ?param_5))))
+
+
+
+Checking feasibility of operator communicate_soil_data with possible positive effect (visible ?param_4 ?param_3)
+FD computational time: 0:00:00.769916
+Plan computed: False Plan length: None
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator calibrate with possible negative effects
+FD computational time: 0:00:00.757538
+Plan computed: True Plan length: 1
+Successfully executed action 86: navigate(rover0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 144.90 | 197  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+Successfully executed action 1: calibrate(rover0,camera0,objective0,waypoint1)
+removing (communicated_soil_data ?param_4) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 144.92 | 198  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator calibrate with possible negative effects
+FD computational time: 0:00:00.749570
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator navigate with possible negative effects
+FD computational time: 0:00:00.763555
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator sample_rock with possible negative effects
+FD computational time: 0:00:00.773085
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator take_image with possible negative effects
+FD computational time: 0:00:00.769377
+Plan computed: True Plan length: 0
+Successfully executed action 105: take_image(rover0,waypoint1,objective0,camera0,low_res)
+removing (communicated_rock_data ?param_2) from possible negative effects
+removing (communicated_soil_data ?param_2) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 148.03 | 199  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator take_image with possible negative effects
+FD computational time: 0:00:00.753393
+Plan computed: False Plan length: None
+Operator drop does not admit new negative effects
+
+
+Checking feasibility of operator sample_soil with possible negative effects
+FD computational time: 0:00:00.759454
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_image_data with possible negative effects
+FD computational time: 0:00:00.801351
+Plan computed: True Plan length: 0
+Successfully executed action 26: communicate_image_data(rover0,general,objective0,low_res,waypoint1,waypoint2)
+removing (communicated_rock_data ?param_5) from possible negative effects
+removing (communicated_soil_data ?param_5) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_5) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 150.40 | 200  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator communicate_image_data with possible negative effects
+FD computational time: 0:00:00.783224
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.846004
+Plan computed: True Plan length: 0
+Successfully executed action 44: communicate_rock_data(rover0,general,waypoint1,waypoint1,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 152.06 | 201  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+removing (at ?param_1 ?param_3) from possible negative effects in finalizenegunknown
+removing (have_rock_analysis ?param_1 ?param_3) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.830665
+Plan computed: True Plan length: 0
+Successfully executed action 53: communicate_rock_data(rover0,general,waypoint2,waypoint1,waypoint2)
+removing (communicated_rock_data ?param_4) from possible negative effects
+removing (communicated_soil_data ?param_4) from possible negative effects
+removing (have_soil_analysis ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 152.93 | 202  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+removing (at_lander ?param_2 ?param_3) from possible negative effects in finalizenegunknown
+removing (communicated_rock_data ?param_3) from possible negative effects in finalizenegunknown
+removing (communicated_soil_data ?param_3) from possible negative effects in finalizenegunknown
+removing (have_soil_analysis ?param_1 ?param_3) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.793632
+Plan computed: True Plan length: 0
+Successfully executed action 35: communicate_rock_data(rover0,general,waypoint0,waypoint1,waypoint2)
+removing (can_traverse ?param_1 ?param_3 ?param_4) from possible negative effects
+removing (can_traverse ?param_1 ?param_4 ?param_3) from possible negative effects
+removing (can_traverse ?param_1 ?param_4 ?param_5) from possible negative effects
+removing (can_traverse ?param_1 ?param_5 ?param_4) from possible negative effects
+removing (visible ?param_3 ?param_4) from possible negative effects
+removing (visible ?param_3 ?param_5) from possible negative effects
+removing (visible ?param_4 ?param_3) from possible negative effects
+removing (visible ?param_4 ?param_5) from possible negative effects
+removing (visible ?param_5 ?param_3) from possible negative effects
+removing (visible ?param_5 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 153.76 | 203  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.793222
+Plan computed: True Plan length: 1
+Successfully executed action 88: navigate(rover0,waypoint1,waypoint0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 154.59 | 204  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+Successfully executed action 41: communicate_rock_data(rover0,general,waypoint1,waypoint0,waypoint2)
+removing (can_traverse ?param_1 ?param_3 ?param_5) from possible negative effects
+removing (can_traverse ?param_1 ?param_5 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 154.62 | 205  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.791893
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.809238
+Plan computed: True Plan length: 0
+Successfully executed action 77: communicate_soil_data(rover0,general,waypoint2,waypoint0,waypoint2)
+removing (communicated_rock_data ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 156.26 | 206  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+removing (at_lander ?param_2 ?param_3) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.804378
+Plan computed: True Plan length: 1
+Successfully executed action 86: navigate(rover0,waypoint0,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.09 | 207  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+Successfully executed action 71: communicate_soil_data(rover0,general,waypoint1,waypoint1,waypoint2)
+removing (visible ?param_3 ?param_4) from possible positive effects
+removing (visible ?param_4 ?param_3) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.12 | 208  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+removing (at ?param_1 ?param_3) from possible negative effects in finalizenegunknown
+removing (can_traverse ?param_1 ?param_4 ?param_5) from possible negative effects in finalizenegunknown
+removing (can_traverse ?param_1 ?param_5 ?param_4) from possible negative effects in finalizenegunknown
+removing (communicated_soil_data ?param_4) from possible negative effects in finalizenegunknown
+removing (have_soil_analysis ?param_1 ?param_4) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.789066
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator calibrate has no known positive effects to check
+Operator navigate has no known positive effects to check
+Operator sample_rock has no known positive effects to check
+Operator take_image has no known positive effects to check
+Operator drop has no known positive effects to check
+Operator sample_soil has no known positive effects to check
+Operator communicate_image_data has no known positive effects to check
+Operator communicate_rock_data has no known positive effects to check
+Operator communicate_soil_data has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator calibrate has no known negative effects to check
+Operator navigate has no known negative effects to check
+Operator sample_rock has no known negative effects to check
+Operator take_image has no known negative effects to check
+Operator drop has no known negative effects to check
+Operator sample_soil has no known negative effects to check
+Operator communicate_image_data has no known negative effects to check
+Operator communicate_rock_data has no known negative effects to check
+Operator communicate_soil_data has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.93 | 209  |    45    |    91     |   17   |   10    |   13   |    7    |   0   |  46   |   7   |   0   |   6   |   0   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    1.00     |   0.83   |    0.57     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 157.93 | 209  |    45    |    91     |   17   |   10    |   13   |   57    |   0   |  46   |   7   |   0   |   6   |  50   |    1.00    |   0.59   |   0.54   |     0.49      |    0.91     |    0.12     |   0.83   |    0.39     
+
+

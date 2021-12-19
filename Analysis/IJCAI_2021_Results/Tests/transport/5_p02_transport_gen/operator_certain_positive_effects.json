@@ -1,0 +1,13 @@
+{
+  "drive": [
+    "(at ?param_1 ?param_3)"
+  ],
+  "pick-up": [
+    "(capacity ?param_1 ?param_4)",
+    "(in ?param_3 ?param_1)"
+  ],
+  "drop": [
+    "(at ?param_3 ?param_2)",
+    "(capacity ?param_1 ?param_5)"
+  ]
+}

@@ -1,0 +1,127 @@
+
+Total actions: 16
+
+Objects list
+	table:3
+	disc:1
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    4     |     0     |   2    |    0    |   1    |    0    |   4   |   0   |   2   |   0   |   1   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 12: move(d1,peg3,d1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.09  |  1   |    4     |     0     |   2    |    0    |   1    |    0    |   4   |   0   |   2   |   0   |   1   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 3
+Random action chosen
+Successfully executed action 6: move(d1,peg1,peg2)
+Operator move, adding certain positive effect (clear ?param_2)
+Operator move, adding certain positive effect (on ?param_1 ?param_3)
+Operator move, adding certain negative effect (not (on ?param_1 ?param_2))
+removing (on ?param_1 ?param_1) from possible positive effects
+removing (on ?param_1 ?param_2) from possible positive effects
+removing (smaller ?param_1 ?param_1) from possible positive effects
+removing (clear ?param_1) from possible negative effects
+removing (clear ?param_2) from possible negative effects
+removing (clear ?param_3) from possible negative effects
+removing (on ?param_1 ?param_3) from possible negative effects
+removing (smaller ?param_2 ?param_1) from possible negative effects
+removing (smaller ?param_3 ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.21  |  2   |    4     |     5     |   2    |    2    |   1    |    1    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.88     
+
+
+Not executable actions: 3
+Random action chosen
+Not Successfully executed action 5: move(d1,peg1,peg1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.31  |  3   |    4     |     5     |   2    |    2    |   1    |    1    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.88     
+
+
+operator move, adding certain precondition: (on ?param_1 ?param_2)
+Not executable actions: 12
+Random action chosen
+Not Successfully executed action 8: move(d1,peg2,d1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.42  |  4   |    4     |     5     |   2    |    2    |   1    |    1    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.88     
+
+
+operator move, adding certain precondition: (smaller ?param_3 ?param_1)
+Not executable actions: 13
+Random action chosen
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:00.679997
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.692518
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:00.693093
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:00.687503
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.28  |  5   |    4     |     5     |   2    |    2    |   1    |    1    |   0   |   1   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.88     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.28  |  5   |    4     |     5     |   2    |    2    |   1    |    3    |   0   |   1   |   0   |   0   |   0   |   2   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    0.33     |   1.00   |    0.70     
+
+

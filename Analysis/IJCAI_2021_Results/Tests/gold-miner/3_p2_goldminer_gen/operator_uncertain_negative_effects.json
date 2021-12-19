@@ -1,0 +1,65 @@
+{
+  "move": [
+    "(connected ?param_1 ?param_1)",
+    "(connected ?param_2 ?param_2)",
+    "(hard-rock-at ?param_1)",
+    "(hard-rock-at ?param_2)",
+    "(soft-rock-at ?param_1)",
+    "(soft-rock-at ?param_2)"
+  ],
+  "pickup-laser": [
+    "(connected ?param_1 ?param_1)",
+    "(gold-at ?param_1)",
+    "(hard-rock-at ?param_1)",
+    "(holds-bomb)",
+    "(holds-gold)",
+    "(soft-rock-at ?param_1)"
+  ],
+  "pickup-bomb": [
+    "(connected ?param_1 ?param_1)",
+    "(gold-at ?param_1)",
+    "(hard-rock-at ?param_1)",
+    "(holds-gold)",
+    "(holds-laser)",
+    "(soft-rock-at ?param_1)"
+  ],
+  "putdown-laser": [
+    "(connected ?param_1 ?param_1)",
+    "(hard-rock-at ?param_1)",
+    "(holds-bomb)",
+    "(holds-gold)",
+    "(soft-rock-at ?param_1)"
+  ],
+  "detonate-bomb": [
+    "(bomb-at ?param_2)",
+    "(connected ?param_1 ?param_1)",
+    "(connected ?param_2 ?param_2)",
+    "(hard-rock-at ?param_1)",
+    "(hard-rock-at ?param_2)",
+    "(holds-gold)",
+    "(holds-laser)",
+    "(laser-at ?param_2)",
+    "(robot-at ?param_2)",
+    "(soft-rock-at ?param_1)"
+  ],
+  "fire-laser": [
+    "(arm-empty)",
+    "(connected ?param_1 ?param_1)",
+    "(connected ?param_2 ?param_2)",
+    "(hard-rock-at ?param_1)",
+    "(holds-bomb)",
+    "(holds-gold)",
+    "(laser-at ?param_1)",
+    "(laser-at ?param_2)",
+    "(robot-at ?param_2)",
+    "(soft-rock-at ?param_1)"
+  ],
+  "pick-gold": [
+    "(bomb-at ?param_1)",
+    "(connected ?param_1 ?param_1)",
+    "(hard-rock-at ?param_1)",
+    "(holds-bomb)",
+    "(holds-laser)",
+    "(soft-rock-at ?param_1)"
+  ]
+}

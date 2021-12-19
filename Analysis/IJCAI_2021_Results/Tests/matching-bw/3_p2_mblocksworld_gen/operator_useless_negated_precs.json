@@ -1,0 +1,91 @@
+{
+  "pickup": [
+    [
+      "(empty ?param_1)"
+    ]
+  ],
+  "putdown-neg-neg": [
+    [
+      "(hand-negative ?param_1)"
+    ],
+    [
+      "(block-negative ?param_2)"
+    ]
+  ],
+  "putdown-pos-neg": [
+    [
+      "(block-negative ?param_2)"
+    ]
+  ],
+  "stack-neg-neg": [
+    [
+      "(hand-negative ?param_1)"
+    ],
+    [
+      "(block-negative ?param_2)",
+      "(block-positive ?param_3)"
+    ],
+    [
+      "(block-negative ?param_2)",
+      "(block-positive ?param_3)",
+      "(solid ?param_3)"
+    ],
+    [
+      "(solid ?param_3)"
+    ]
+  ],
+  "stack-pos-neg": [
+    [
+      "(hand-positive ?param_1)"
+    ],
+    [
+      "(block-negative ?param_2)"
+    ],
+    [
+      "(solid ?param_3)"
+    ]
+  ],
+  "unstack": [
+    [
+      "(empty ?param_1)"
+    ]
+  ],
+  "putdown-neg-pos": [
+    [
+      "(hand-negative ?param_1)"
+    ]
+  ],
+  "putdown-pos-pos": [
+    [
+      "(hand-positive ?param_1)"
+    ]
+  ],
+  "stack-neg-pos": [
+    [
+      "(clear ?param_3)"
+    ],
+    [
+      "(solid ?param_3)"
+    ],
+    [
+      "(hand-negative ?param_1)"
+    ],
+    [
+      "(block-positive ?param_2)"
+    ]
+  ],
+  "stack-pos-pos": [
+    [
+      "(clear ?param_3)"
+    ],
+    [
+      "(holding ?param_1 ?param_2)"
+    ],
+    [
+      "(hand-positive ?param_1)"
+    ],
+    [
+      "(solid ?param_3)"
+    ]
+  ]
+}

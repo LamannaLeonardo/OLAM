@@ -1,0 +1,14 @@
+{
+  "drive": [
+    "(not (at ?param_1 ?param_2))"
+  ],
+  "buy": [
+    "(not (on-sale ?param_2 ?param_3 ?param_5))",
+    "(not (ready-to-load ?param_2 ?param_3 ?param_6))"
+  ],
+  "load": [],
+  "unload": [
+    "(not (loaded ?param_1 ?param_2 ?param_5))",
+    "(not (stored ?param_1 ?param_6))"
+  ]
+}

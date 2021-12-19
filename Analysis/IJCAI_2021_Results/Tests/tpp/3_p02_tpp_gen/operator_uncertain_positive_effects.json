@@ -1,0 +1,24 @@
+{
+  "drive": [
+    "(connected ?param_2 ?param_3)",
+    "(connected ?param_3 ?param_2)"
+  ],
+  "load": [
+    "(at ?param_2 ?param_3)",
+    "(next ?param_5 ?param_4)",
+    "(next ?param_7 ?param_6)"
+  ],
+  "unload": [
+    "(at ?param_2 ?param_3)",
+    "(next ?param_5 ?param_4)",
+    "(next ?param_7 ?param_6)"
+  ],
+  "buy": [
+    "(at ?param_1 ?param_3)",
+    "(next ?param_5 ?param_4)",
+    "(next ?param_7 ?param_6)",
+    "(on-sale ?param_2 ?param_3 ?param_4)",
+    "(ready-to-load ?param_2 ?param_3 ?param_7)",
+    "(stored ?param_2 ?param_6)"
+  ]
+}

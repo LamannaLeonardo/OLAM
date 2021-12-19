@@ -1,0 +1,1110 @@
+
+Total actions: 324
+
+Objects list
+	place:12
+	shape:1
+	key:1
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 172: putdown(f1-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.13  |  1   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 9
+Random action chosen
+Not Successfully executed action 47: move(f0-3f,f2-3f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.28  |  2   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 74
+Random action chosen
+Not Successfully executed action 191: unlock(f0-0f,f2-3f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.47  |  3   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 126
+Random action chosen
+Not Successfully executed action 314: unlock(f2-3f,f0-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.65  |  4   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 131
+Random action chosen
+Not Successfully executed action 118: move(f2-1f,f2-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.82  |  5   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 149
+Random action chosen
+Not Successfully executed action 210: unlock(f0-2f,f1-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.98  |  6   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 169
+Random action chosen
+Not Successfully executed action 24: move(f0-2f,f0-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.14  |  7   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 175
+Random action chosen
+Not Successfully executed action 53: move(f1-0f,f1-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.31  |  8   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 193
+Random action chosen
+Not Successfully executed action 142: move(f2-3f,f2-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.50  |  9   |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 209
+Random action chosen
+Not Successfully executed action 254: unlock(f1-2f,f0-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.69  |  10  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 212
+Random action chosen
+Not Successfully executed action 237: unlock(f1-0f,f2-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.89  |  11  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 225
+Random action chosen
+Not Successfully executed action 292: unlock(f2-1f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.07  |  12  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 238
+Random action chosen
+Not Successfully executed action 69: move(f1-1f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.26  |  13  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 242
+Random action chosen
+Not Successfully executed action 234: unlock(f1-0f,f1-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.42  |  14  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 248
+Random action chosen
+Not Successfully executed action 268: unlock(f1-3f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.62  |  15  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 254
+Random action chosen
+Not Successfully executed action 166: pickup-and-loose(f2-2f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.79  |  16  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 262
+Random action chosen
+Not Successfully executed action 150: pickup(f1-2f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.92  |  17  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 270
+Random action chosen
+Not Successfully executed action 280: unlock(f2-0f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.06  |  18  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 272
+Random action chosen
+Not Successfully executed action 165: pickup-and-loose(f2-1f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.23  |  19  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 274
+Random action chosen
+Not Successfully executed action 146: pickup(f0-2f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.38  |  20  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 275
+Random action chosen
+Not Successfully executed action 244: unlock(f1-1f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.55  |  21  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 280
+Random action chosen
+Not Successfully executed action 197: unlock(f0-1f,f1-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.71  |  22  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 284
+Random action chosen
+Not Successfully executed action 98: move(f2-0f,f0-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.89  |  23  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 290
+Random action chosen
+Not Successfully executed action 62: move(f1-1f,f0-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.03  |  24  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 292
+Random action chosen
+Not Successfully executed action 148: pickup(f1-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.19  |  25  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 293
+Random action chosen
+Not Successfully executed action 228: unlock(f1-0f,f0-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.32  |  26  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 295
+Random action chosen
+Not Successfully executed action 213: unlock(f0-2f,f2-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.50  |  27  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 297
+Random action chosen
+Not Successfully executed action 206: unlock(f0-2f,f0-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.66  |  28  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 298
+Random action chosen
+Not Successfully executed action 233: unlock(f1-0f,f1-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.83  |  29  |    17    |     0     |   7    |    0    |   7    |    0    |  17   |   0   |   7   |   0   |   7   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 299
+Random action chosen
+Successfully executed action 30: move(f0-2f,f1-2f)
+operator move, adding certain precondition: (at-robot ?param_1)
+Operator move, adding certain positive effect (at-robot ?param_2)
+Operator move, adding certain negative effect (not (at-robot ?param_1))
+removing (at-robot ?param_1) from possible positive effects
+removing (conn ?param_1 ?param_1) from possible positive effects
+removing (conn ?param_2 ?param_2) from possible positive effects
+removing (locked ?param_1) from possible positive effects
+removing (locked ?param_2) from possible positive effects
+removing (arm-empty) from possible negative effects
+removing (at-robot ?param_2) from possible negative effects
+removing (conn ?param_1 ?param_2) from possible negative effects
+removing (conn ?param_2 ?param_1) from possible negative effects
+removing (open ?param_1) from possible negative effects
+removing (open ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.99  |  30  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 303
+Random action chosen
+Not Successfully executed action 294: unlock(f2-1f,f1-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.19  |  31  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 304
+Random action chosen
+Not Successfully executed action 297: unlock(f2-1f,f2-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.36  |  32  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 306
+Random action chosen
+Not Successfully executed action 149: pickup(f1-1f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.55  |  33  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 308
+Random action chosen
+Not Successfully executed action 173: putdown(f1-1f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.70  |  34  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 310
+Random action chosen
+Not Successfully executed action 232: unlock(f1-0f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.86  |  35  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 311
+Random action chosen
+Not Successfully executed action 293: unlock(f2-1f,f1-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.04  |  36  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 313
+Random action chosen
+Not Successfully executed action 162: pickup-and-loose(f1-2f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.25  |  37  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 314
+Random action chosen
+Not Successfully executed action 246: unlock(f1-1f,f1-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.39  |  38  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 315
+Random action chosen
+Not Successfully executed action 256: unlock(f1-2f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.55  |  39  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 316
+Random action chosen
+Not Successfully executed action 257: unlock(f1-2f,f1-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.71  |  40  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 317
+Random action chosen
+Not Successfully executed action 234: unlock(f1-0f,f1-2f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.88  |  41  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 318
+Random action chosen
+Not Successfully executed action 174: putdown(f1-2f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.04  |  42  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 319
+Random action chosen
+Not Successfully executed action 160: pickup-and-loose(f1-0f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.19  |  43  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not executable actions: 320
+Random action chosen
+Not Successfully executed action 77: move(f1-2f,f1-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.35  |  44  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+operator move, adding certain precondition: (open ?param_2)
+Not executable actions: 321
+Random action chosen
+Not Successfully executed action 176: putdown(f2-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.51  |  45  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:00.763725
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.767704
+Plan computed: True Plan length: 0
+The feasibility of operator move negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.752313
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:00.745741
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 4
+FD computational time: 0:00:00.734027
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 4 is: False
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator unlock with possible preconditions of length 1
+FD computational time: 0:00:00.766214
+Plan computed: True Plan length: 0
+The feasibility of operator unlock with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator unlock with possible preconditions of length 1
+FD computational time: 0:00:00.743558
+Plan computed: False Plan length: None
+The feasibility of operator unlock with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup with possible preconditions of length 1
+FD computational time: 0:00:00.753047
+Plan computed: True Plan length: 0
+The feasibility of operator pickup with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator pickup with possible preconditions of length 1
+FD computational time: 0:00:00.726225
+Plan computed: False Plan length: None
+The feasibility of operator pickup with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 1
+FD computational time: 0:00:00.729914
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 1
+FD computational time: 0:00:00.726571
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator putdown with possible preconditions of length 1
+FD computational time: 0:00:00.721425
+Plan computed: True Plan length: 0
+The feasibility of operator putdown with possible preconditions of length 1 is: True
+
+
+Checking feasibility of operator putdown with possible preconditions of length 1
+FD computational time: 0:00:00.731504
+Plan computed: False Plan length: None
+The feasibility of operator putdown with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator unlock with possible preconditions of length 2
+FD computational time: 0:00:00.840181
+Plan computed: True Plan length: 0
+The feasibility of operator unlock with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator unlock with possible preconditions of length 2
+FD computational time: 0:00:00.724452
+Plan computed: True Plan length: 4
+The feasibility of operator unlock with possible preconditions of length 2 is: True
+Successfully executed action 74: move(f1-2f,f0-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.72  |  46  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Successfully executed action 25: move(f0-2f,f0-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.73  |  47  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Successfully executed action 12: move(f0-1f,f0-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.74  |  48  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Successfully executed action 4: move(f0-0f,f1-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.75  |  49  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not successfully executed action 184: unlock(f0-0f,f1-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.97  |  50  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+Not successfully executed action 228: unlock(f1-0f,f0-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.98  |  51  |    17    |     6     |   7    |    1    |   7    |    1    |  14   |   3   |   6   |   0   |   6   |   0   |    0.18    |   0.14   |   0.14   |     0.50      |    0.20     |    1.00     |   0.16   |    0.62     
+
+
+
+
+Checking feasibility of operator unlock with possible preconditions of length 2
+FD computational time: 0:00:00.713503
+Plan computed: False Plan length: None
+The feasibility of operator unlock with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator pickup with possible preconditions of length 2
+FD computational time: 0:00:00.718847
+Plan computed: True Plan length: 0
+The feasibility of operator pickup with possible preconditions of length 2 is: True
+Successfully executed action 148: pickup(f1-0f,key0-0)
+operator pickup, adding certain precondition: (at ?param_2 ?param_1)
+operator pickup, adding certain precondition: (at-robot ?param_1)
+Operator pickup, adding certain positive effect (holding ?param_2)
+Operator pickup, adding certain negative effect (not (arm-empty))
+Operator pickup, adding certain negative effect (not (at ?param_2 ?param_1))
+removing (arm-empty) from possible positive effects
+removing (at ?param_2 ?param_1) from possible positive effects
+removing (conn ?param_1 ?param_1) from possible positive effects
+removing (locked ?param_1) from possible positive effects
+removing (at-robot ?param_1) from possible negative effects
+removing (holding ?param_2) from possible negative effects
+removing (open ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.67  |  52  |    17    |    10     |   7    |    2    |   7    |    3    |  11   |   4   |   5   |   0   |   4   |   0   |    0.35    |   0.29   |   0.43   |     0.60      |    0.40     |    1.00     |   0.35   |    0.73     
+
+
+Not executable actions: 154
+Random action chosen
+Not Successfully executed action 165: pickup-and-loose(f2-1f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 21.99  |  53  |    17    |    10     |   7    |    2    |   7    |    3    |  11   |   4   |   5   |   0   |   4   |   0   |    0.35    |   0.29   |   0.43   |     0.60      |    0.40     |    1.00     |   0.35   |    0.73     
+
+
+Not executable actions: 156
+Random action chosen
+Not Successfully executed action 285: unlock(f2-0f,f2-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.18  |  54  |    17    |    10     |   7    |    2    |   7    |    3    |  11   |   4   |   5   |   0   |   4   |   0   |    0.35    |   0.29   |   0.43   |     0.60      |    0.40     |    1.00     |   0.35   |    0.73     
+
+
+Not executable actions: 174
+Random action chosen
+Not Successfully executed action 192: unlock(f0-1f,f0-0f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.53  |  55  |    17    |    10     |   7    |    2    |   7    |    3    |  11   |   4   |   5   |   0   |   4   |   0   |    0.35    |   0.29   |   0.43   |     0.60      |    0.40     |    1.00     |   0.35   |    0.73     
+
+
+Not executable actions: 255
+Random action chosen
+Successfully executed action 233: unlock(f1-0f,f1-1f,key0-0,shape0)
+operator unlock, adding certain precondition: (holding ?param_3)
+operator unlock, adding certain precondition: (at-robot ?param_1)
+Operator unlock, adding certain positive effect (open ?param_2)
+Operator unlock, adding certain negative effect (not (locked ?param_2))
+removing (arm-empty) from possible positive effects
+removing (at ?param_3 ?param_1) from possible positive effects
+removing (at ?param_3 ?param_2) from possible positive effects
+removing (at-robot ?param_2) from possible positive effects
+removing (conn ?param_1 ?param_1) from possible positive effects
+removing (conn ?param_2 ?param_2) from possible positive effects
+removing (lock-shape ?param_1 ?param_4) from possible positive effects
+removing (locked ?param_1) from possible positive effects
+removing (locked ?param_2) from possible positive effects
+removing (at-robot ?param_1) from possible negative effects
+removing (conn ?param_1 ?param_2) from possible negative effects
+removing (conn ?param_2 ?param_1) from possible negative effects
+removing (holding ?param_3) from possible negative effects
+removing (key-shape ?param_3 ?param_4) from possible negative effects
+removing (lock-shape ?param_2 ?param_4) from possible negative effects
+removing (open ?param_1) from possible negative effects
+removing (open ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.83  |  56  |    17    |    18     |   7    |    3    |   7    |    4    |   5   |   6   |   4   |   0   |   3   |   0   |    0.71    |   0.43   |   0.57   |     0.67      |    0.60     |    1.00     |   0.61   |    0.76     
+
+
+Not executable actions: 286
+Random action chosen
+Not Successfully executed action 167: pickup-and-loose(f2-3f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.07  |  57  |    17    |    18     |   7    |    3    |   7    |    4    |   5   |   6   |   4   |   0   |   3   |   0   |    0.71    |   0.43   |   0.57   |     0.67      |    0.60     |    1.00     |   0.61   |    0.76     
+
+
+Not executable actions: 296
+Random action chosen
+Not Successfully executed action 171: putdown(f0-3f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.29  |  58  |    17    |    18     |   7    |    3    |   7    |    4    |   5   |   6   |   4   |   0   |   3   |   0   |    0.71    |   0.43   |   0.57   |     0.67      |    0.60     |    1.00     |   0.61   |    0.76     
+
+
+Not executable actions: 306
+Random action chosen
+Not Successfully executed action 177: putdown(f2-1f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.48  |  59  |    17    |    18     |   7    |    3    |   7    |    4    |   5   |   6   |   4   |   0   |   3   |   0   |    0.71    |   0.43   |   0.57   |     0.67      |    0.60     |    1.00     |   0.61   |    0.76     
+
+
+Not executable actions: 307
+Random action chosen
+Successfully executed action 172: putdown(f1-0f,key0-0)
+operator putdown, adding certain precondition: (holding ?param_2)
+operator putdown, adding certain precondition: (at-robot ?param_1)
+Operator putdown, adding certain positive effect (arm-empty)
+Operator putdown, adding certain positive effect (at ?param_2 ?param_1)
+Operator putdown, adding certain negative effect (not (holding ?param_2))
+removing (conn ?param_1 ?param_1) from possible positive effects
+removing (holding ?param_2) from possible positive effects
+removing (locked ?param_1) from possible positive effects
+removing (arm-empty) from possible negative effects
+removing (at ?param_2 ?param_1) from possible negative effects
+removing (at-robot ?param_1) from possible negative effects
+removing (open ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.66  |  60  |    17    |    21     |   7    |    5    |   7    |    5    |   3   |   7   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.67      |    0.83     |    1.00     |   0.77   |    0.77     
+
+
+Not executable actions: 319
+Random action chosen
+Not Successfully executed action 160: pickup-and-loose(f1-0f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 23.89  |  61  |    17    |    21     |   7    |    5    |   7    |    5    |   3   |   7   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.67      |    0.83     |    1.00     |   0.77   |    0.77     
+
+
+Not executable actions: 320
+Random action chosen
+Not Successfully executed action 158: pickup-and-loose(f0-2f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.08  |  62  |    17    |    21     |   7    |    5    |   7    |    5    |   3   |   7   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.67      |    0.83     |    1.00     |   0.77   |    0.77     
+
+
+
+
+Refining learned operators
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:00.766060
+Plan computed: True Plan length: 1
+The feasibility of operator move negated preconditions of length 1 is: True
+Successfully executed action 148: pickup(f1-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 24.87  |  63  |    17    |    21     |   7    |    5    |   7    |    5    |   3   |   7   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.67      |    0.83     |    1.00     |   0.77   |    0.77     
+
+
+Successfully executed action 48: move(f1-0f,f0-0f)
+operator move, removed uncertain preconditions ['(arm-empty)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.12  |  64  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:00.752903
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup negated preconditions of length 1
+FD computational time: 0:00:00.730615
+Plan computed: False Plan length: None
+The feasibility of operator pickup negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator putdown negated preconditions of length 1
+FD computational time: 0:00:00.724615
+Plan computed: False Plan length: None
+The feasibility of operator putdown negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 1
+FD computational time: 0:00:00.739201
+Plan computed: True Plan length: 1
+The feasibility of operator unlock negated preconditions of length 1 is: True
+Successfully executed action 1: move(f0-0f,f0-1f)
+removing (arm-empty) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.11  |  65  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+Not successfully executed action 197: unlock(f0-1f,f1-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 28.33  |  66  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+operator unlock, adding certain precondition: (locked ?param_2)
+
+
+Checking feasibility of operator unlock negated preconditions of length 1
+FD computational time: 0:00:00.727633
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.712700
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator pickup negated preconditions of length 2
+FD computational time: 0:00:00.730889
+Plan computed: False Plan length: None
+The feasibility of operator pickup negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 2
+FD computational time: 0:00:00.748042
+Plan computed: True Plan length: 0
+The feasibility of operator unlock negated preconditions of length 2 is: True
+Not successfully executed action 201: unlock(f0-1f,f2-1f,key0-0,shape0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 31.45  |  67  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator unlock negated preconditions of length 2
+FD computational time: 0:00:00.732796
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:00.725303
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 3
+FD computational time: 0:00:00.755664
+Plan computed: True Plan length: 1
+The feasibility of operator unlock negated preconditions of length 3 is: True
+Successfully executed action 12: move(f0-1f,f0-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 33.70  |  68  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator unlock negated preconditions of length 3
+FD computational time: 0:00:00.749195
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 4
+FD computational time: 0:00:00.761202
+Plan computed: True Plan length: 0
+The feasibility of operator unlock negated preconditions of length 4 is: True
+
+
+Checking feasibility of operator unlock negated preconditions of length 4
+FD computational time: 0:00:00.752113
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 5
+FD computational time: 0:00:00.714666
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator unlock negated preconditions of length 6
+FD computational time: 0:00:00.716474
+Plan computed: False Plan length: None
+The feasibility of operator unlock negated preconditions of length 6 is: False
+
+
+ Trying to learn a new operator
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 1
+FD computational time: 0:00:00.726170
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 1 is: True
+Not successfully executed action 156: pickup-and-loose(f0-0f,key0-0,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 38.67  |  69  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 1
+FD computational time: 0:00:00.725615
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 2
+FD computational time: 0:00:00.744409
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 2 is: True
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 2
+FD computational time: 0:00:00.704847
+Plan computed: True Plan length: 1
+The feasibility of operator pickup-and-loose with possible preconditions of length 2 is: True
+Successfully executed action 168: putdown(f0-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 41.01  |  70  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 2
+FD computational time: 0:00:00.739225
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 2 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 3
+FD computational time: 0:00:00.779738
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 3 is: True
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 3
+FD computational time: 0:00:00.759412
+Plan computed: True Plan length: 1
+The feasibility of operator pickup-and-loose with possible preconditions of length 3 is: True
+Successfully executed action 144: pickup(f0-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 43.63  |  71  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 3
+FD computational time: 0:00:00.771207
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 3 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 4
+FD computational time: 0:00:00.795462
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 4 is: True
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 4
+FD computational time: 0:00:00.795837
+Plan computed: True Plan length: 1
+The feasibility of operator pickup-and-loose with possible preconditions of length 4 is: True
+Successfully executed action 168: putdown(f0-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.35  |  72  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 4
+FD computational time: 0:00:00.785235
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 4 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 5
+FD computational time: 0:00:00.745597
+Plan computed: True Plan length: 0
+The feasibility of operator pickup-and-loose with possible preconditions of length 5 is: True
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 5
+FD computational time: 0:00:00.771933
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 5 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 6
+FD computational time: 0:00:00.757383
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 6 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 7
+FD computational time: 0:00:00.734465
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 7 is: False
+
+
+Checking feasibility of operator pickup-and-loose with possible preconditions of length 8
+FD computational time: 0:00:00.731293
+Plan computed: False Plan length: None
+The feasibility of operator pickup-and-loose with possible preconditions of length 8 is: False
+
+
+
+
+Model convergence reached, although not all operators have been learned 
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+Operator pickup does not admit new positive effects
+Operator unlock does not admit new positive effects
+Operator putdown does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:00.733631
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup with possible negative effects
+FD computational time: 0:00:00.712031
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unlock with possible negative effects
+FD computational time: 0:00:00.766194
+Plan computed: True Plan length: 3
+Successfully executed action 144: pickup(f0-0f,key0-0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.48  |  73  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+Successfully executed action 4: move(f0-0f,f1-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.50  |  74  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+Successfully executed action 53: move(f1-0f,f1-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.51  |  75  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+Successfully executed action 249: unlock(f1-1f,f2-1f,key0-0,shape0)
+removing (lock-shape ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 53.53  |  76  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+
+
+Checking feasibility of operator unlock with possible negative effects
+FD computational time: 0:00:00.748472
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown with possible negative effects
+FD computational time: 0:00:00.729302
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+Operator pickup has no known positive effects to check
+Operator unlock has no known positive effects to check
+Operator putdown has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+Operator pickup has no known negative effects to check
+Operator unlock has no known negative effects to check
+Operator putdown has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 55.03  |  77  |    17    |    20     |   7    |    5    |   7    |    5    |   3   |   6   |   2   |   0   |   2   |   0   |    0.82    |   0.71   |   0.71   |     0.70      |    0.83     |    1.00     |   0.77   |    0.80     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 55.03  |  77  |    17    |    20     |   7    |    5    |   7    |   29    |   3   |   6   |   2   |   0   |   0   |  22   |    0.82    |   0.71   |   1.00   |     0.70      |    0.83     |    0.24     |   0.84   |    0.48     
+
+

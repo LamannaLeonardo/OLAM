@@ -1,0 +1,540 @@
+{
+  "drive-truck": [
+    [
+      "(at ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)"
+    ],
+    [
+      "(at ?param_4 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(driving ?param_4 ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)"
+    ],
+    [
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(empty ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(empty ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_2)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(empty ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_4 ?param_3)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_2)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(at ?param_4 ?param_2)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_4 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_2 ?param_3)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)",
+      "(link ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(driving ?param_4 ?param_1)",
+      "(link ?param_2 ?param_3)",
+      "(link ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_3)",
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_2 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(driving ?param_4 ?param_1)",
+      "(path ?param_3 ?param_2)"
+    ]
+  ],
+  "walk": [
+    [
+      "(at ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_1 ?param_3)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(at ?param_1 ?param_3)"
+    ]
+  ]
+}

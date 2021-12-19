@@ -1,0 +1,12 @@
+{
+  "drive": [
+    "(not (at ?param_1 ?param_2))",
+    "(not (fuel ?param_1 ?param_6))"
+  ],
+  "load": [
+    "(not (at ?param_1 ?param_3))"
+  ],
+  "unload": [
+    "(not (in ?param_1 ?param_2))"
+  ]
+}

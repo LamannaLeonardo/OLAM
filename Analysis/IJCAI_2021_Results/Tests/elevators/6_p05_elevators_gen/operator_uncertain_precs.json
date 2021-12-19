@@ -1,0 +1,23 @@
+{
+  "board": [
+    "(reachable-floor ?param_2 ?param_3)",
+    "(above ?param_4 ?param_5)"
+  ],
+  "leave": [
+    "(can-hold ?param_2 ?param_4)",
+    "(reachable-floor ?param_2 ?param_3)",
+    "(above ?param_5 ?param_4)"
+  ],
+  "move-down-fast": [
+    "(reachable-floor ?param_1 ?param_2)"
+  ],
+  "move-down-slow": [
+    "(reachable-floor ?param_1 ?param_2)"
+  ],
+  "move-up-fast": [
+    "(reachable-floor ?param_1 ?param_2)"
+  ],
+  "move-up-slow": [
+    "(reachable-floor ?param_1 ?param_2)"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "board": [
+    [
+      "(at-ferry ?param_2)"
+    ],
+    [
+      "(empty-ferry)"
+    ],
+    [
+      "(at ?param_1 ?param_2)"
+    ],
+    [
+      "(at-ferry ?param_2)",
+      "(empty-ferry)"
+    ],
+    [
+      "(at ?param_1 ?param_2)",
+      "(empty-ferry)"
+    ]
+  ],
+  "debark": [
+    [
+      "(at-ferry ?param_2)"
+    ],
+    [
+      "(empty-ferry)"
+    ],
+    [
+      "(at ?param_1 ?param_2)"
+    ]
+  ]
+}

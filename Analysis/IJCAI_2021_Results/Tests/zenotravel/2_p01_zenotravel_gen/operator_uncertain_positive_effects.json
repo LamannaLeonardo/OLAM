@@ -1,0 +1,19 @@
+{
+  "board": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "debark": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "fly": [
+    "(next ?param_5 ?param_4)"
+  ],
+  "zoom": [
+    "(next ?param_5 ?param_4)",
+    "(next ?param_6 ?param_5)"
+  ],
+  "refuel": [
+    "(at ?param_1 ?param_2)",
+    "(next ?param_3 ?param_4)"
+  ]
+}

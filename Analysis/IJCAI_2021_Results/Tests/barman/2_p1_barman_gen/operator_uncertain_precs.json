@@ -1,0 +1,31 @@
+{
+  "clean-shaker": [
+    "(empty ?param_3)",
+    "(clean ?param_3)"
+  ],
+  "clean-shot": [],
+  "empty-shaker": [],
+  "empty-shot": [
+    "(used ?param_2 ?param_3)"
+  ],
+  "fill-shot": [
+    "(empty ?param_1)"
+  ],
+  "grasp": [],
+  "leave": [],
+  "pour-shaker-to-shot": [],
+  "pour-shot-to-clean-shaker": [
+    "(shaker-empty-level ?param_3 ?param_5)",
+    "(used ?param_1 ?param_2)",
+    "(shaker-level ?param_3 ?param_5)",
+    "(empty ?param_3)",
+    "(clean ?param_3)"
+  ],
+  "pour-shot-to-used-shaker": [
+    "(unshaked ?param_3)",
+    "(used ?param_1 ?param_2)",
+    "(contains ?param_3 ?param_2)"
+  ],
+  "refill-shot": [],
+  "shake": []
+}

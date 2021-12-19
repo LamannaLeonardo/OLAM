@@ -1,0 +1,58 @@
+{
+  "grasp": [],
+  "leave": [],
+  "fill-shot": [
+    "(dispenses ?param_5 ?param_2)",
+    "(handempty ?param_4)",
+    "(holding ?param_3 ?param_1)"
+  ],
+  "refill-shot": [
+    "(dispenses ?param_5 ?param_2)",
+    "(handempty ?param_4)",
+    "(holding ?param_3 ?param_1)",
+    "(used ?param_1 ?param_2)"
+  ],
+  "empty-shot": [
+    "(holding ?param_1 ?param_2)"
+  ],
+  "clean-shot": [
+    "(empty ?param_1)",
+    "(handempty ?param_4)",
+    "(holding ?param_3 ?param_1)"
+  ],
+  "pour-shot-to-clean-shaker": [
+    "(holding ?param_4 ?param_1)",
+    "(next ?param_5 ?param_6)",
+    "(shaker-empty-level ?param_3 ?param_5)",
+    "(used ?param_1 ?param_2)"
+  ],
+  "pour-shot-to-used-shaker": [
+    "(holding ?param_4 ?param_1)",
+    "(next ?param_5 ?param_6)",
+    "(unshaked ?param_3)",
+    "(used ?param_1 ?param_2)"
+  ],
+  "empty-shaker": [
+    "(holding ?param_1 ?param_2)",
+    "(next ?param_5 ?param_4)",
+    "(shaker-empty-level ?param_2 ?param_5)"
+  ],
+  "clean-shaker": [
+    "(empty ?param_3)",
+    "(handempty ?param_2)",
+    "(holding ?param_1 ?param_3)"
+  ],
+  "shake": [
+    "(cocktail-part1 ?param_1 ?param_2)",
+    "(cocktail-part2 ?param_1 ?param_3)",
+    "(handempty ?param_6)",
+    "(holding ?param_5 ?param_4)"
+  ],
+  "pour-shaker-to-shot": [
+    "(contains ?param_4 ?param_1)",
+    "(holding ?param_3 ?param_4)",
+    "(next ?param_6 ?param_5)",
+    "(ontable ?param_2)",
+    "(shaked ?param_4)"
+  ]
+}

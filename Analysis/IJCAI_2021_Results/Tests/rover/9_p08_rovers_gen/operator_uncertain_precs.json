@@ -1,0 +1,48 @@
+{
+  "calibrate": [
+    "(available ?param_1)",
+    "(equipped_for_imaging ?param_1)"
+  ],
+  "communicate_image_data": [
+    "(visible ?param_6 ?param_5)",
+    "(channel_free ?param_2)",
+    "(available ?param_1)",
+    "(equipped_for_imaging ?param_1)",
+    "(visible ?param_5 ?param_6)"
+  ],
+  "communicate_rock_data": [
+    "(channel_free ?param_2)",
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(visible ?param_5 ?param_4)",
+    "(visible ?param_4 ?param_5)"
+  ],
+  "communicate_soil_data": [
+    "(channel_free ?param_2)",
+    "(visible ?param_5 ?param_4)",
+    "(available ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(visible ?param_4 ?param_5)"
+  ],
+  "drop": [
+    "(available ?param_1)"
+  ],
+  "navigate": [
+    "(visible ?param_2 ?param_3)",
+    "(available ?param_1)",
+    "(can_traverse ?param_1 ?param_2 ?param_3)",
+    "(visible ?param_3 ?param_2)",
+    "(can_traverse ?param_1 ?param_3 ?param_2)"
+  ],
+  "sample_rock": [
+    "(available ?param_1)"
+  ],
+  "sample_soil": [
+    "(available ?param_1)"
+  ],
+  "take_image": [
+    "(on_board ?param_4 ?param_1)",
+    "(available ?param_1)",
+    "(equipped_for_imaging ?param_1)"
+  ]
+}

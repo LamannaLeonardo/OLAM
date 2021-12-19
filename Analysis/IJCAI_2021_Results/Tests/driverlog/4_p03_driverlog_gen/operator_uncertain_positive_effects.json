@@ -1,0 +1,23 @@
+{
+  "load-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "unload-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "board-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "disembark-truck": [
+    "(at ?param_2 ?param_3)"
+  ],
+  "drive-truck": [
+    "(driving ?param_4 ?param_1)",
+    "(link ?param_2 ?param_3)",
+    "(link ?param_3 ?param_2)"
+  ],
+  "walk": [
+    "(path ?param_2 ?param_3)",
+    "(path ?param_3 ?param_2)"
+  ]
+}

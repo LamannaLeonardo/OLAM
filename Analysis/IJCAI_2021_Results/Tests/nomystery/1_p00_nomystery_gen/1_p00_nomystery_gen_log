@@ -1,0 +1,345 @@
+
+Total actions: 249
+
+Objects list
+	location:3
+	truck:1
+	package:1
+	fuellevel:3
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    9     |     0     |   4    |    0    |   4    |    0    |   9   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 0
+Random action chosen
+Not Successfully executed action 172: drive(t0,l2,l0,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.13  |  1   |    9     |     0     |   4    |    0    |   4    |    0    |   9   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 8
+Random action chosen
+Not Successfully executed action 47: drive(t0,l0,l1,level2,level0,level2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.37  |  2   |    9     |     0     |   4    |    0    |   4    |    0    |   9   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 14
+Random action chosen
+Not Successfully executed action 122: drive(t0,l1,l1,level1,level1,level2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.62  |  3   |    9     |     0     |   4    |    0    |   4    |    0    |   9   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 16
+Random action chosen
+Not Successfully executed action 203: drive(t0,l2,l1,level1,level1,level2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.87  |  4   |    9     |     0     |   4    |    0    |   4    |    0    |   9   |   0   |   4   |   0   |   4   |   0   |    0.00    |   0.00   |   0.00   |     0.00      |    0.00     |    0.00     |   0.00   |    0.00     
+
+
+Not executable actions: 18
+Random action chosen
+Successfully executed action 68: drive(t0,l0,l2,level1,level1,level2)
+operator drive, adding certain precondition: (at ?param_1 ?param_2)
+Operator drive, adding certain positive effect (at ?param_1 ?param_3)
+Operator drive, adding certain negative effect (not (at ?param_1 ?param_2))
+Operator drive, adding certain negative effect (not (fuel ?param_1 ?param_6))
+removing (at ?param_1 ?param_2) from possible positive effects
+removing (connected ?param_2 ?param_2) from possible positive effects
+removing (connected ?param_3 ?param_3) from possible positive effects
+removing (fuel ?param_1 ?param_6) from possible positive effects
+removing (fuelcost ?param_4 ?param_2 ?param_2) from possible positive effects
+removing (fuelcost ?param_4 ?param_3 ?param_3) from possible positive effects
+removing (fuelcost ?param_5 ?param_2 ?param_2) from possible positive effects
+removing (fuelcost ?param_5 ?param_3 ?param_3) from possible positive effects
+removing (fuelcost ?param_6 ?param_2 ?param_2) from possible positive effects
+removing (fuelcost ?param_6 ?param_2 ?param_3) from possible positive effects
+removing (fuelcost ?param_6 ?param_3 ?param_2) from possible positive effects
+removing (fuelcost ?param_6 ?param_3 ?param_3) from possible positive effects
+removing (sum ?param_4 ?param_4 ?param_4) from possible positive effects
+removing (sum ?param_4 ?param_4 ?param_5) from possible positive effects
+removing (sum ?param_4 ?param_4 ?param_6) from possible positive effects
+removing (sum ?param_4 ?param_5 ?param_4) from possible positive effects
+removing (sum ?param_4 ?param_5 ?param_5) from possible positive effects
+removing (sum ?param_4 ?param_6 ?param_4) from possible positive effects
+removing (sum ?param_4 ?param_6 ?param_5) from possible positive effects
+removing (sum ?param_4 ?param_6 ?param_6) from possible positive effects
+removing (sum ?param_5 ?param_4 ?param_4) from possible positive effects
+removing (sum ?param_5 ?param_4 ?param_5) from possible positive effects
+removing (sum ?param_5 ?param_5 ?param_4) from possible positive effects
+removing (sum ?param_5 ?param_5 ?param_5) from possible positive effects
+removing (sum ?param_5 ?param_5 ?param_6) from possible positive effects
+removing (sum ?param_5 ?param_6 ?param_4) from possible positive effects
+removing (sum ?param_5 ?param_6 ?param_5) from possible positive effects
+removing (sum ?param_5 ?param_6 ?param_6) from possible positive effects
+removing (sum ?param_6 ?param_4 ?param_4) from possible positive effects
+removing (sum ?param_6 ?param_4 ?param_5) from possible positive effects
+removing (sum ?param_6 ?param_4 ?param_6) from possible positive effects
+removing (sum ?param_6 ?param_5 ?param_4) from possible positive effects
+removing (sum ?param_6 ?param_5 ?param_5) from possible positive effects
+removing (sum ?param_6 ?param_5 ?param_6) from possible positive effects
+removing (sum ?param_6 ?param_6 ?param_4) from possible positive effects
+removing (sum ?param_6 ?param_6 ?param_5) from possible positive effects
+removing (sum ?param_6 ?param_6 ?param_6) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (connected ?param_2 ?param_3) from possible negative effects
+removing (connected ?param_3 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.13  |  5   |    9     |    12     |   4    |    1    |   4    |    2    |   4   |   7   |   3   |   0   |   2   |   0   |    0.56    |   0.25   |   0.50   |     0.42      |    0.33     |    1.00     |   0.47   |    0.53     
+
+
+Not executable actions: 197
+Random action chosen
+Not Successfully executed action 246: unload(p0,t0,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.42  |  6   |    9     |    12     |   4    |    1    |   4    |    2    |   4   |   7   |   3   |   0   |   2   |   0   |    0.56    |   0.25   |   0.50   |     0.42      |    0.33     |    1.00     |   0.47   |    0.53     
+
+
+Not executable actions: 199
+Random action chosen
+Not Successfully executed action 248: unload(p0,t0,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.60  |  7   |    9     |    12     |   4    |    1    |   4    |    2    |   4   |   7   |   3   |   0   |   2   |   0   |    0.56    |   0.25   |   0.50   |     0.42      |    0.33     |    1.00     |   0.47   |    0.53     
+
+
+Not executable actions: 200
+Random action chosen
+Not Successfully executed action 244: load(p0,t0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.75  |  8   |    9     |    12     |   4    |    1    |   4    |    2    |   4   |   7   |   3   |   0   |   2   |   0   |    0.56    |   0.25   |   0.50   |     0.42      |    0.33     |    1.00     |   0.47   |    0.53     
+
+
+Not executable actions: 202
+Random action chosen
+Successfully executed action 245: load(p0,t0,l2)
+Operator load, adding certain positive effect (in ?param_1 ?param_2)
+Operator load, adding certain negative effect (not (at ?param_1 ?param_3))
+removing (at ?param_1 ?param_3) from possible positive effects
+removing (connected ?param_3 ?param_3) from possible positive effects
+removing (at ?param_2 ?param_3) from possible negative effects
+removing (in ?param_1 ?param_2) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.90  |  9   |    9     |    14     |   4    |    2    |   4    |    3    |   2   |   7   |   2   |   0   |   1   |   0   |    0.78    |   0.50   |   0.75   |     0.50      |    0.67     |    1.00     |   0.71   |    0.63     
+
+
+Not executable actions: 199
+Random action chosen
+Not Successfully executed action 247: unload(p0,t0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.14  |  10  |    9     |    14     |   4    |    2    |   4    |    3    |   2   |   7   |   2   |   0   |   1   |   0   |    0.78    |   0.50   |   0.75   |     0.50      |    0.67     |    1.00     |   0.71   |    0.63     
+
+
+Not executable actions: 201
+Random action chosen
+Successfully executed action 248: unload(p0,t0,l2)
+operator unload, adding certain precondition: (in ?param_1 ?param_2)
+operator unload, adding certain precondition: (at ?param_2 ?param_3)
+Operator unload, adding certain positive effect (at ?param_1 ?param_3)
+Operator unload, adding certain negative effect (not (in ?param_1 ?param_2))
+removing (connected ?param_3 ?param_3) from possible positive effects
+removing (in ?param_1 ?param_2) from possible positive effects
+removing (at ?param_1 ?param_3) from possible negative effects
+removing (at ?param_2 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.34  |  11  |    9     |    16     |   4    |    3    |   4    |    4    |   0   |   7   |   1   |   0   |   0   |   0   |    1.00    |   0.75   |   1.00   |     0.56      |    1.00     |    1.00     |   0.94   |    0.70     
+
+
+Not executable actions: 202
+Random action chosen
+Not Successfully executed action 176: drive(t0,l2,l0,level1,level1,level2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.60  |  12  |    9     |    16     |   4    |    3    |   4    |    4    |   0   |   7   |   1   |   0   |   0   |   0   |    1.00    |   0.75   |   1.00   |     0.56      |    1.00     |    1.00     |   0.94   |    0.70     
+
+
+operator drive, adding certain precondition: (fuel ?param_1 ?param_6)
+Not executable actions: 238
+Random action chosen
+Not Successfully executed action 199: drive(t0,l2,l1,level1,level0,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  2.81  |  13  |    9     |    16     |   4    |    3    |   4    |    4    |   0   |   7   |   1   |   0   |   0   |   0   |    1.00    |   0.75   |   1.00   |     0.56      |    1.00     |    1.00     |   0.94   |    0.70     
+
+
+Not executable actions: 242
+Random action chosen
+Not Successfully executed action 202: drive(t0,l2,l1,level1,level1,level1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.00  |  14  |    9     |    16     |   4    |    3    |   4    |    4    |   0   |   7   |   1   |   0   |   0   |   0   |    1.00    |   0.75   |   1.00   |     0.56      |    1.00     |    1.00     |   0.94   |    0.70     
+
+
+Not executable actions: 246
+Random action chosen
+Successfully executed action 166: drive(t0,l2,l0,level0,level1,level1)
+operator drive, removed uncertain preconditions ['(fuelcost ?param_4 ?param_2 ?param_3)', '(fuelcost ?param_4 ?param_3 ?param_2)', '(sum ?param_4 ?param_4 ?param_6)', '(sum ?param_5 ?param_5 ?param_6)']
+Operator drive, adding certain positive effect (fuel ?param_1 ?param_4)
+removing (fuel ?param_1 ?param_5) from possible positive effects
+removing (fuelcost ?param_4 ?param_2 ?param_3) from possible positive effects
+removing (fuelcost ?param_4 ?param_3 ?param_2) from possible positive effects
+removing (fuel ?param_1 ?param_4) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.16  |  15  |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+Not executable actions: 247
+Random action chosen
+Not Successfully executed action 243: load(p0,t0,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.37  |  16  |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+operator load, adding certain precondition: (at ?param_1 ?param_3)
+Not executable actions: 248
+Random action chosen
+Not Successfully executed action 245: load(p0,t0,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.53  |  17  |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+operator load, adding certain precondition: (at ?param_2 ?param_3)
+Not executable actions: 249
+Random action chosen
+
+
+Checking feasibility of operator drive negated preconditions of length 1
+FD computational time: 0:00:00.759361
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 2
+FD computational time: 0:00:00.795920
+Plan computed: True Plan length: 0
+The feasibility of operator drive negated preconditions of length 2 is: True
+
+
+Checking feasibility of operator drive negated preconditions of length 2
+FD computational time: 0:00:00.772700
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 3
+FD computational time: 0:00:00.785239
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 4
+FD computational time: 0:00:00.759890
+Plan computed: True Plan length: 0
+The feasibility of operator drive negated preconditions of length 4 is: True
+
+
+Checking feasibility of operator drive negated preconditions of length 4
+FD computational time: 0:00:00.768606
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 5
+FD computational time: 0:00:00.782305
+Plan computed: False Plan length: None
+The feasibility of operator drive negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator drive negated preconditions of length 6
+FD computational time: 0:00:00.795655
+Plan computed: True Plan length: 0
+The feasibility of operator drive negated preconditions of length 6 is: True
+
+
+
+Looking for new positive effects of learned operators
+Operator drive does not admit new positive effects
+Operator load does not admit new positive effects
+Operator unload does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator drive with possible negative effects
+FD computational time: 0:00:00.887151
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator load with possible negative effects
+FD computational time: 0:00:00.788692
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator unload with possible negative effects
+FD computational time: 0:00:00.789052
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator drive has no known positive effects to check
+Operator load has no known positive effects to check
+Operator unload has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator drive has no known negative effects to check
+Operator load has no known negative effects to check
+Operator unload has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.95  |  18  |    9     |    12     |   4    |    4    |   4    |    4    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    1.00     |   1.00   |    0.85     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 12.95  |  18  |    9     |    12     |   4    |    4    |   4    |   48    |   0   |   3   |   0   |   0   |   0   |  44   |    1.00    |   1.00   |   1.00   |     0.75      |    1.00     |    0.08     |   1.00   |    0.27     
+
+

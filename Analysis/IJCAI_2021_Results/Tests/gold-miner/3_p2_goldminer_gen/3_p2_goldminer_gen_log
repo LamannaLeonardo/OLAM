@@ -1,0 +1,366 @@
+
+Total actions: 480
+
+Objects list
+	loc:12
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Not executable actions: 476
+Random action chosen
+Not Successfully executed action 288: move(f0-0f,f0-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.24  |  1   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Not executable actions: 479
+Random action chosen
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 1
+FD computational time: 0:00:01.351657
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 1
+FD computational time: 0:00:01.571269
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:01.461193
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pick-gold negated preconditions of length 1
+FD computational time: 0:00:00.970523
+Plan computed: False Plan length: None
+The feasibility of operator pick-gold negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-bomb negated preconditions of length 1
+FD computational time: 0:00:00.800074
+Plan computed: False Plan length: None
+The feasibility of operator pickup-bomb negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pickup-laser negated preconditions of length 1
+FD computational time: 0:00:01.653079
+Plan computed: False Plan length: None
+The feasibility of operator pickup-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator putdown-laser negated preconditions of length 1
+FD computational time: 0:00:01.636765
+Plan computed: False Plan length: None
+The feasibility of operator putdown-laser negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 2
+FD computational time: 0:00:00.791669
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 2
+FD computational time: 0:00:00.778017
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 2
+FD computational time: 0:00:00.782221
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator detonate-bomb negated preconditions of length 3
+FD computational time: 0:00:01.541943
+Plan computed: False Plan length: None
+The feasibility of operator detonate-bomb negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator fire-laser negated preconditions of length 3
+FD computational time: 0:00:01.588697
+Plan computed: False Plan length: None
+The feasibility of operator fire-laser negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator move negated preconditions of length 3
+FD computational time: 0:00:01.460688
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 3 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator detonate-bomb does not admit new positive effects
+Operator fire-laser does not admit new positive effects
+Operator move does not admit new positive effects
+Operator pick-gold does not admit new positive effects
+Operator pickup-bomb does not admit new positive effects
+Operator pickup-laser does not admit new positive effects
+Operator putdown-laser does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator detonate-bomb with possible negative effects
+FD computational time: 0:00:00.830271
+Plan computed: True Plan length: 15
+Successfully executed action 291: move(f0-0f,f1-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.78  |  2   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 330: move(f1-0f,f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.80  |  3   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 462: pickup-laser(f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.81  |  4   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 223: fire-laser(f2-0f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.83  |  5   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 367: move(f2-0f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.84  |  6   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 232: fire-laser(f2-1f,f1-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.86  |  7   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 475: putdown-laser(f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.87  |  8   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 378: move(f2-1f,f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.89  |  9   |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 450: pickup-bomb(f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.90  |  10  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 367: move(f2-0f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.92  |  11  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 92: detonate-bomb(f2-1f,f2-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.93  |  12  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 378: move(f2-1f,f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.94  |  13  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 450: pickup-bomb(f2-0f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.96  |  14  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 367: move(f2-0f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.97  |  15  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 380: move(f2-1f,f2-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 17.99  |  16  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 107: detonate-bomb(f2-2f,f3-2f)
+removing (gold-at ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 18.01  |  17  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+
+
+Checking feasibility of operator detonate-bomb with possible negative effects
+FD computational time: 0:00:00.888865
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator fire-laser with possible negative effects
+FD computational time: 0:00:00.817757
+Plan computed: True Plan length: 3
+Successfully executed action 391: move(f2-2f,f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.75  |  18  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 463: pickup-laser(f2-1f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.77  |  19  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 380: move(f2-1f,f2-2f)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.79  |  20  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 245: fire-laser(f2-2f,f1-2f)
+removing (gold-at ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 19.82  |  21  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+
+
+Checking feasibility of operator fire-laser with possible negative effects
+FD computational time: 0:00:00.870020
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:00.864175
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pick-gold with possible negative effects
+FD computational time: 0:00:00.763657
+Plan computed: True Plan length: 1
+Successfully executed action 476: putdown-laser(f2-2f)
+removing (gold-at ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.35  |  22  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+Successfully executed action 440: pick-gold(f2-2f)
+removing (laser-at ?param_1) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 22.37  |  23  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+
+
+Checking feasibility of operator pick-gold with possible negative effects
+FD computational time: 0:00:00.750280
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup-bomb with possible negative effects
+FD computational time: 0:00:00.744667
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pickup-laser with possible negative effects
+FD computational time: 0:00:00.756154
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator putdown-laser with possible negative effects
+FD computational time: 0:00:00.749361
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator detonate-bomb has no known positive effects to check
+Operator fire-laser has no known positive effects to check
+Operator move has no known positive effects to check
+Operator pick-gold has no known positive effects to check
+Operator pickup-bomb has no known positive effects to check
+Operator pickup-laser has no known positive effects to check
+Operator putdown-laser has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator detonate-bomb has no known negative effects to check
+Operator fire-laser has no known negative effects to check
+Operator move has no known negative effects to check
+Operator pick-gold has no known negative effects to check
+Operator pickup-bomb has no known negative effects to check
+Operator pickup-laser has no known negative effects to check
+Operator putdown-laser has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.40  |  24  |    21    |    31     |   9    |    9    |   11   |   11    |   0   |  10   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    1.00     |   1.00   |    0.80     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 25.40  |  24  |    21    |    31     |   9    |    9    |   11   |   60    |   0   |  10   |   0   |   0   |   0   |  49   |    1.00    |   1.00   |   1.00   |     0.68      |    1.00     |    0.18     |   1.00   |    0.41     
+
+

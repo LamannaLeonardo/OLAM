@@ -1,0 +1,36 @@
+{
+  "move-up-slow": [
+    "(above ?param_2 ?param_3)",
+    "(reachable-floor ?param_1 ?param_2)",
+    "(reachable-floor ?param_1 ?param_3)"
+  ],
+  "move-down-slow": [
+    "(above ?param_3 ?param_2)",
+    "(reachable-floor ?param_1 ?param_2)",
+    "(reachable-floor ?param_1 ?param_3)"
+  ],
+  "move-up-fast": [
+    "(above ?param_2 ?param_3)",
+    "(reachable-floor ?param_1 ?param_2)",
+    "(reachable-floor ?param_1 ?param_3)"
+  ],
+  "move-down-fast": [
+    "(above ?param_3 ?param_2)",
+    "(reachable-floor ?param_1 ?param_2)",
+    "(reachable-floor ?param_1 ?param_3)"
+  ],
+  "board": [
+    "(above ?param_4 ?param_5)",
+    "(can-hold ?param_2 ?param_5)",
+    "(lift-at ?param_2 ?param_3)",
+    "(next ?param_4 ?param_5)",
+    "(reachable-floor ?param_2 ?param_3)"
+  ],
+  "leave": [
+    "(above ?param_5 ?param_4)",
+    "(can-hold ?param_2 ?param_4)",
+    "(lift-at ?param_2 ?param_3)",
+    "(next ?param_5 ?param_4)",
+    "(reachable-floor ?param_2 ?param_3)"
+  ]
+}

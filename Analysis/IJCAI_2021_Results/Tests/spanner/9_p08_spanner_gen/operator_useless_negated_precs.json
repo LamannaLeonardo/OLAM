@@ -1,0 +1,11 @@
+{
+  "pickup_spanner": [],
+  "tighten_nut": [
+    [
+      "(carrying ?param_3 ?param_2)"
+    ],
+    [
+      "(loose ?param_4)"
+    ]
+  ]
+}

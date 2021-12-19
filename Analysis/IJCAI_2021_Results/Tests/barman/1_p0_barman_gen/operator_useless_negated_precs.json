@@ -1,0 +1,64 @@
+{
+  "clean-shot": [
+    [
+      "(holding ?param_3 ?param_1)"
+    ],
+    [
+      "(handempty ?param_4)"
+    ]
+  ],
+  "empty-shot": [
+    [
+      "(contains ?param_2 ?param_3)"
+    ]
+  ],
+  "fill-shot": [
+    [
+      "(clean ?param_1)"
+    ]
+  ],
+  "clean-shaker": [
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)"
+    ]
+  ],
+  "pour-shot-to-clean-shaker": [
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(shaker-level ?param_3 ?param_5)"
+    ],
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(shaker-empty-level ?param_3 ?param_5)"
+    ],
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(ontable ?param_3)",
+      "(shaker-level ?param_3 ?param_5)"
+    ],
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(ontable ?param_3)",
+      "(shaker-empty-level ?param_3 ?param_5)"
+    ],
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(shaker-empty-level ?param_3 ?param_5)",
+      "(shaker-level ?param_3 ?param_5)"
+    ],
+    [
+      "(clean ?param_3)",
+      "(empty ?param_3)",
+      "(ontable ?param_3)",
+      "(shaker-empty-level ?param_3 ?param_5)",
+      "(shaker-level ?param_3 ?param_5)"
+    ]
+  ],
+  "pour-shot-to-used-shaker": []
+}

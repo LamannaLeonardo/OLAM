@@ -1,0 +1,3599 @@
+{
+  "move-car-to-curb": [
+    [
+      "(at-curb ?param_1)"
+    ],
+    [
+      "(at-curb ?param_2)"
+    ],
+    [
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_1 ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(at-curb ?param_2)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(car-clear ?param_1)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(car-clear ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(car-clear ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(at-curb-num ?param_1 ?param_3)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(at-curb-num ?param_2 ?param_3)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(at-curb-num ?param_1 ?param_3)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(at-curb-num ?param_2 ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_1 ?param_3)",
+      "(at-curb-num ?param_2 ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_1 ?param_3)",
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(at-curb-num ?param_1 ?param_3)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(at-curb-num ?param_2 ?param_3)",
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(at-curb-num ?param_2 ?param_3)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(at-curb ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(at-curb ?param_2)",
+      "(behind-car ?param_1 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(at-curb-num ?param_2 ?param_3)",
+      "(behind-car ?param_1 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(curb-clear ?param_3)"
+    ]
+  ],
+  "move-car-to-car": [
+    [
+      "(at-curb ?param_1)"
+    ],
+    [
+      "(at-curb ?param_2)"
+    ],
+    [
+      "(at-curb ?param_3)"
+    ],
+    [
+      "(car-clear ?param_1)"
+    ],
+    [
+      "(car-clear ?param_2)"
+    ],
+    [
+      "(car-clear ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_1)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ],
+    [
+      "(behind-car ?param_1 ?param_2)",
+      "(behind-car ?param_1 ?param_3)",
+      "(behind-car ?param_2 ?param_1)",
+      "(behind-car ?param_2 ?param_2)",
+      "(behind-car ?param_2 ?param_3)",
+      "(behind-car ?param_3 ?param_1)",
+      "(behind-car ?param_3 ?param_2)",
+      "(behind-car ?param_3 ?param_3)"
+    ]
+  ]
+}

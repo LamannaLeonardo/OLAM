@@ -1,0 +1,620 @@
+{
+  "unlock": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(open ?param_1)"
+    ],
+    [
+      "(open ?param_2)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_2)"
+    ],
+    [
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(locked ?param_2)"
+    ],
+    [
+      "(at-robot ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(locked ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(arm-empty)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(open ?param_2)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(open ?param_1)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(open ?param_2)"
+    ],
+    [
+      "(open ?param_1)",
+      "(open ?param_2)"
+    ],
+    [
+      "(arm-empty)",
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(arm-empty)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(open ?param_2)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(open ?param_2)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(open ?param_2)"
+    ],
+    [
+      "(arm-empty)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(arm-empty)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(lock-shape ?param_2 ?param_4)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(lock-shape ?param_2 ?param_4)",
+      "(open ?param_1)"
+    ],
+    [
+      "(locked ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at-robot ?param_2)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(open ?param_2)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(open ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(at ?param_3 ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_2)"
+    ],
+    [
+      "(arm-empty)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(arm-empty)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(key-shape ?param_3 ?param_4)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(lock-shape ?param_1 ?param_4)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(lock-shape ?param_1 ?param_4)",
+      "(open ?param_2)"
+    ],
+    [
+      "(locked ?param_1)",
+      "(open ?param_2)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(conn ?param_1 ?param_2)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(conn ?param_2 ?param_1)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(lock-shape ?param_1 ?param_4)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(lock-shape ?param_1 ?param_4)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(lock-shape ?param_2 ?param_4)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(locked ?param_1)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(lock-shape ?param_1 ?param_4)"
+    ],
+    [
+      "(at-robot ?param_2)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(key-shape ?param_3 ?param_4)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(open ?param_2)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(conn ?param_1 ?param_2)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(conn ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(lock-shape ?param_2 ?param_4)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(locked ?param_2)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(at-robot ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_2)",
+      "(at-robot ?param_2)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)"
+    ]
+  ],
+  "pickup": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(locked ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(locked ?param_1)"
+    ]
+  ],
+  "pickup-and-loose": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(locked ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(holding ?param_2)"
+    ],
+    [
+      "(holding ?param_3)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_2)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_3)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(holding ?param_2)",
+      "(holding ?param_3)"
+    ],
+    [
+      "(holding ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(holding ?param_3)",
+      "(open ?param_1)"
+    ],
+    [
+      "(holding ?param_2)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(holding ?param_3)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_2)",
+      "(holding ?param_3)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_2)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_3)",
+      "(open ?param_1)"
+    ],
+    [
+      "(holding ?param_2)",
+      "(holding ?param_3)",
+      "(open ?param_1)"
+    ],
+    [
+      "(holding ?param_2)",
+      "(holding ?param_3)",
+      "(locked ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)",
+      "(holding ?param_2)",
+      "(holding ?param_3)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ],
+    [
+      "(arm-empty)",
+      "(at ?param_2 ?param_1)",
+      "(at ?param_3 ?param_1)",
+      "(at-robot ?param_1)",
+      "(open ?param_1)"
+    ]
+  ],
+  "putdown": [
+    [
+      "(arm-empty)"
+    ],
+    [
+      "(open ?param_1)"
+    ],
+    [
+      "(at ?param_2 ?param_1)"
+    ],
+    [
+      "(locked ?param_1)"
+    ],
+    [
+      "(at-robot ?param_1)"
+    ]
+  ]
+}

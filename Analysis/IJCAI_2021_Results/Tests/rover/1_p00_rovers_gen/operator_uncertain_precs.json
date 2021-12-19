@@ -1,0 +1,92 @@
+{
+  "calibrate": [
+    "(visible_from ?param_3 ?param_4)",
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(equipped_for_imaging ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(calibration_target ?param_2 ?param_3)",
+    "(on_board ?param_2 ?param_1)"
+  ],
+  "communicate_image_data": [
+    "(visible ?param_6 ?param_5)",
+    "(visible_from ?param_3 ?param_5)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(visible_from ?param_3 ?param_6)",
+    "(have_rock_analysis ?param_1 ?param_6)",
+    "(channel_free ?param_2)",
+    "(have_soil_analysis ?param_1 ?param_6)",
+    "(visible ?param_5 ?param_6)",
+    "(available ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(equipped_for_imaging ?param_1)"
+  ],
+  "communicate_rock_data": [
+    "(channel_free ?param_2)",
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(have_soil_analysis ?param_1 ?param_5)",
+    "(visible ?param_5 ?param_4)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(have_rock_analysis ?param_1 ?param_5)",
+    "(equipped_for_imaging ?param_1)",
+    "(visible ?param_4 ?param_5)"
+  ],
+  "communicate_soil_data": [
+    "(have_soil_analysis ?param_1 ?param_5)",
+    "(visible ?param_5 ?param_4)",
+    "(communicated_rock_data ?param_3)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(channel_free ?param_2)",
+    "(communicated_rock_data ?param_5)",
+    "(have_rock_analysis ?param_1 ?param_5)",
+    "(have_rock_analysis ?param_1 ?param_3)",
+    "(visible ?param_4 ?param_5)",
+    "(available ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(equipped_for_imaging ?param_1)"
+  ],
+  "drop": [
+    "(equipped_for_rock_analysis ?param_1)",
+    "(available ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(store_of ?param_2 ?param_1)",
+    "(equipped_for_imaging ?param_1)"
+  ],
+  "navigate": [
+    "(visible ?param_2 ?param_3)",
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(can_traverse ?param_1 ?param_2 ?param_3)",
+    "(equipped_for_imaging ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(visible ?param_3 ?param_2)",
+    "(can_traverse ?param_1 ?param_3 ?param_2)"
+  ],
+  "sample_rock": [
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(store_of ?param_2 ?param_1)",
+    "(at ?param_1 ?param_3)",
+    "(equipped_for_imaging ?param_1)"
+  ],
+  "sample_soil": [
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(store_of ?param_2 ?param_1)",
+    "(at ?param_1 ?param_3)",
+    "(equipped_for_imaging ?param_1)",
+    "(have_rock_analysis ?param_1 ?param_3)"
+  ],
+  "take_image": [
+    "(on_board ?param_4 ?param_1)",
+    "(calibration_target ?param_4 ?param_3)",
+    "(available ?param_1)",
+    "(equipped_for_rock_analysis ?param_1)",
+    "(equipped_for_imaging ?param_1)",
+    "(equipped_for_soil_analysis ?param_1)",
+    "(visible_from ?param_3 ?param_2)"
+  ]
+}

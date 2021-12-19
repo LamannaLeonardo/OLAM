@@ -1,0 +1,80 @@
+
+Total actions: 3162112
+
+Objects list
+	dir:4
+	box:3
+	loc:64
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+Not executable actions: 3162109
+Random action chosen
+
+
+Checking feasibility of operator move negated preconditions of length 1
+FD computational time: 0:00:57.850803
+Plan computed: False Plan length: None
+The feasibility of operator move negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator push negated preconditions of length 1
+FD computational time: 0:00:57.850762
+Plan computed: False Plan length: None
+The feasibility of operator push negated preconditions of length 1 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator move does not admit new positive effects
+Operator push does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator move with possible negative effects
+FD computational time: 0:00:00.784953
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator push with possible negative effects
+FD computational time: 0:00:00.982701
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator move has no known positive effects to check
+Operator push has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator move has no known negative effects to check
+Operator push has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 460.55 |  1   |    8     |    10     |   4    |    4    |   4    |    4    |   0   |   2   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    1.00     |   1.00   |    0.89     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 460.55 |  1   |    8     |    10     |   4    |    4    |   4    |   16    |   0   |   2   |   0   |   0   |   0   |  12   |    1.00    |   1.00   |   1.00   |     0.80      |    1.00     |    0.25     |   1.00   |    0.53     
+
+

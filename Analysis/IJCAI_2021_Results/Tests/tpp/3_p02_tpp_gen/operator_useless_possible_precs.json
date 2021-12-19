@@ -1,0 +1,547 @@
+{
+  "unload": [
+    [
+      "(at ?param_2 ?param_3)"
+    ],
+    [
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)"
+    ],
+    [
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)"
+    ],
+    [
+      "(next ?param_6 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)"
+    ],
+    [
+      "(next ?param_5 ?param_4)"
+    ],
+    [
+      "(next ?param_5 ?param_6)"
+    ],
+    [
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)"
+    ],
+    [
+      "(next ?param_4 ?param_5)"
+    ],
+    [
+      "(next ?param_4 ?param_6)"
+    ],
+    [
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(stored ?param_1 ?param_4)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(stored ?param_1 ?param_4)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(stored ?param_1 ?param_4)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(stored ?param_1 ?param_5)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(stored ?param_1 ?param_5)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(stored ?param_1 ?param_6)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(loaded ?param_1 ?param_2 ?param_7)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_7 ?param_4)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(next ?param_7 ?param_4)",
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(next ?param_7 ?param_4)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_7 ?param_4)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_7 ?param_4)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_7 ?param_5)",
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(next ?param_7 ?param_5)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_7 ?param_5)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_7 ?param_5)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_7 ?param_6)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_7 ?param_6)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_7 ?param_6)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(loaded ?param_1 ?param_2 ?param_6)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_6 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_6 ?param_5)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_6 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_6 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_6 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_6 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(next ?param_6 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(next ?param_6 ?param_7)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(next ?param_6 ?param_7)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_6 ?param_7)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_7)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_7)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(loaded ?param_1 ?param_2 ?param_5)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_5 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_5 ?param_6)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(next ?param_5 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(next ?param_5 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_5 ?param_4)",
+      "(next ?param_5 ?param_6)"
+    ],
+    [
+      "(next ?param_5 ?param_4)",
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(next ?param_5 ?param_4)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_5 ?param_4)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_5 ?param_4)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_5 ?param_6)",
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(next ?param_5 ?param_6)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_5 ?param_6)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_5 ?param_6)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_5 ?param_7)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(next ?param_5 ?param_7)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_5 ?param_7)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(loaded ?param_1 ?param_2 ?param_4)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_4 ?param_5)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_4 ?param_6)"
+    ],
+    [
+      "(at ?param_2 ?param_3)",
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(next ?param_4 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(next ?param_4 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_4 ?param_5)",
+      "(next ?param_4 ?param_6)"
+    ],
+    [
+      "(next ?param_4 ?param_5)",
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(next ?param_4 ?param_5)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_4 ?param_5)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_4 ?param_5)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_4 ?param_6)",
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(next ?param_4 ?param_6)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_4 ?param_6)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_4 ?param_6)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(next ?param_4 ?param_7)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(next ?param_4 ?param_7)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(next ?param_4 ?param_7)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(stored ?param_1 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(stored ?param_1 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(stored ?param_1 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(stored ?param_1 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_7 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_4)",
+      "(next ?param_5 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_5 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_5 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_5)",
+      "(next ?param_4 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_4 ?param_6)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_4 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(loaded ?param_1 ?param_2 ?param_7)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_6)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_6 ?param_4)"
+    ],
+    [
+      "(loaded ?param_1 ?param_2 ?param_7)",
+      "(next ?param_6 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_4)",
+      "(next ?param_7 ?param_5)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(next ?param_7 ?param_4)"
+    ],
+    [
+      "(next ?param_6 ?param_5)",
+      "(next ?param_7 ?param_5)"
+    ]
+  ]
+}

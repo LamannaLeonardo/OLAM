@@ -1,0 +1,12 @@
+{
+  "move": [
+    "(adjacent ?param_1 ?param_2 ?param_3)",
+    "(clear ?param_1)",
+    "(clear ?param_2)"
+  ],
+  "push": [
+    "(adjacent ?param_1 ?param_2 ?param_4)",
+    "(adjacent ?param_2 ?param_3 ?param_4)",
+    "(clear ?param_1)"
+  ]
+}

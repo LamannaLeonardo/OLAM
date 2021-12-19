@@ -1,0 +1,19 @@
+{
+  "zoom": [
+    "(at ?param_1 ?param_3)",
+    "(fuel-level ?param_1 ?param_6)"
+  ],
+  "fly": [
+    "(fuel-level ?param_1 ?param_5)",
+    "(at ?param_1 ?param_3)"
+  ],
+  "board": [
+    "(in ?param_1 ?param_2)"
+  ],
+  "refuel": [
+    "(fuel-level ?param_1 ?param_4)"
+  ],
+  "debark": [
+    "(at ?param_1 ?param_3)"
+  ]
+}

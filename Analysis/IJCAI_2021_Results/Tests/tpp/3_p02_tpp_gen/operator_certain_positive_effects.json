@@ -1,0 +1,14 @@
+{
+  "drive": [
+    "(at ?param_1 ?param_3)"
+  ],
+  "buy": [],
+  "load": [
+    "(loaded ?param_1 ?param_2 ?param_7)",
+    "(ready-to-load ?param_1 ?param_3 ?param_4)"
+  ],
+  "unload": [
+    "(loaded ?param_1 ?param_2 ?param_4)",
+    "(stored ?param_1 ?param_7)"
+  ]
+}

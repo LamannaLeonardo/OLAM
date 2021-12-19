@@ -1,0 +1,98 @@
+{
+  "grasp": [],
+  "leave": [],
+  "fill-shot": [
+    "(handempty ?param_3)",
+    "(holding ?param_4 ?param_1)",
+    "(ontable ?param_1)"
+  ],
+  "refill-shot": [
+    "(clean ?param_1)",
+    "(handempty ?param_3)",
+    "(holding ?param_4 ?param_1)",
+    "(ontable ?param_1)"
+  ],
+  "empty-shot": [
+    "(clean ?param_2)",
+    "(handempty ?param_1)",
+    "(ontable ?param_2)"
+  ],
+  "clean-shot": [
+    "(contains ?param_1 ?param_2)",
+    "(handempty ?param_3)",
+    "(holding ?param_4 ?param_1)",
+    "(ontable ?param_1)"
+  ],
+  "pour-shot-to-clean-shaker": [
+    "(clean ?param_1)",
+    "(handempty ?param_4)",
+    "(holding ?param_4 ?param_3)",
+    "(next ?param_5 ?param_5)",
+    "(next ?param_6 ?param_5)",
+    "(next ?param_6 ?param_6)",
+    "(ontable ?param_1)",
+    "(shaked ?param_3)",
+    "(shaker-empty-level ?param_3 ?param_6)",
+    "(used ?param_3 ?param_2)"
+  ],
+  "pour-shot-to-used-shaker": [
+    "(clean ?param_1)",
+    "(clean ?param_3)",
+    "(empty ?param_3)",
+    "(handempty ?param_4)",
+    "(holding ?param_4 ?param_3)",
+    "(next ?param_5 ?param_5)",
+    "(next ?param_6 ?param_5)",
+    "(next ?param_6 ?param_6)",
+    "(ontable ?param_1)",
+    "(shaked ?param_3)",
+    "(shaker-empty-level ?param_3 ?param_5)",
+    "(shaker-empty-level ?param_3 ?param_6)",
+    "(used ?param_3 ?param_2)"
+  ],
+  "empty-shaker": [
+    "(clean ?param_2)",
+    "(handempty ?param_1)",
+    "(next ?param_4 ?param_4)",
+    "(next ?param_4 ?param_5)",
+    "(next ?param_5 ?param_5)",
+    "(ontable ?param_2)",
+    "(shaker-empty-level ?param_2 ?param_4)",
+    "(unshaked ?param_2)",
+    "(used ?param_2 ?param_3)"
+  ],
+  "clean-shaker": [
+    "(handempty ?param_1)",
+    "(holding ?param_2 ?param_3)",
+    "(ontable ?param_3)",
+    "(shaked ?param_3)",
+    "(unshaked ?param_3)"
+  ],
+  "shake": [
+    "(clean ?param_4)",
+    "(cocktail-part1 ?param_1 ?param_3)",
+    "(cocktail-part2 ?param_1 ?param_2)",
+    "(empty ?param_4)",
+    "(handempty ?param_5)",
+    "(holding ?param_6 ?param_4)",
+    "(ontable ?param_4)",
+    "(used ?param_4 ?param_1)",
+    "(used ?param_4 ?param_2)",
+    "(used ?param_4 ?param_3)"
+  ],
+  "pour-shaker-to-shot": [
+    "(clean ?param_4)",
+    "(empty ?param_4)",
+    "(handempty ?param_3)",
+    "(holding ?param_3 ?param_2)",
+    "(next ?param_5 ?param_5)",
+    "(next ?param_5 ?param_6)",
+    "(next ?param_6 ?param_6)",
+    "(ontable ?param_4)",
+    "(shaker-empty-level ?param_4 ?param_5)",
+    "(shaker-empty-level ?param_4 ?param_6)",
+    "(unshaked ?param_4)",
+    "(used ?param_2 ?param_1)",
+    "(used ?param_4 ?param_1)"
+  ]
+}

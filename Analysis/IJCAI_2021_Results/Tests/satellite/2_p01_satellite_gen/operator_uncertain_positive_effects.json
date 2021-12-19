@@ -1,0 +1,22 @@
+{
+  "turn_to": [],
+  "switch_on": [
+    "(on_board ?param_1 ?param_2)"
+  ],
+  "switch_off": [
+    "(on_board ?param_1 ?param_2)"
+  ],
+  "calibrate": [
+    "(calibration_target ?param_2 ?param_3)",
+    "(on_board ?param_2 ?param_1)",
+    "(pointing ?param_1 ?param_3)",
+    "(power_on ?param_2)"
+  ],
+  "take_image": [
+    "(calibrated ?param_3)",
+    "(on_board ?param_3 ?param_1)",
+    "(pointing ?param_1 ?param_2)",
+    "(power_on ?param_3)",
+    "(supports ?param_3 ?param_4)"
+  ]
+}

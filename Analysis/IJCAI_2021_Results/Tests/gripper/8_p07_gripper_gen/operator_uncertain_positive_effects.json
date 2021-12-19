@@ -1,0 +1,9 @@
+{
+  "move": [],
+  "pick": [
+    "(at-robby ?param_1 ?param_3)"
+  ],
+  "drop": [
+    "(at-robby ?param_1 ?param_3)"
+  ]
+}

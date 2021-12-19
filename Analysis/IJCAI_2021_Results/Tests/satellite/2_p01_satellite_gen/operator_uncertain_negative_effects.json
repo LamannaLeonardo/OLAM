@@ -1,0 +1,11 @@
+{
+  "turn_to": [],
+  "switch_on": [],
+  "switch_off": [],
+  "calibrate": [
+    "(power_avail ?param_1)"
+  ],
+  "take_image": [
+    "(power_avail ?param_1)"
+  ]
+}

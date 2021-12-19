@@ -1,0 +1,25 @@
+{
+  "move": [
+    "(robot-at ?param_2)"
+  ],
+  "pickup-laser": [
+    "(holds-laser)"
+  ],
+  "putdown-laser": [
+    "(arm-empty)",
+    "(laser-at ?param_1)"
+  ],
+  "pickup-bomb": [
+    "(holds-bomb)"
+  ],
+  "detonate-bomb": [
+    "(arm-empty)",
+    "(clear ?param_2)"
+  ],
+  "fire-laser": [
+    "(clear ?param_2)"
+  ],
+  "pick-gold": [
+    "(holds-gold)"
+  ]
+}

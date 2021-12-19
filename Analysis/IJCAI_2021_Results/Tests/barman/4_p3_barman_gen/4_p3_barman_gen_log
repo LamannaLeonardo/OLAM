@@ -1,0 +1,912 @@
+
+Total actions: 1810
+
+Objects list
+	shaker:1
+	hand:2
+	shot:5
+	ingredient:3
+	cocktail:3
+	dispenser:3
+	level:3
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Not executable actions: 1798
+Random action chosen
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:00.840826
+Plan computed: True Plan length: 12
+The feasibility of operator empty-shaker negated preconditions of length 1 is: True
+Successfully executed action 419: grasp(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.27  |  1   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 254: fill-shot(shot1,ingredient2,left,right,dispenser2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.29  |  2   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 1001: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.32  |  3   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 424: grasp(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.35  |  4   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 431: leave(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.37  |  5   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 420: grasp(left,shot2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.40  |  6   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 436: leave(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.43  |  7   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 303: fill-shot(shot2,ingredient3,left,right,dispenser3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.45  |  8   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 424: grasp(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.48  |  9   |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 1347: pour-shot-to-used-shaker(shot2,ingredient3,shaker1,left,l1,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.51  |  10  |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 432: leave(left,shot2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.53  |  11  |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Successfully executed action 1796: shake(cocktail3,ingredient2,ingredient3,shaker1,right,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.56  |  12  |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+Not successfully executed action 172: empty-shaker(right,shaker1,cocktail3,l1,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.98  |  13  |    52    |    57     |   22   |   22    |   23   |   23    |   0   |   5   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.91      |    1.00     |    1.00     |   1.00   |    0.95     
+
+
+operator empty-shaker, adding certain precondition: (shaker-level ?param_2 ?param_4)
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:00.812175
+Plan computed: True Plan length: 0
+The feasibility of operator empty-shaker negated preconditions of length 1 is: True
+Successfully executed action 175: empty-shaker(right,shaker1,cocktail3,l2,l0)
+operator empty-shaker, removed uncertain preconditions ['(next ?param_5 ?param_4)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  3.11  |  14  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Not executable actions: 1803
+Random action chosen
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:00.819573
+Plan computed: True Plan length: 12
+The feasibility of operator empty-shaker negated preconditions of length 1 is: True
+Successfully executed action 2: clean-shaker(right,left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.35  |  15  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 419: grasp(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.38  |  16  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 436: leave(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.40  |  17  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 1538: refill-shot(shot1,ingredient2,left,right,dispenser2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.43  |  18  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 426: grasp(right,shot2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.46  |  19  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 1001: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.48  |  20  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 431: leave(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.51  |  21  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 1590: refill-shot(shot2,ingredient3,right,left,dispenser3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.53  |  22  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 418: grasp(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.56  |  23  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 1356: pour-shot-to-used-shaker(shot2,ingredient3,shaker1,right,l1,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.59  |  24  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 438: leave(right,shot2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.61  |  25  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 1795: shake(cocktail3,ingredient2,ingredient3,shaker1,left,right)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  4.64  |  26  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Not successfully executed action 149: empty-shaker(left,shaker1,cocktail3,l2,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  5.09  |  27  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator empty-shaker, adding certain precondition: (shaker-empty-level ?param_2 ?param_5)
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:00.838857
+Plan computed: True Plan length: 0
+The feasibility of operator empty-shaker negated preconditions of length 1 is: True
+Not successfully executed action 175: empty-shaker(right,shaker1,cocktail3,l2,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  6.24  |  28  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator empty-shaker, adding certain precondition: (holding ?param_1 ?param_2)
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:57.806823
+Plan computed: False Plan length: None
+The feasibility of operator empty-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator fill-shot negated preconditions of length 1
+FD computational time: 0:00:57.844074
+Plan computed: False Plan length: None
+The feasibility of operator fill-shot negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:01.006179
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Not successfully executed action 485: pour-shaker-to-shot(cocktail1,shot3,left,shaker1,l2,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 123.24 |  29  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator pour-shaker-to-shot, adding certain precondition: (contains ?param_4 ?param_1)
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:00.971932
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Not successfully executed action 629: pour-shaker-to-shot(cocktail3,shot1,left,shaker1,l2,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 124.65 |  30  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator pour-shaker-to-shot, adding certain precondition: (clean ?param_2)
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:00.936047
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Not successfully executed action 661: pour-shaker-to-shot(cocktail3,shot3,left,shaker1,l1,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 125.97 |  31  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator pour-shaker-to-shot, adding certain precondition: (shaker-level ?param_4 ?param_5)
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:00.920597
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Not successfully executed action 664: pour-shaker-to-shot(cocktail3,shot3,left,shaker1,l2,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 127.30 |  32  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator pour-shaker-to-shot, adding certain precondition: (next ?param_6 ?param_5)
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:00.949911
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Not successfully executed action 674: pour-shaker-to-shot(cocktail3,shot3,right,shaker1,l2,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 128.63 |  33  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+operator pour-shaker-to-shot, adding certain precondition: (holding ?param_3 ?param_4)
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:00.837848
+Plan computed: True Plan length: 1
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: True
+Successfully executed action 427: grasp(right,shot3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 129.50 |  34  |    52    |    56     |   22   |   22    |   23   |   23    |   0   |   4   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.93      |    1.00     |    1.00     |   1.00   |    0.96     
+
+
+Successfully executed action 665: pour-shaker-to-shot(cocktail3,shot3,left,shaker1,l2,l1)
+operator pour-shaker-to-shot, removed uncertain preconditions ['(ontable ?param_2)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 129.94 |  35  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not executable actions: 1804
+Random action chosen
+
+
+Checking feasibility of operator empty-shaker negated preconditions of length 1
+FD computational time: 0:00:57.825118
+Plan computed: False Plan length: None
+The feasibility of operator empty-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator fill-shot negated preconditions of length 1
+FD computational time: 0:00:57.801678
+Plan computed: False Plan length: None
+The feasibility of operator fill-shot negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shaker-to-shot negated preconditions of length 1
+FD computational time: 0:00:57.797075
+Plan computed: False Plan length: None
+The feasibility of operator pour-shaker-to-shot negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1
+FD computational time: 0:00:00.806225
+Plan computed: True Plan length: 5
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1 is: True
+Successfully executed action 145: empty-shaker(left,shaker1,cocktail3,l1,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 304.60 |  36  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 430: leave(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 304.64 |  37  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 419: grasp(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 304.67 |  38  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 439: leave(right,shot3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 304.69 |  39  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1538: refill-shot(shot1,ingredient2,left,right,dispenser2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 304.72 |  40  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not successfully executed action 1001: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 305.12 |  41  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+operator pour-shot-to-clean-shaker, adding certain precondition: (clean ?param_3)
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1
+FD computational time: 0:00:57.817758
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1
+FD computational time: 0:00:00.792910
+Plan computed: True Plan length: 0
+The feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1 is: True
+Not successfully executed action 1271: pour-shot-to-used-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 364.07 |  42  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+operator pour-shot-to-used-shaker, adding certain precondition: (unshaked ?param_3)
+
+
+Checking feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1
+FD computational time: 0:00:57.772763
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-used-shaker negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator shake negated preconditions of length 1
+FD computational time: 0:00:57.749391
+Plan computed: False Plan length: None
+The feasibility of operator shake negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2
+FD computational time: 0:00:00.805545
+Plan computed: True Plan length: 4
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2 is: True
+Successfully executed action 424: grasp(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 480.44 |  43  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 431: leave(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 480.47 |  44  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 2: clean-shaker(right,left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 480.49 |  45  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 419: grasp(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 480.51 |  46  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Not successfully executed action 1005: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l1,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 480.96 |  47  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2
+FD computational time: 0:00:57.781402
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3
+FD computational time: 0:00:01.076184
+Plan computed: True Plan length: 13
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3 is: True
+Successfully executed action 436: leave(right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.86 |  48  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 428: grasp(right,shot4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.89 |  49  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1001: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.91 |  50  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 431: leave(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.94 |  51  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 352: fill-shot(shot4,ingredient1,right,left,dispenser1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.96 |  52  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 418: grasp(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 539.99 |  53  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1428: pour-shot-to-used-shaker(shot4,ingredient1,shaker1,right,l1,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.01 |  54  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 440: leave(right,shot4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.04 |  55  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1715: shake(cocktail1,ingredient2,ingredient1,shaker1,left,right)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.07 |  56  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 425: grasp(right,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.09 |  57  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 130: empty-shaker(left,shaker1,cocktail1,l2,l0)
+removing (next ?param_5 ?param_4) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.12 |  58  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 430: leave(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.14 |  59  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1541: refill-shot(shot1,ingredient2,right,left,dispenser2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 540.17 |  60  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3
+FD computational time: 0:00:57.859332
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 4
+FD computational time: 0:00:57.778301
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 5
+FD computational time: 0:00:57.753522
+Plan computed: False Plan length: None
+The feasibility of operator pour-shot-to-clean-shaker negated preconditions of length 5 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator empty-shaker does not admit new positive effects
+Operator fill-shot does not admit new positive effects
+(exists (?param_1 - beverage ?param_2 - shot ?param_3 - hand ?param_4 - shaker ?param_5 ?param_6 - level) (and (clean ?param_2) (contains ?param_4 ?param_1) (empty ?param_2) (holding ?param_3 ?param_4) (next ?param_6 ?param_5) (shaked ?param_4) (shaker-level ?param_4 ?param_5) (not (ontable ?param_2)) ))
+
+
+
+Checking feasibility of operator pour-shaker-to-shot with possible positive effect (ontable ?param_2)
+FD computational time: 0:00:00.915386
+Plan computed: True Plan length: 15
+Successfully executed action 418: grasp(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.02 |  61  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 437: leave(right,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.05 |  62  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1: clean-shaker(left,right,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.08 |  63  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 429: grasp(right,shot5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.11 |  64  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 430: leave(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.13 |  65  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 419: grasp(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.16 |  66  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1001: pour-shot-to-clean-shaker(shot1,ingredient2,shaker1,left,l0,l1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.19 |  67  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 431: leave(left,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.22 |  68  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 388: fill-shot(shot5,ingredient1,right,left,dispenser1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.25 |  69  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1482: pour-shot-to-used-shaker(shot5,ingredient1,shaker1,right,l1,l2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.27 |  70  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 114: clean-shot(shot5,ingredient1,right,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.30 |  71  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 418: grasp(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.33 |  72  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 441: leave(right,shot5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.35 |  73  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 1715: shake(cocktail1,ingredient2,ingredient1,shaker1,left,right)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.38 |  74  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 429: grasp(right,shot5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.41 |  75  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 521: pour-shaker-to-shot(cocktail1,shot5,left,shaker1,l2,l1)
+removing (ontable ?param_2) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 715.50 |  76  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Operator pour-shot-to-clean-shaker does not admit new positive effects
+Operator pour-shot-to-used-shaker does not admit new positive effects
+Operator shake does not admit new positive effects
+Operator grasp does not admit new positive effects
+Operator leave does not admit new positive effects
+Operator refill-shot does not admit new positive effects
+Operator empty-shot does not admit new positive effects
+Operator clean-shot does not admit new positive effects
+Operator clean-shaker does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator empty-shaker with possible negative effects
+FD computational time: 0:00:00.844284
+Plan computed: True Plan length: 6
+Successfully executed action 441: leave(right,shot5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.38 |  77  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 425: grasp(right,shot1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.41 |  78  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 430: leave(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.44 |  79  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 22: clean-shot(shot1,ingredient2,right,left)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.47 |  80  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 418: grasp(left,shaker1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.50 |  81  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 445: pour-shaker-to-shot(cocktail1,shot1,left,shaker1,l1,l0)
+removing (shaker-empty-level ?param_4 ?param_6) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.54 |  82  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+Successfully executed action 124: empty-shaker(left,shaker1,cocktail1,l0,l0)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 716.63 |  83  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+removing (shaker-empty-level ?param_2 ?param_4) from possible negative effects in finalizenegunknown
+
+
+Checking feasibility of operator empty-shaker with possible negative effects
+FD computational time: 0:00:03.031270
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator fill-shot with possible negative effects
+FD computational time: 0:00:00.774181
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shaker-to-shot with possible negative effects
+FD computational time: 0:00:03.804556
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shot-to-clean-shaker with possible negative effects
+FD computational time: 0:00:02.857620
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator pour-shot-to-used-shaker with possible negative effects
+FD computational time: 0:00:02.799503
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator shake with possible negative effects
+FD computational time: 0:00:02.691094
+Plan computed: False Plan length: None
+Operator grasp does not admit new negative effects
+Operator leave does not admit new negative effects
+
+
+Checking feasibility of operator refill-shot with possible negative effects
+FD computational time: 0:00:02.737535
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator empty-shot with possible negative effects
+FD computational time: 0:00:02.848314
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator clean-shot with possible negative effects
+FD computational time: 0:00:02.707045
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator clean-shaker with possible negative effects
+FD computational time: 0:00:02.461438
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator empty-shaker has no known positive effects to check
+Operator fill-shot has no known positive effects to check
+Operator pour-shaker-to-shot has no known positive effects to check
+Operator pour-shot-to-clean-shaker has no known positive effects to check
+Operator pour-shot-to-used-shaker has no known positive effects to check
+Operator shake has no known positive effects to check
+Operator grasp has no known positive effects to check
+Operator leave has no known positive effects to check
+Operator refill-shot has no known positive effects to check
+Operator empty-shot has no known positive effects to check
+Operator clean-shot has no known positive effects to check
+Operator clean-shaker has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator empty-shaker has no known negative effects to check
+Operator fill-shot has no known negative effects to check
+Operator pour-shaker-to-shot has no known negative effects to check
+Operator pour-shot-to-clean-shaker has no known negative effects to check
+Operator pour-shot-to-used-shaker has no known negative effects to check
+Operator shake has no known negative effects to check
+Operator grasp has no known negative effects to check
+Operator leave has no known negative effects to check
+Operator refill-shot has no known negative effects to check
+Operator empty-shot has no known negative effects to check
+Operator clean-shot has no known negative effects to check
+Operator clean-shaker has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 743.43 |  84  |    52    |    55     |   22   |   22    |   23   |   23    |   0   |   3   |   0   |   0   |   0   |   0   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    1.00     |   1.00   |    0.97     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 743.43 |  84  |    52    |    55     |   22   |   22    |   23   |   95    |   0   |   3   |   0   |   0   |   0   |  72   |    1.00    |   1.00   |   1.00   |     0.95      |    1.00     |    0.24     |   1.00   |    0.56     
+
+

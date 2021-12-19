@@ -1,0 +1,9 @@
+{
+  "pickup_spanner": [
+    "(useable ?param_2)"
+  ],
+  "tighten_nut": [
+    "(loose ?param_4)"
+  ],
+  "walk": []
+}

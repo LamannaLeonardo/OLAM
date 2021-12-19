@@ -1,0 +1,33 @@
+{
+  "change-color": [
+    "(available-color ?param_3)",
+    "(available-color ?param_2)"
+  ],
+  "down": [
+    "(up ?param_2 ?param_3)",
+    "(down ?param_3 ?param_2)"
+  ],
+  "left": [
+    "(right ?param_2 ?param_3)",
+    "(left ?param_3 ?param_2)"
+  ],
+  "paint-down": [
+    "(up ?param_3 ?param_2)",
+    "(down ?param_2 ?param_3)",
+    "(available-color ?param_4)"
+  ],
+  "paint-up": [
+    "(down ?param_3 ?param_2)",
+    "(up ?param_2 ?param_3)",
+    "(available-color ?param_4)"
+  ],
+  "right": [
+    "(right ?param_3 ?param_2)",
+    "(left ?param_2 ?param_3)",
+    "(clear ?param_3)"
+  ],
+  "up": [
+    "(up ?param_3 ?param_2)",
+    "(down ?param_2 ?param_3)"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "calibrate": [
+    "(calibrated ?param_2 ?param_1)"
+  ],
+  "navigate": [
+    "(at ?param_1 ?param_3)"
+  ],
+  "sample_rock": [
+    "(full ?param_2)",
+    "(have_rock_analysis ?param_1 ?param_3)"
+  ],
+  "take_image": [
+    "(have_image ?param_1 ?param_3 ?param_5)"
+  ],
+  "drop": [
+    "(empty ?param_2)"
+  ],
+  "sample_soil": [
+    "(full ?param_2)",
+    "(have_soil_analysis ?param_1 ?param_3)"
+  ],
+  "communicate_image_data": [
+    "(communicated_image_data ?param_3 ?param_4)"
+  ],
+  "communicate_rock_data": [],
+  "communicate_soil_data": [
+    "(communicated_soil_data ?param_3)"
+  ]
+}

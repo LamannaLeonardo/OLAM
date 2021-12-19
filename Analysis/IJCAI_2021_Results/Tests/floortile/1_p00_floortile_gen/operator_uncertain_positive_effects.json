@@ -1,0 +1,36 @@
+{
+  "change-color": [
+    "(available-color ?param_2)",
+    "(available-color ?param_3)"
+  ],
+  "paint-up": [
+    "(available-color ?param_4)",
+    "(down ?param_3 ?param_2)",
+    "(robot-at ?param_1 ?param_3)",
+    "(robot-has ?param_1 ?param_4)",
+    "(up ?param_2 ?param_3)"
+  ],
+  "paint-down": [
+    "(available-color ?param_4)",
+    "(down ?param_2 ?param_3)",
+    "(robot-at ?param_1 ?param_3)",
+    "(robot-has ?param_1 ?param_4)",
+    "(up ?param_3 ?param_2)"
+  ],
+  "up": [
+    "(down ?param_2 ?param_3)",
+    "(up ?param_3 ?param_2)"
+  ],
+  "down": [
+    "(down ?param_3 ?param_2)",
+    "(up ?param_2 ?param_3)"
+  ],
+  "right": [
+    "(left ?param_2 ?param_3)",
+    "(right ?param_3 ?param_2)"
+  ],
+  "left": [
+    "(left ?param_3 ?param_2)",
+    "(right ?param_2 ?param_3)"
+  ]
+}

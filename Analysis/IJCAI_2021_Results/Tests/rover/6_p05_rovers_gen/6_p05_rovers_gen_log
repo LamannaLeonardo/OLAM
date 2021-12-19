@@ -1,0 +1,543 @@
+
+Total actions: 6873
+
+Objects list
+	lander:1
+	mode:3
+	rover:3
+	store:3
+	waypoint:8
+	camera:3
+	objective:4
+
+
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  0.00  |  0   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Not executable actions: 6849
+Random action chosen
+Not Successfully executed action 5792: navigate(rover1,waypoint6,waypoint7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  1.02  |  1   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Not executable actions: 6861
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.792682
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.817816
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.827001
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.811010
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.780181
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.805065
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.795832
+Plan computed: True Plan length: 1
+The feasibility of operator sample_rock negated preconditions of length 1 is: True
+Successfully executed action 5704: navigate(rover0,waypoint3,waypoint7)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  7.49  |  2   |    45    |    60     |   17   |   11    |   13   |    7    |   0   |  15   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.75      |    1.00     |    1.00     |   0.84   |    0.81     
+
+
+Successfully executed action 5872: sample_rock(rover0,rover0store,waypoint7)
+operator sample_rock, removed uncertain preconditions ['(equipped_for_imaging ?param_1)']
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  8.45  |  3   |    45    |    59     |   17   |   11    |   13   |    7    |   0   |  14   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.76      |    1.00     |    1.00     |   0.84   |    0.82     
+
+
+Not executable actions: 6863
+Random action chosen
+Successfully executed action 3097: communicate_rock_data(rover0,general,waypoint7,waypoint7,waypoint1)
+operator communicate_rock_data, removed uncertain preconditions ['(equipped_for_imaging ?param_1)']
+removing (equipped_for_imaging ?param_1) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+  9.39  |  4   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Not executable actions: 6863
+Random action chosen
+
+
+Checking feasibility of operator calibrate negated preconditions of length 1
+FD computational time: 0:00:00.803712
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 1
+FD computational time: 0:00:00.822140
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 1
+FD computational time: 0:00:00.825624
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 1
+FD computational time: 0:00:00.827948
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator drop negated preconditions of length 1
+FD computational time: 0:00:00.792653
+Plan computed: False Plan length: None
+The feasibility of operator drop negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 1
+FD computational time: 0:00:00.810394
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_rock negated preconditions of length 1
+FD computational time: 0:00:00.804194
+Plan computed: False Plan length: None
+The feasibility of operator sample_rock negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator sample_soil negated preconditions of length 1
+FD computational time: 0:00:00.810323
+Plan computed: False Plan length: None
+The feasibility of operator sample_soil negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 1
+FD computational time: 0:00:00.799119
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 1 is: False
+
+
+Checking feasibility of operator calibrate negated preconditions of length 2
+FD computational time: 0:00:00.801908
+Plan computed: False Plan length: None
+The feasibility of operator calibrate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 2
+FD computational time: 0:00:00.841833
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 2
+FD computational time: 0:00:00.832309
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 2
+FD computational time: 0:00:00.861826
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 2
+FD computational time: 0:00:00.843743
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 2
+FD computational time: 0:00:00.800816
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 2 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 3
+FD computational time: 0:00:00.884758
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 3
+FD computational time: 0:00:00.842550
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 3
+FD computational time: 0:00:00.835565
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 3
+FD computational time: 0:00:00.839658
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator take_image negated preconditions of length 3
+FD computational time: 0:00:00.808923
+Plan computed: False Plan length: None
+The feasibility of operator take_image negated preconditions of length 3 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 4
+FD computational time: 0:00:00.828883
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 4
+FD computational time: 0:00:00.822900
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 4
+FD computational time: 0:00:00.827171
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 4
+FD computational time: 0:00:00.833977
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 4 is: False
+
+
+Checking feasibility of operator communicate_image_data negated preconditions of length 5
+FD computational time: 0:00:00.810002
+Plan computed: False Plan length: None
+The feasibility of operator communicate_image_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_rock_data negated preconditions of length 5
+FD computational time: 0:00:00.815365
+Plan computed: False Plan length: None
+The feasibility of operator communicate_rock_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator communicate_soil_data negated preconditions of length 5
+FD computational time: 0:00:00.815609
+Plan computed: False Plan length: None
+The feasibility of operator communicate_soil_data negated preconditions of length 5 is: False
+
+
+Checking feasibility of operator navigate negated preconditions of length 5
+FD computational time: 0:00:00.816766
+Plan computed: False Plan length: None
+The feasibility of operator navigate negated preconditions of length 5 is: False
+
+
+
+Looking for new positive effects of learned operators
+Operator calibrate does not admit new positive effects
+Operator communicate_image_data does not admit new positive effects
+Operator communicate_rock_data does not admit new positive effects
+Operator communicate_soil_data does not admit new positive effects
+Operator drop does not admit new positive effects
+Operator navigate does not admit new positive effects
+(exists (?param_1 - rover ?param_2 - store ?param_3 - waypoint) (and (at ?param_1 ?param_3) (at_rock_sample ?param_3) (available ?param_1) (empty ?param_2) (equipped_for_rock_analysis ?param_1) (store_of ?param_2 ?param_1) (not (equipped_for_imaging ?param_1)) ))
+
+
+
+Checking feasibility of operator sample_rock with possible positive effect (equipped_for_imaging ?param_1)
+FD computational time: 0:00:00.851453
+Plan computed: True Plan length: 3
+Successfully executed action 5732: navigate(rover0,waypoint7,waypoint3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.16  |  5   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5698: navigate(rover0,waypoint3,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.20  |  6   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5664: drop(rover0,rover0store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.22  |  7   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5866: sample_rock(rover0,rover0store,waypoint1)
+removing (equipped_for_imaging ?param_1) from possible positive effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 35.63  |  8   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Operator sample_soil does not admit new positive effects
+Operator take_image does not admit new positive effects
+
+
+
+Looking for new negative effects of learned operators
+
+
+Checking feasibility of operator calibrate with possible negative effects
+FD computational time: 0:00:00.813206
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_image_data with possible negative effects
+FD computational time: 0:00:00.844187
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_rock_data with possible negative effects
+FD computational time: 0:00:00.882173
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator communicate_soil_data with possible negative effects
+FD computational time: 0:00:00.862395
+Plan computed: False Plan length: None
+Operator drop does not admit new negative effects
+
+
+Checking feasibility of operator navigate with possible negative effects
+FD computational time: 0:00:00.816730
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator sample_rock with possible negative effects
+FD computational time: 0:00:00.815575
+Plan computed: True Plan length: 3
+Successfully executed action 5843: navigate(rover2,waypoint5,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 40.73  |  9   |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 6003: sample_soil(rover2,rover2store,waypoint2)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 40.75  |  10  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5672: drop(rover2,rover2store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 40.77  |  11  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5931: sample_rock(rover2,rover2store,waypoint2)
+removing (have_soil_analysis ?param_1 ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 41.15  |  12  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+
+
+Checking feasibility of operator sample_rock with possible negative effects
+FD computational time: 0:00:00.830278
+Plan computed: True Plan length: 7
+Successfully executed action 5822: navigate(rover2,waypoint2,waypoint5)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.01  |  13  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5842: navigate(rover2,waypoint5,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.03  |  14  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5789: navigate(rover1,waypoint6,waypoint4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.05  |  15  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5813: navigate(rover2,waypoint1,waypoint4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.08  |  16  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5973: sample_soil(rover1,rover1store,waypoint4)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.10  |  17  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 4929: communicate_soil_data(rover1,general,waypoint4,waypoint4,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.12  |  18  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5672: drop(rover2,rover2store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.14  |  19  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5933: sample_rock(rover2,rover2store,waypoint4)
+removing (communicated_soil_data ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 42.51  |  20  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+
+
+Checking feasibility of operator sample_rock with possible negative effects
+FD computational time: 0:00:00.805623
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator sample_soil with possible negative effects
+FD computational time: 0:00:00.822054
+Plan computed: True Plan length: 4
+Successfully executed action 5834: navigate(rover2,waypoint4,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.18  |  21  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5672: drop(rover2,rover2store)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.20  |  22  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 5684: navigate(rover0,waypoint1,waypoint3)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.23  |  23  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 2681: communicate_rock_data(rover0,general,waypoint1,waypoint3,waypoint1)
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.25  |  24  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+Successfully executed action 6002: sample_soil(rover2,rover2store,waypoint1)
+removing (communicated_rock_data ?param_3) from possible negative effects
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 44.65  |  25  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+
+
+Checking feasibility of operator sample_soil with possible negative effects
+FD computational time: 0:00:00.821193
+Plan computed: False Plan length: None
+
+
+Checking feasibility of operator take_image with possible negative effects
+FD computational time: 0:00:00.809337
+Plan computed: False Plan length: None
+
+
+
+ Checking known positive effects of learned operators
+Operator calibrate has no known positive effects to check
+Operator communicate_image_data has no known positive effects to check
+Operator communicate_rock_data has no known positive effects to check
+Operator communicate_soil_data has no known positive effects to check
+Operator drop has no known positive effects to check
+Operator navigate has no known positive effects to check
+Operator sample_rock has no known positive effects to check
+Operator sample_soil has no known positive effects to check
+Operator take_image has no known positive effects to check
+
+
+
+ Checking known negative effects of learned operators
+Operator calibrate has no known negative effects to check
+Operator communicate_image_data has no known negative effects to check
+Operator communicate_rock_data has no known negative effects to check
+Operator communicate_soil_data has no known negative effects to check
+Operator drop has no known negative effects to check
+Operator navigate has no known negative effects to check
+Operator sample_rock has no known negative effects to check
+Operator sample_soil has no known negative effects to check
+Operator take_image has no known negative effects to check
+
+
+
+
+
+Model convergence reached.
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.31  |  26  |    45    |    58     |   17   |   11    |   13   |    7    |   0   |  13   |   6   |   0   |   6   |   0   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    1.00     |   0.84   |    0.83     
+
+
+-------------- METRICS WITH UNCERTAIN NEGATIVE EFFECTS --------------
+
+
+  Time  | Iter |Real_precs|Learn_precs|Real_pos|Learn_pos|Real_neg|Learn_neg|Ins_pre|Del_pre|Ins_pos|Del_pos|Ins_neg|Del_neg|Precs_recall|Pos_recall|Neg_recall|Precs_precision|Pos_precision|Neg_precision|Tot_recall|Tot_precision
+ 46.31  |  26  |    45    |    58     |   17   |   11    |   13   |   45    |   0   |  13   |   6   |   0   |   6   |  38   |    1.00    |   0.65   |   0.54   |     0.78      |    1.00     |    0.16     |   0.84   |    0.55     
+
+
