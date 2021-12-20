@@ -1,5 +1,5 @@
 # Online Learning of Action Models (OLAM) for classical planning 
-This repository contains the code of the OLAM algorithm presented at IJCAI 2021, for details about the method please see the [paper](https://www.ijcai.org/proceedings/2021/0566.pdf).
+This repository contains the official code of the OLAM algorithm presented at IJCAI 2021, for details about the method please see the [paper](https://www.ijcai.org/proceedings/2021/0566.pdf).
 
 
 ## Installation
@@ -44,3 +44,21 @@ When you run OLAM, a new directory (e.g. "run_0") with all logs and results is c
 3. Results_uncert_neg: contains one excel file for each domain with the metrics reported in the [paper](https://www.ijcai.org/proceedings/2021/0566.pdf), the evaluation consider the model <img src="https://render.githubusercontent.com/render/math?math=M^-_?"> with uncertain negative effects (i.e. "domain_learned.pddl")
 
 
+## Citations
+If you find OLAM useful, please cite this paper:
+```
+@inproceedings{ijcai2021-566,
+  title     = {Online Learning of Action Models for PDDL Planning},
+  author    = {Lamanna, Leonardo and Saetti, Alessandro and Serafini, Luciano and Gerevini, Alfonso and Traverso, Paolo},
+  booktitle = {Proceedings of the Thirtieth International Joint Conference on
+               Artificial Intelligence, {IJCAI-21}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Zhi-Hua Zhou},
+  pages     = {4112--4118},
+  year      = {2021},
+  month     = {8},
+  note      = {Main Track}
+  doi       = {10.24963/ijcai.2021/566},
+  url       = {https://doi.org/10.24963/ijcai.2021/566},
+}
+```
