@@ -1,2 +1,3 @@
-# ALP_Logistics
-Trucks world
+# OLAM
+Online action model learning for classical planning
+
