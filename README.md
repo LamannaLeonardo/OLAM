@@ -1,5 +1,5 @@
 # Online Learning of Action Models (OLAM) for classical planning 
-This repository contains the official code of the OLAM algorithm presented at IJCAI 2021, for details about the method please see the [paper](https://www.ijcai.org/proceedings/2021/0566.pdf).
+This [repository](https://github.com/LamannaLeonardo/OLAM) contains the official code of the OLAM algorithm presented at IJCAI 2021, for details about the method please see the [paper](https://www.ijcai.org/proceedings/2021/0566.pdf).
 
 
 ## Installation
