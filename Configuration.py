@@ -1,3 +1,9 @@
+# Copyright (c) 2022, Leonardo Lamanna
+# All rights reserved.
+# This source code is licensed under the MIT-style license found in the
+# LICENSE file in the root directory of this source tree.
+
+
 # Output in console or in log file, set to True for debugging
 OUTPUT_CONSOLE = False
 
