@@ -62,3 +62,6 @@ If you find OLAM useful, please cite this paper:
   url       = {https://doi.org/10.24963/ijcai.2021/566},
 }
 ```
+
+## License
+[I'm a relative reference to a repository file](/LICENSE)
