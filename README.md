@@ -64,4 +64,4 @@ If you find OLAM useful, please cite this paper:
 ```
 
 ## License
-[I'm a relative reference to a repository file](/LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
