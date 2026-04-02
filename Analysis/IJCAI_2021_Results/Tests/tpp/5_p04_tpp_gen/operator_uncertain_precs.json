@@ -1,9 +1,0 @@
-{
-  "buy": [],
-  "drive": [
-    "(connected ?param_2 ?param_3)",
-    "(connected ?param_3 ?param_2)"
-  ],
-  "load": [],
-  "unload": []
-}

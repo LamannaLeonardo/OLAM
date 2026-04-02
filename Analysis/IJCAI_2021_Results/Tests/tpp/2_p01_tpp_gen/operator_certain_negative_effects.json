@@ -1,8 +1,0 @@
-{
-  "drive": [
-    "(not (at ?param_1 ?param_2))"
-  ],
-  "buy": [],
-  "load": [],
-  "unload": []
-}

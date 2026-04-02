@@ -1,8 +1,0 @@
-{
-  "drive": [
-    "(road ?param_2 ?param_3)",
-    "(road ?param_3 ?param_2)"
-  ],
-  "drop": [],
-  "pick-up": []
-}
