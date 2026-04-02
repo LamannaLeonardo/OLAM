@@ -171,3 +171,4 @@ Java/*
 res*
 *.egg-info
 stats.py
+*/__pycache__/
