@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools", "wheel", "cython"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+ext-modules = [
+  {name = "olam.util.executability.executability_cy", sources = ["olam/util/executability/executability_cy.pyx"]}
+]
+
+[tool.setuptools.packages.find]
+include = ["olam", "olam.*"]
+
+[tool.setuptools.package-data]
+"olam.benchmarks" = ["**/*"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--ignore=tests/heavy"
+
+[project]
+name = "olam"
+version = "1.0.0"
+dynamic = ["dependencies"]
+requires-python = ">=3.10"
+maintainers = [
+  {name = "Leonardo Lamanna", email = "llamanna@fbk.eu"},
+]
+description = "Online Learning of Action Models (OLAM)."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICEN[CS]E.*"]
+keywords = ["action model learning", "domain model learning", "action model acquisition"]
+classifiers = [
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage = "https://github.com/LamannaLeonardo/OLAM"
+Documentation = "https://github.com/LamannaLeonardo/OLAM"
+Repository = "https://github.com/LamannaLeonardo/OLAM"
+"Bug Tracker" = "https://github.com/LamannaLeonardo/OLAM/issues"
+
+[tool.ruff]
+# Set line length
+line-length = 88
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "F",   # pyflakes
+    "I",   # import sorting
+    "UP",  # pyupgrade
+    "B",   # bugbear
+#    "ANN",  # annotation checks
+]
+ignore = ["E501"]

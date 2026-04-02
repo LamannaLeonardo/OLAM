@@ -1,6 +1,0 @@
-{
-  "move": [
-    "(clear ?param_2)",
-    "(on ?param_1 ?param_3)"
-  ]
-}
