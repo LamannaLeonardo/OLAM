@@ -12,6 +12,7 @@
 [//]: # (    <img src="https://readthedocs.org/projects/amlgym/badge/?version=latest" height="20"/></a>)
 
 </div>
+
 This repository contains the *refactored* code of the 
 Online Learning of Action Models (OLAM) algorithm presented at IJCAI 2021, 
 for details about the method please see 
