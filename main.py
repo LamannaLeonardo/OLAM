@@ -10,7 +10,7 @@ from pathlib import Path
 import numpy as np
 import unified_planning
 from amlgym.metrics import syntactic_precision, syntactic_recall
-from amlgym.util.util import empty_domain
+from olam.util.util import empty_domain
 from unified_planning.io import PDDLReader, PDDLWriter
 from unified_planning.shortcuts import SequentialSimulator
 
