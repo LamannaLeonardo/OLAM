@@ -62,7 +62,7 @@ pip install -e .
   author    = {Lamanna, Leonardo and Saetti, Alessandro and Serafini, Luciano and Gerevini, Alfonso and Traverso, Paolo},
   booktitle = {Proceedings of the Thirtieth International Joint Conference on
                Artificial Intelligence, {IJCAI-21}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  publisher = {International Joint Conferences on Artificial Intelligence},
   pages     = {4112--4118},
   year      = {2021},
   doi       = {10.24963/ijcai.2021/566},
