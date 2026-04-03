@@ -24,6 +24,7 @@ class OLAM:
                  planning_timeout: int = 30,
                  max_length: int = 8,
                  max_subproblems: int = 5,
+                 max_goals: int = 10000,
                  ):
         """
         Class that implements the Online Learning of Action Models (OLAM) algorithm.
@@ -43,6 +44,10 @@ class OLAM:
                                     handling object types ambiguity, where each
                                     subproblem is associated with a combination of
                                     objects (sub)types.
+            max_goals (int): Maximum number of disjunctions in a goal formula used
+                              during planning for learning preconditions and effects.
+                              When the number of generated goals exceeds this limit,
+                              some goals are discarded.
 
         Example:
             .. code-block:: python
@@ -129,6 +134,8 @@ class OLAM:
 
         self.max_subproblems = max_subproblems
 
+        self.max_goals = max_goals
+
         # Episode-specific information
         self.simulator = None
         self.initial_state = None
@@ -199,7 +206,8 @@ class OLAM:
         self.learner = Learner(self.domain,
                                self.all_objects,
                                max_length=self.max_length,
-                               max_subproblems=self.max_subproblems)
+                               max_subproblems=self.max_subproblems,
+                               max_goals=self.max_goals)
         self.action_generator = ActionGenerator(
             self.domain,
             self.all_grounded_actions,
