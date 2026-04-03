@@ -1,10 +1,38 @@
 import itertools
+import re
 
+from unified_planning.io import PDDLReader, PDDLWriter
 from unified_planning.model import Fluent, Object, Problem
 from unified_planning.plans import ActionInstance
 from unified_planning.shortcuts import BoolType
 
 from olam.modeling.symbolic_observation import SymbolicObservation
+
+
+def empty_domain(domain_path: str, empty_domain_path: str = 'empty.pddl'):
+    pddl_domain = PDDLReader().parse_problem(domain_path)
+
+    # Loop through all actions and remove preconditions and effects
+    for action in pddl_domain.actions:
+        action.clear_preconditions()
+        action.clear_effects()
+
+    domain_str = PDDLWriter(pddl_domain).get_domain()
+    pattern = re.compile(
+        r"(:action[\s\S]*?:parameters\s*\([^)]*\))\)",
+        re.MULTILINE
+    )
+
+    replacement = r"\1\n  :precondition (and )\n  :effect (and ))\n"
+
+    # TODO: open issue in up
+    domain_str = domain_str.replace(f"(domain {pddl_domain.name}-domain)",
+                                    f"(domain {pddl_domain.name})")
+
+    with open(empty_domain_path, 'w') as f:
+        f.write(pattern.sub(replacement, domain_str))
+
+    return empty_domain_path
 
 
 def ground_lifted_atoms(action_instance: ActionInstance, lifted_atoms):

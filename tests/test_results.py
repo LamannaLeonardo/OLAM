@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 import pytest
 from amlgym.metrics import syntactic_precision, syntactic_recall
-from amlgym.util.util import empty_domain
+from olam.util.util import empty_domain
 from unified_planning.io import PDDLReader
 from unified_planning.shortcuts import SequentialSimulator
 
