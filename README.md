@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 Refactored implementation of the **Online Learning of Action Models (OLAM)** algorithm, presented at **IJCAI 2021** ([paper](https://www.ijcai.org/proceedings/2021/0566.pdf)).
 
@@ -45,7 +44,6 @@ git clone https://github.com/LamannaLeonardo/OLAM.git
 cd OLAM
 pip install -e .
 ```
-> OLAM is integrated into  [AMLGYM](https://github.com/LamannaLeonardo/OLAM/tree/ijcai-2021).
 
 
 ---
