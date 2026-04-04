@@ -38,7 +38,7 @@ class Trajectory:
                 else:
                     trajectory_str += f"{literal}, "
             if i < len(self.observations) - 1:
-                trajectory_str += f"\n (action {self.actions[i].action.name} )\n"
+                trajectory_str += f"\n(:action {self.actions[i]})\n"
         return trajectory_str
 
     def __repr__(self):
