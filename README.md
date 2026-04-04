@@ -27,6 +27,15 @@ OLAM learns PDDL action models online â€” interleaving planning and execution â€
 pip install olam
 ```
 
+### From [AMLGym](https://amlgym.readthedocs.io/en/latest/index.html)
+```bash
+pip install amlgym
+```
+
+Please refer to [OLAM integration in AMLGym](https://amlgym.readthedocs.io/en/latest/active_algorithms/olam.html)
+for a usage example.
+
+
 ### For developers
 
 Clone the repository and install in editable mode:
@@ -36,6 +45,8 @@ git clone https://github.com/LamannaLeonardo/OLAM.git
 cd OLAM
 pip install -e .
 ```
+> OLAM is integrated into  [AMLGYM](https://github.com/LamannaLeonardo/OLAM/tree/ijcai-2021).
+
 
 ---
 
@@ -105,7 +116,7 @@ The following table reports for each domain the *syntactic precision and recall*
 
 ## Citation
 
-If you find this code useful for your research, please cite:
+If you find OLAM useful for your research, please cite the following paper:
 
 ```bibtex
 @inproceedings{ijcai2021-566,
