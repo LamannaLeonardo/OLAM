@@ -52,27 +52,33 @@ class OLAM:
         Example:
             .. code-block:: python
 
-                from amlgym.util.util import empty_domain
                 from unified_planning.io import PDDLReader
-                from olam.OLAM import OLAM
                 from unified_planning.shortcuts import SequentialSimulator
-                import unified_planning
+                from amlgym.benchmarks import get_domain_path, get_problems_path
+                from amlgym.util.util import empty_domain
 
-                # Disable printing of planning engine credits
-                unified_planning.shortcuts.get_environment().credits_stream = None
+                from olam.OLAM import OLAM
 
-                domain_ref_path = "olam/benchmarks/domains/blocksworld.pddl"
-                problem_path = "olam/benchmarks/problems/blocksworld/1_p00_blocksworld_gen.pddl"
-                empty_domain_path = empty_domain(domain_ref_path)
-                olam = OLAM(empty_domain_path)
+                # Instantiate a simulated environment from a PDDL domain and problem
+                domain = 'blocksworld'
+                domain_ref_path = get_domain_path(domain)
+                problem_path = get_problems_path(domain, kind='learning')[0]
+                problem = PDDLReader().parse_problem(domain_ref_path, problem_path)
+                env = SequentialSimulator(problem=problem)
 
-                sim_problem = PDDLReader().parse_problem(domain_ref_path,
-                                                         problem_path)
-                simulator = SequentialSimulator(sim_problem)
-                learned_domain_str, trajectory = olam.run(simulator, max_steps=100)
+                # Get an input domain path with predicates and operators signature
+                input_domain_path = empty_domain(domain_ref_path)
 
-                print(f"Generated a trajectory with {len(trajectory.observations)} states")
-                print(f"Domain learned: {learned_domain_str}")
+                # Run the OLAM algorithm
+                olam = OLAM(input_domain_path)
+                domain_learned, trajectory = olam.run(env, max_steps=100)
+
+                # Print learned domain and produced trajectory
+                print("##################### Learned domain #####################")
+                print(domain_learned)
+
+                print("################# Generated trajectory ##################")
+                print(trajectory)
 
         """
 
