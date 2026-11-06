@@ -412,7 +412,14 @@ class OLAM:
         dummy = Fluent("dummy", BoolType())
         for a in domain.actions:
             a.add_effect(dummy, True)
-        domain_str = PDDLWriter(domain).get_domain()
+        writer = PDDLWriter(domain)
+        # unified-planning writes only the constants used in action bodies, which
+        # learned actions never mention; the input domain's objects are its constants
+        constants = {}
+        for obj in domain.all_objects:
+            constants.setdefault(obj.type, set()).add(obj)
+        writer.domain_objects = constants
+        domain_str = writer.get_domain()
         domain_str = domain_str.replace("(dummy)", "")
 
         return domain_str, traj

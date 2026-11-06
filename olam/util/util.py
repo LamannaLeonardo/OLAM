@@ -1,15 +1,28 @@
 import itertools
+import os
 import re
 
 from unified_planning.io import PDDLReader, PDDLWriter
-from unified_planning.model import Fluent, Object, Problem
+from unified_planning.model import Fluent, Object, Problem, Type
 from unified_planning.plans import ActionInstance
 from unified_planning.shortcuts import BoolType
 
 from olam.modeling.symbolic_observation import SymbolicObservation
 
 
-def empty_domain(domain_path: str, empty_domain_path: str = 'empty.pddl'):
+def empty_domain(domain_path: str, empty_domain_path: str = 'empty.pddl') -> str:
+    """
+    Write a copy of a domain whose actions have empty preconditions and effects,
+    keeping the domain types, constants and predicates.
+
+    :param domain_path: path of the reference PDDL domain
+    :param empty_domain_path: path where the empty domain is written
+    :return: the path of the empty domain
+    :raises FileNotFoundError: if ``domain_path`` does not exist
+    """
+    if not os.path.isfile(domain_path):
+        raise FileNotFoundError(f"Domain file not found: {domain_path}")
+
     pddl_domain = PDDLReader().parse_problem(domain_path)
 
     # Loop through all actions and remove preconditions and effects
@@ -17,7 +30,16 @@ def empty_domain(domain_path: str, empty_domain_path: str = 'empty.pddl'):
         action.clear_preconditions()
         action.clear_effects()
 
-    domain_str = PDDLWriter(pddl_domain).get_domain()
+    writer = PDDLWriter(pddl_domain)
+    # unified-planning writes only the constants occurring in action bodies, which
+    # are now empty; without a problem file, the parsed objects are exactly the
+    # domain constants, e.g. childsnack's kitchen, which problem files use without
+    # declaring
+    constants: dict[Type, set[Object]] = {}
+    for obj in pddl_domain.all_objects:
+        constants.setdefault(obj.type, set()).add(obj)
+    writer.domain_objects = constants
+    domain_str = writer.get_domain()
     pattern = re.compile(
         r"(:action[\s\S]*?:parameters\s*\([^)]*\))\)",
         re.MULTILINE
@@ -128,8 +150,9 @@ def build_up_problem(
 ) -> Problem:
     problem = domain.clone()
 
-    # Set objects
-    problem.add_objects(all_objects)
+    # Set objects, skipping the domain constants, which the cloned domain
+    # already declares
+    problem.add_objects([o for o in all_objects if not problem.has_object(o.name)])
 
     # Set initial state
     for f, value in state.fluents.items():
