@@ -28,6 +28,8 @@ def construct_problem(domain: Problem, state: State) -> Problem:
                         specialized_types[current_obj.name] = True
 
     for obj_name, obj_type in objects_type.items():
-        problem.add_object(obj_name, obj_type)
+        # Domain constants are already objects of the cloned domain
+        if not problem.has_object(obj_name):
+            problem.add_object(obj_name, obj_type)
 
     return problem
